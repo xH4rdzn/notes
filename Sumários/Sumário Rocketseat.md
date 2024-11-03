@@ -1,139 +1,139 @@
 ___
 ## CSharp
 ##### Primeiros Passos
-1. [[Namespace]]
-2. [[O que são Classes]]
-3. [[O que são funções]]
-4. [[Utilizando outras classes]]
-5. [[Modificadores de acesso]]
+1. [Namespace](../CSharp/Namespace.md)
+2. [O que são Classes](../CSharp/O%20que%20são%20Classes.md)
+3. [O que são funções](../CSharp/O%20que%20são%20funções.md)
+4. [Utilizando outras classes](../CSharp/Utilizando%20outras%20classes.md)
+5. [Modificadores de acesso](../CSharp/Modificadores%20de%20acesso.md)
 
 ##### Fundamentos
-1. [[Tipos Numéricos]]
-2. [[Tipo Booleano]]
-3. [[Tipos de texto]]
-4. [[Operações com texto]]
-5. [[Datas e Horas]]
-6. [[Enums]]
-7. [[Var]]
-8. [[Objects]]
-9. [[Null]]
-10. [[Arrays]]
-11. [[Listas]]
-12. [[Dicionários]]
-13. [[HashSet]]
-14. [[Funções com Parâmetros]]
-15. [[Funções devolvendo valores]]
-16. [[Parâmetros opcionais]]
-17. [[Criando classes com valores]]
-18. [[O que é Static]]
-19. [[O que é e como fazer debug ]]
-20. [[if, else e else if]]
-21. [[Condicional Ternário]]
-22. [[Switch]]
-23. [[For]]
-24. [[Foreach]]
-25. [[While]]
-26. [[Do While]]
-27. [[Break]]
-28. [[Continue]]
-29. [[Return]]
+1. [Tipos Numéricos](../CSharp/Tipos%20Numéricos.md)
+2. [Tipo Booleano](../CSharp/Tipo%20Booleano.md)
+3. [Tipos de texto](../CSharp/Tipos%20de%20texto.md)
+4. [Operações com texto](../CSharp/Operações%20com%20texto.md)
+5. [Datas e Horas](../CSharp/Datas%20e%20Horas.md)
+6. [Enums](../CSharp/Enums.md)
+7. [Var](../CSharp/Var.md)
+8. [Objects](../CSharp/Objects.md)
+9. [Null](../CSharp/Null.md)
+10. [Arrays](../CSharp/Arrays.md)
+11. [Listas](../CSharp/Listas.md)
+12. [Dicionários](../CSharp/Dicionários.md)
+13. [HashSet](../CSharp/HashSet.md)
+14. [Funções com Parâmetros](../CSharp/Funções%20com%20Parâmetros.md)
+15. [Funções devolvendo valores](../CSharp/Funções%20devolvendo%20valores.md)
+16. [Parâmetros opcionais](../CSharp/Parâmetros%20opcionais.md)
+17. [Criando classes com valores](../CSharp/Criando%20classes%20com%20valores.md)
+18. [O que é Static](../CSharp/O%20que%20é%20Static.md)
+19. [O que é e como fazer debug ](../CSharp/O%20que%20é%20e%20como%20fazer%20debug.md)
+20. [if, else e else if](../CSharp/if,%20else%20e%20else%20if.md)
+21. [Condicional Ternário](../CSharp/Condicional%20Ternário.md)
+22. [Switch](../CSharp/Switch.md)
+23. [For](../CSharp/For.md)
+24. [Foreach](../CSharp/Foreach.md)
+25. [While](../CSharp/While.md)
+26. [Do While](../CSharp/Do%20While.md)
+27. [Break](../CSharp/Break.md)
+28. [Continue](../CSharp/Continue.md)
+29. [Return](../CSharp/Return.md)
 
 ##### Fundamentos do .NET
-1. [[O que é o .NET]]
-2. [[Compilação e execução]]
-3. [[CLI do .NET]]
+1. [O que é o .NET](../CSharp/O%20que%20é%20o%20.NET.md)
+2. [Compilação e execução](../CSharp/Compilação%20e%20execução.md)
+3. [CLI do .NET](../CSharp/CLI%20do%20.NET.md)
 
 
 ##### Minha primeira API em .NET
-1. [[Criando um projeto de API]]
-2. [[Properties]]
-3. [[O arquivo Program.cs]]
-4. [[Função do AppSettings.json]]
-5. [[Lendo o AppSettings.json]]
+1. [Criando um projeto de API](../CSharp/Criando%20um%20projeto%20de%20API.md)
+2. [Properties](../CSharp/Properties.md)
+3. [O arquivo Program.cs](../CSharp/O%20arquivo%20Program.cs.md)
+4. [Função do AppSettings.json]()
+5. [Lendo o AppSettings.json]()
 
 ---
 
 ## Node - FullStack
 
 ##### Criando API REST
-1. [[O que é uma API Rest]]
-2. [[Criando projeto]]
-3. [[Adicionando o TypeScript]]
-4. [[Compilando TypeScript]]
-5. [[Executando TypeScript com tsx]]
-6. [[Configurando o TypeScript]]
-7. [[Instalando e utilizando o Express]]
-8. [[Criando API com Express]]
-9. [[Enviando requisição com o método GET]]
-10. [[Route Params]]
-11. [[Query Params]]
-12. [[Dados no corpo da requisição]]
-13. [[Resposta com JSON e Status Code]]
-14. [[Middleware Global]]
-15. [[Middleware Local]]
-16. [[Modificando requisição e arquivo d.ts]]
-17. [[Separando as Rotas]]
-18. [[Controller]]
-19. [[Tratando exceções]]
-20. [[AppError]]
-21. [[Tratando requisição]]
-22. [[Instalando o Zod]]
-23. [[Validando tipo de dado]]
-24. [[Formatando mensagens de erro com zod]]
-25. [[Nullish]]
-26. [[Customizar mensagem do zod]]
-27. [[Adicionando regras de validação]]
+1. [O que é uma API Rest](../Node/O%20que%20é%20uma%20API%20Rest.md)
+2. [Criando projeto](../Node/Criando%20projeto.md)
+3. [Adicionando o TypeScript](../Node/Adicionando%20o%20TypeScript.md)
+4. [Compilando TypeScript](../Node/Compilando%20TypeScript.md)
+5. [Executando TypeScript com tsx](../Node/Executando%20TypeScript%20com%20tsx.md)
+6. [Configurando o TypeScript](../Node/Configurando%20o%20TypeScript.md)
+7. [Instalando e utilizando o Express](../Node/Instalando%20e%20utilizando%20o%20Express.md)
+8. [Criando API com Express](../Node/Criando%20API%20com%20Express.md)
+9. [Enviando requisição com o método GET](../Node/Enviando%20requisição%20com%20o%20método%20GET.md)
+10. [Route Params](../Node/Route%20Params.md)
+11. [Query Params](../Node/Query%20Params.md)
+12. [Dados no corpo da requisição](../Node/Dados%20no%20corpo%20da%20requisição.md)
+13. [Resposta com JSON e Status Code](../Node/Resposta%20com%20JSON%20e%20Status%20Code.md)
+14. [Middleware Global](../Node/Middleware%20Global.md)
+15. [Middleware Local](../Node/Middleware%20Local.md)
+16. [Modificando requisição e arquivo d.ts](../Node/Modificando%20requisição%20e%20arquivo%20d.ts.md)
+17. [Separando as Rotas](../Node/Separando%20as%20Rotas.md)
+18. [Controller](../Node/Controller.md)
+19. [Tratando exceções](../Node/Tratando%20exceções.md)
+20. [AppError](../Node/AppError.md)
+21. [Tratando requisição](../Node/Tratando%20requisição.md)
+22. [Instalando o Zod](../Node/Instalando%20o%20Zod.md)
+23. [Validando tipo de dado](../Node/Validando%20tipo%20de%20dado.md)
+24. [Formatando mensagens de erro com zod](../Node/Formatando%20mensagens%20de%20erro%20com%20zod.md)
+25. [Nullish](../Node/Nullish.md)
+26. [Customizar mensagem do zod](../Node/Customizar%20mensagem%20do%20zod.md)
+27. [Adicionando regras de validação](../Node/Adicionando%20regras%20de%20validação.md)
 
 ##### Banco de dados
-1. [[Introdução a banco de dados]]
-2. [[Banco de dados Relacional]]
-3. [[SQLite]]
-4. [[Criando o banco de dados - SQLite]]
-5. [[Tipos de Dados]]
-6. [[Criando tabela via código - SQL]]
-7. [[Adicionando e removendo coluna]]
-8. [[Renomeando coluna]]
-9. [[Renomear tabela]]
-10. [[Remover Tabela]]
-11. [[Inserindo e selecionando dados]]
-12. [[Visualizando dados]]
-13. [[Atualizando dados]]
-14. [[Removendo registros]]
-15. [[Where com Igualdade]]
-16. [[Where com like]]
-17. [[Filtrando valores]]
-18. [[Operadores AND e OR]]
-19. [[Between]]
-20. [[IN]]
-21. [[Order by]]
-22. [[LIMIT]]
-23. [[Count]]
-24. [[Sum]]
-25. [[Avg]]
-26. [[Aliases]]
-27. [[Group By]]
-28. [[Compreendendo Relacionamentos]]
-29. [[Tipos de Relacionamentos]]
-30. [[Relacionamento Um para Um]]
-31. [[Inner Join]]
-32. [[Relacionamento Um para Muitos]]
-33. [[Relacionamento Muito para Muitos]]
+1. [Introdução a banco de dados](../Banco%20De%20dados/Introdução%20a%20banco%20de%20dados.md)
+2. [Banco de dados Relacional](../Banco%20De%20dados/Banco%20de%20dados%20Relacional.md)
+3. [SQLite](../Banco%20De%20dados/SQLite.md)
+4. [Criando o banco de dados - SQLite](../Banco%20De%20dados/Criando%20o%20banco%20de%20dados%20-%20SQLite.md)
+5. [Tipos de Dados](../Banco%20De%20dados/Tipos%20de%20Dados.md)
+6. [Criando tabela via código - SQL](../Banco%20De%20dados/Criando%20tabela%20via%20código%20-%20SQL.md)
+7. [Adicionando e removendo coluna](../Banco%20De%20dados/Adicionando%20e%20removendo%20coluna.md)
+8. [Renomeando coluna](../Banco%20De%20dados/Renomeando%20coluna.md)
+9. [Renomear tabela](../Banco%20De%20dados/Renomear%20tabela.md)
+10. [Remover Tabela](../Banco%20De%20dados/Remover%20Tabela.md)
+11. [Inserindo e selecionando dados](../Banco%20De%20dados/Inserindo%20e%20selecionando%20dados.md)
+12. [Visualizando dados](../Banco%20De%20dados/Visualizando%20dados.md)
+13. [Atualizando dados](../Banco%20De%20dados/Atualizando%20dados.md)
+14. [Removendo registros](../Banco%20De%20dados/Removendo%20registros.md)
+15. [Where com Igualdade](../Banco%20De%20dados/Where%20com%20Igualdade.md)
+16. [Where com like](../Banco%20De%20dados/Where%20com%20like.md)
+17. [Filtrando valores](../Banco%20De%20dados/Filtrando%20valores.md)
+18. [Operadores AND e OR](../Banco%20De%20dados/Operadores%20AND%20e%20OR.md)
+19. [Between](../Banco%20De%20dados/Between.md)
+20. [IN](../Banco%20De%20dados/IN.md)
+21. [Order by](../Banco%20De%20dados/Order%20by.md)
+22. [LIMIT](../Banco%20De%20dados/LIMIT.md)
+23. [Count](../Banco%20De%20dados/Count.md)
+24. [Sum](../Banco%20De%20dados/Sum.md)
+25. [Avg](../Banco%20De%20dados/Avg.md)
+26. [Aliases](../Banco%20De%20dados/Aliases.md)
+27. [Group By](../Banco%20De%20dados/Group%20By.md)
+28. [Compreendendo Relacionamentos](../Banco%20De%20dados/Compreendendo%20Relacionamentos.md)
+29. [Tipos de Relacionamentos](../Banco%20De%20dados/Tipos%20de%20Relacionamentos.md)
+30. [Relacionamento Um para Um](../Banco%20De%20dados/Relacionamento%20Um%20para%20Um.md)
+31. [Inner Join](../Banco%20De%20dados/Inner%20Join.md)
+32. [Relacionamento Um para Muitos](../Banco%20De%20dados/Relacionamento%20Um%20para%20Muitos.md)
+33. [Relacionamento Muito para Muitos](../Banco%20De%20dados/Relacionamento%20Muito%20para%20Muitos.md)
 
 ##### Query Builder
-1. [[O que é um Query Builder]]
-2. [[Instalando o Knex.js]]
-3. [[Compreendendo o que são migrations]]
-4. [[Configurando o Knex.js]]
-5. [[Script de execução]]
-6. [[Criando tabela]]
-7. [[Criando migration para alterar tabela]]
-8. [[Revertendo migration]]
-9. [[Método de Insert]]
-10. [[Insert com Knex Raw]]
-11. [[Select]]
-12. [[Update]]
-13. [[Delete]]
-14. [[Utilizando Seed]]
-15. [[Criando relacionamento]]
-16. [[Cadastrando Módulos]]
-17. [[Select com Join]]
+1. [O que é um Query Builder](../Node/O%20que%20é%20um%20Query%20Builder.md)
+2. [Instalando o Knex.js](../Node/Instalando%20o%20Knex.js.md)
+3. [Compreendendo o que são migrations](../Node/Compreendendo%20o%20que%20são%20migrations.md)
+4. [Configurando o Knex.js](../Node/Configurando%20o%20Knex.js.md)
+5. [Script de execução](../Node/Script%20de%20execução.md)
+6. [Criando tabela](../Node/Criando%20tabela.md)
+7. [Criando migration para alterar tabela](../Node/Criando%20migration%20para%20alterar%20tabela.md)
+8. [Revertendo migration](../Node/Revertendo%20migration.md)
+9. [Método de Insert](../Node/Método%20de%20Insert.md)
+10. [Insert com Knex Raw](../Node/Insert%20com%20Knex%20Raw.md)
+11. [Select](../Node/Select.md)
+12. [Update](../Node/Update.md)
+13. [Delete](../Node/Delete.md)
+14. [Utilizando Seed](../Node/Utilizando%20Seed.md)
+15. [Criando relacionamento](../Node/Criando%20relacionamento.md)
+16. [Cadastrando Módulos](../Node/Cadastrando%20Módulos.md)
+17. [Select com Join](../Node/Select%20com%20Join.md)

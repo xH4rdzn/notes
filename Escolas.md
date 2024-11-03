@@ -1,7 +1,7 @@
 ___
-1. [[Sumário Rocketseat|Rocketseat]]
-2. [[Sumário Rasmoo!|Rasmoo!]]
-3. [[Sumário AlgaWorks|Algaworks]]
-4. [[Sumário OneBitCode|One Bit Code]]
-5. [[Sumário Udemy|Udemy]]
-6. [[Sumário Descomplica|Descomplica]]
+1. [Rocketseat](./Sumários/Sumário%20Rocketseat.md)
+2. [Rasmoo!](./Sumários/Sumário%20Rasmoo!.md)
+3. [Algaworks](./Sumários/Sumário%20AlgaWorks.md)
+4. [One Bit Code](./Sumários/Sumário%20OneBitCode.md)
+5. [Udemy](./Sumários/Sumário%20Udemy.md)
+6. [Descomplica](./Sumários/Sumário%20Descomplica.md)
