@@ -145,4 +145,11 @@ ___
 4. [Docker Ignore](../Node/Docker%20Ignore.md)
 5. [Build Dockerfile](../Node/Build%20Dockerfile.md)
 6. [Rodando nosso Container](../Node/Rodando%20nosso%20Container.md)
-7. 
+7. [Executando em Background](../Node/Executando%20em%20Background.md)
+8. [Visualizando Logs e Histórico](../Node/Visualizando%20Logs%20e%20Histórico.md)
+9. [Estados do Container](../Node/Estados%20do%20Container.md)
+10. [Removendo Container e Imagem](../Node/Removendo%20Container%20e%20Imagem.md)
+11. [Utilizando Tag para versionar imagens](../Node/Utilizando%20Tag%20para%20versionar%20imagens.md)
+12. [Efemeridade em Containers](../Node/Efemeridade%20em%20Containers.md)
+13. [[Acessando Diretório de Trabalho]]
+14. [[Efemeridade na Prática]]
