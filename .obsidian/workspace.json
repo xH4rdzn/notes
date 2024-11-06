@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51c9aa0ff3465caa",
+        "id": "17c4185fb02ae432",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f073dbb763d09f",
+            "id": "8bb0be59189ffe12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node/AppError.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AppError"
+              "title": "Nova aba"
             }
           }
         ]
@@ -161,10 +157,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e8f073dbb763d09f",
+  "active": "8bb0be59189ffe12",
   "lastOpenFiles": [
+    "Node/Persistindo Informações nos Volumes.md",
+    "Node/Criando Volumes.md",
     "Sumários/Sumário Rocketseat.md",
     "Escolas.md",
+    "Pagtalent.md",
+    "Node/Efemeridade na Prática.md",
+    "Node/Acessando Diretório de Trabalho.md",
+    "Node/AppError.md",
     "Node/Controller.md",
     "Node/Separando as Rotas.md",
     "Node/Instalando e utilizando o Express.md",
@@ -176,7 +178,6 @@
     "Faculdade/Prática Integradora Tecnologias Disruptivas",
     "Faculdade",
     "().md",
-    "Node/Acessando Diretório de Trabalho.md",
     "Node/Efemeridade em Containers.md",
     "Node/Utilizando Tag para versionar imagens.md",
     "Node/Removendo Container e Imagem.md",
@@ -187,12 +188,7 @@
     "Sumários/Sumário FullCycle.md",
     "FullCycle/Docker",
     "Node/Rodando nosso Container.md",
-    "Node/Build Dockerfile.md",
     "FullCycle",
-    "Node/Docker Ignore.md",
-    "Node/Criando o Dockerfile.md",
-    "Node/Conhecendo o Docker Hub.md",
-    "Node/Instalação do Docker.md",
     "Banco De dados",
     "Sumários",
     "Node",
