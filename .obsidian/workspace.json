@@ -11,10 +11,14 @@
             "id": "8bb0be59189ffe12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Node/Executando o Docker Compose.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Executando o Docker Compose"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Declarando",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -159,10 +164,22 @@
   },
   "active": "8bb0be59189ffe12",
   "lastOpenFiles": [
-    "Node/Persistindo Informações nos Volumes.md",
-    "Node/Criando Volumes.md",
+    "Faculdade/Desenvolvimento de Aplicações de Banco de Dados",
     "Sumários/Sumário Rocketseat.md",
+    "Node/Executando o Docker Compose.md",
     "Escolas.md",
+    "Node/Criando o Docker Compose.md",
+    "Node/Instalação do Docker Compose.md",
+    "Node/Entendendo o Docker Compose.md",
+    "Node/Limpando Containers e Imagens.md",
+    "Node/Conectando com o Beekeeper.md",
+    "Node/Utilizando Imagem do PostgreSQL.md",
+    "Node/Criando Volumes.md",
+    "Java/Declarando e inicializando arrays.md",
+    "Sumários/Sumário AlgaWorks.md",
+    "().md",
+    "Java/Inferência de tipo de variável local.md",
+    "Node/Persistindo Informações nos Volumes.md",
     "Pagtalent.md",
     "Node/Efemeridade na Prática.md",
     "Node/Acessando Diretório de Trabalho.md",
@@ -173,21 +190,9 @@
     "Node/Configurando o TypeScript.md",
     "Node/Executando TypeScript com tsx.md",
     "Node/Adicionando o TypeScript.md",
-    "Faculdade/Prática Integradora Tecnologias Disruptivas/Spring Boot.md",
-    "Sumários/Sumário Descomplica.md",
     "Faculdade/Prática Integradora Tecnologias Disruptivas",
     "Faculdade",
-    "().md",
-    "Node/Efemeridade em Containers.md",
-    "Node/Utilizando Tag para versionar imagens.md",
-    "Node/Removendo Container e Imagem.md",
-    "Node/Estados do Container.md",
-    "Node/Visualizando Logs e Histórico.md",
-    "Node/Executando em Background.md",
-    "FullCycle/Docker/Introdução.md",
-    "Sumários/Sumário FullCycle.md",
     "FullCycle/Docker",
-    "Node/Rodando nosso Container.md",
     "FullCycle",
     "Banco De dados",
     "Sumários",

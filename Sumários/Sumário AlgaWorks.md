@@ -66,4 +66,4 @@ ___
 
 
 ##### Trabalhando com arrays
-1. [Declarando e inicializando arrays]()
+1. [Declarando e inicializando arrays](../Java/Declarando%20e%20inicializando%20arrays.md)
