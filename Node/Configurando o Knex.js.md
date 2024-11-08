@@ -1,5 +1,5 @@
 ___
-- Após fazer [[Instalando o Knex.js|instalação do knex]], precisamos fazer a configuração dele. Então vamos seguir os passos abaixo:
+- Após fazer [instalação do knex](./Instalando%20o%20Knex.js.md), precisamos fazer a configuração dele. Então vamos seguir os passos abaixo:
 1. Na raiz do nosso projeto criamos um arquivo com o nome de: `knexfile.ts`
 2. Dentro desse arquivo, vamos escrever o seguinte código:
 ```ts

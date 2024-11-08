@@ -1,5 +1,5 @@
 ___
-- Após executar o [[Script de execução|ultimo comando]], será gerado um arquivo `Typescript`.
+- Após executar o [Script de execução|ultimo comando](./Script%20de%20execução.md), será gerado um arquivo `Typescript`.
 - Dentro desse arquivo `Typescript`, vai ser gerado um código com duas funções: `up` e `down`
 - A função `up`, é responsável por enviar as alterações para o banco de dados
 - A função `down`, é para desfazer o que uma migration fez.

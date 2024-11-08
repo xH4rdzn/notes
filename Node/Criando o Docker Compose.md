@@ -41,4 +41,3 @@ volumes:
 	- `POSTGRES_PASSWORD` -> Definimos a senha do banco de dados;
 	- `POSTGRES_DB`-> Definimos o nome do banco de dados;
 - Em `volumes`, definimos apenas o nome do volume que vamos usar, o caminho tem que ser igual ao do exemplo acima;
-- 

@@ -1,5 +1,5 @@
 ___
-- Para testar o [[Criando relacionamento|relacionamento]], vamos fazer uma nova rota com o método `post`;
+- Para testar o [relacionamento](./Criando%20relacionamento.md), vamos fazer uma nova rota com o método `post`;
 ```ts
 app.post("/modules", async (request: Request, response: Response) => {
 
