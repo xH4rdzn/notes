@@ -161,10 +161,22 @@ ___
 20. [Criando o Docker Compose](../Node/Criando%20o%20Docker%20Compose.md)
 21. [Executando o Docker Compose](../Node/Executando%20o%20Docker%20Compose.md)
 
-##### ORM
+##### ORM Prisma
 1. [O que é um ORM](../Node/O%20que%20é%20um%20ORM.md)
 2. [Express Async Erros](../Node/Express%20Async%20Erros.md)
 3. [Conhecendo o Prisma](../Node/Conhecendo%20o%20Prisma.md)
 4. [Instalando e configurando o Prisma](../Node/Instalando%20e%20configurando%20o%20Prisma.md)
 5. [Criando Tabela com Prisma](../Node/Criando%20Tabela%20com%20Prisma.md)
-6. [[]]
+6. [Prisma Studio](../Node/Prisma%20Studio.md)
+7. [Inserindo dados com o Prisma](../Node/Inserindo%20dados%20com%20o%20Prisma.md)
+8. [FindMany](../Node/FindMany.md)
+9. [FindUnique](../Node/FindUnique.md)
+10. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
+11. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
+12. [Consulta](../Node/Consulta.md)
+13. [Update - Prisma](../Node/Update%20-%20Prisma.md)
+14. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
+15. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
+
+##### Autenticação e autorização
+1. 
