@@ -179,4 +179,6 @@ ___
 15. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
 
 ##### Autenticação e autorização
-1. 
+1. [JWT](../Node/JWT.md)
+2. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
+3. 

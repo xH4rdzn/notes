@@ -1,1 +1,19 @@
 ___
+- `WSL` -> Windows Subsystem for Linux;
+- `WSL1`
+	- Ambiente Linux embarcado dentro do Windows;
+	- Acesso a "quase" todos os comandos Linux;
+	- Acessos aos drivers C, D e etc.
+	- Possibilidade de escolher distribuição do Linux: Debian, Unbutu, OpenSuse, RedHat e etc.
+	- Manipulação através do terminal, não há GUI;
+- Problemas do `WSL1`
+	- Não ter o Kernel completo do Linux;
+	- Desempenho ruim rodando aplicações dentro do Linux;
+	- Não ter suporte ao Docker
+	- Vários problemas de compatibilidade com programas e ferramentas.
+- `WSL2`
+	- Execução completa do Kernel do Linux;
+	- Manipulação através do terminal, não há GUI.
+	- Grande desempenho executando aplicativos dentro do Linux;
+	- Suporte ao Docker e Kubernetes;
+	- Usa o `Virtual Machine Plataform` como base para execução.
