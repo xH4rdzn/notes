@@ -181,4 +181,12 @@ ___
 ##### Autenticação e autorização
 1. [JWT](../Node/JWT.md)
 2. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
-3. 
+3. [[Utilizando Variável de Ambiente]]
+4. [[JSON Web Token]]
+5. [[Criando Sessão]]
+
+## NLW
+#### NLW - Journey - Java
+1. [[Setup Do Projeto]]
+2. [[Criando endpoints HTTP]]
+3. [[Finalizando a Aplicação]]

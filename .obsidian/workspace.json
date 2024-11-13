@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c0cfe6e6db60f53",
+        "id": "a9779ad14ce0d255",
         "type": "tabs",
         "children": [
           {
-            "id": "55c2558e97bb7843",
+            "id": "5313e7439ed9c930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumários/Sumário FullCycle.md",
+                "file": "Java/Ordenando arrays em ordem natural e reversa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário FullCycle"
+              "title": "Ordenando arrays em ordem natural e reversa"
             }
           }
         ]
@@ -163,34 +163,35 @@
   },
   "active": "f13b409cc3ecdea9",
   "lastOpenFiles": [
+    "Sumários/Sumário AlgaWorks.md",
+    "Java/Ordenando arrays em ordem natural e reversa.md",
     "Escolas.md",
-    "FullCycle/Docker/Instalando WSL2 do zero.md",
-    "Sumários/Sumário FullCycle.md",
-    "Node/Autenticação e Autorização.md",
+    "Java/Transformando arrays em representações strings.md",
+    "Transformando arrays em representações strings.md",
+    "Java/Iterando em arrays.md",
+    "Java/Estrutura de repetição for.md",
+    "Java/Acessando e atribuindo elementos de arrays.md",
+    "Java/Sobrecarga de métodos.md",
+    "Java/Declarando e inicializando arrays.md",
+    "Sumários/Sumário Rasmoo!.md",
+    "Java/Composição entre objetos.md",
+    "Node/Criando Sessão.md",
     "Sumários/Sumário Rocketseat.md",
-    "Node/JWT.io.md",
-    "Node/JWT.md",
-    "FullCycle/Docker/Conhecendo o WSL 2.md",
+    "Eventos/Setup Do Projeto.md",
+    "Sumários/Sumário OneBitCode.md",
+    "Sumários/Sumário Udemy.md",
+    "Sumários/Sumário FullCycle.md",
+    "Sumários/Sumário Descomplica.md",
+    "Java/Spring Boot MVC.md",
+    "Java/Repository, controller e relacionamentos.md",
+    "Faculdade/Prática Integradora Tecnologias Disruptivas/Spring Boot.md",
+    "Node/JSON Web Token.md",
+    "Node/Utilizando Variável de Ambiente.md",
+    "Eventos",
+    "FullCycle/Docker/Instalando WSL2 do zero.md",
+    "Node/Autenticação e Autorização.md",
     "Javascript",
     "Typescript",
-    "Node/Seed - Prisma.md",
-    "Node/Delete - Prisma.md",
-    "Node/Update - Prisma.md",
-    "Node/Consulta.md",
-    "Node/Relacionamentos no prisma.md",
-    "FullCycle/Docker/Instalando o Docker.md",
-    "FullCycle/Docker/Introdução.md",
-    "Node/Criando a Tabela de Perguntas.md",
-    "Node/Criando Tabela com Prisma.md",
-    "Node/FindUnique.md",
-    "Node/FindMany.md",
-    "Node/Inserindo dados com o Prisma.md",
-    "Node/Prisma Studio.md",
-    "Node/UUID x Incremental.md",
-    "CSharp/Modificadores de acesso.md",
-    "CSharp/Utilizando outras classes.md",
-    "CSharp/O que são funções.md",
-    "CSharp/O que são Classes.md",
     "Faculdade/Desenvolvimento de Aplicações de Banco de Dados",
     "Faculdade/Prática Integradora Tecnologias Disruptivas",
     "Faculdade",
@@ -198,7 +199,6 @@
     "FullCycle",
     "Banco De dados",
     "Sumários",
-    "Node",
     "CSharp/Sem título.canvas"
   ]
 }
