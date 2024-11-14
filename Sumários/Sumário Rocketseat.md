@@ -186,7 +186,11 @@ ___
 5. [[Criando Sessão]]
 
 ## NLW
-#### NLW - Journey - Java
-1. [[Setup Do Projeto]]
-2. [[Criando endpoints HTTP]]
-3. [[Finalizando a Aplicação]]
+
+## Java
+
+##### Fundamentos do Spring Boot
+1. [[Criando Projeto Spring]]
+2. [[Entendendo estrutura do projeto]]
+3. [[Formas de executar a Aplicação]]
+4. [[Entendendo o Spring Boot Application]]

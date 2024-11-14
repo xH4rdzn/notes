@@ -1,0 +1,18 @@
+___
+- A criação de um projeto Spring Boot, pode ser feita de algumas formas, podemos utilizar o [Spring Initializr](https://start.spring.io/), ou podemos usar IDE's como o VSCode ou Intellij, ou a CLI do maven pelo terminal;
+- A forma mais padrão é pelo [Spring Initializr](https://start.spring.io/);
+- Devemos fazer as seguintes configurações:
+	- Em `Project`, escolhemos o gerenciador de dependências, nesse caso vamos usar o `Maven`;
+	- Em `Language`, escolhemos `Java`;
+	- Em `Spring Boot`, escolhemos a versão do Spring Boot que vamos utilizar;
+	- Em `Project Metada`, passamos algumas informações do projeto:
+		- `Group` -> é o domínio da empresa, porém ao contrário;
+		- `Artifact` -> é o nome do projeto;
+		- `Name` -> é o nome do projeto também;
+		- `Description` -> podemos adicionar uma descrição para o projeto;
+		- `Package name` -> é a junção do `Group` com o `Artifact`, podemos alterar;
+	- Em `Packaging` -> normalmente usamos o `Jar`;
+	- Logo após podemos escolher a versão do `Java` que vamos utilizar;
+- Agora vamos adicionar as dependências, vamos adicionar as seguintes:
+	- `Spring Web`;
+	- `Spring Boot DevTools`;

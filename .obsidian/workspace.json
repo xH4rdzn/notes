@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Ordenando arrays em ordem natural e reversa.md",
+                "file": "Java/Criando Projeto Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordenando arrays em ordem natural e reversa"
+              "title": "Criando Projeto Spring"
             }
           }
         ]
@@ -161,11 +161,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f13b409cc3ecdea9",
+  "active": "5313e7439ed9c930",
   "lastOpenFiles": [
+    "Sumários/Sumário Rocketseat.md",
+    "Java/Criando Projeto Spring.md",
+    "Eventos/Setup Do Projeto.md",
+    "Escolas.md",
+    "Java/O que é Spring Boot.md",
+    "Node/Criando projeto.md",
+    "Sumários/Alura.md",
+    "Alura/Java/JsonAlias e JsonProperty.md",
+    "Alura/Java/Incluir dependências no pom.xml.md",
+    "Alura/Java/Código para consumir API.md",
+    "Alura/Java/A interface CommandLineRunner.md",
+    "Alura/Java/Entendendo Maven e Gradle.md",
+    "Alura/Java/Trabalhando com lambdas, streams e Spring Framework/Um novo projeto utilizando o Spring Framework.md",
     "Sumários/Sumário AlgaWorks.md",
     "Java/Ordenando arrays em ordem natural e reversa.md",
-    "Escolas.md",
+    "Alura/Java/Trabalhando com lambdas, streams e Spring Framework",
+    "Alura/Java/Sem título.md",
+    "Alura/Java",
+    "Alura",
     "Java/Transformando arrays em representações strings.md",
     "Transformando arrays em representações strings.md",
     "Java/Iterando em arrays.md",
@@ -176,29 +192,13 @@
     "Sumários/Sumário Rasmoo!.md",
     "Java/Composição entre objetos.md",
     "Node/Criando Sessão.md",
-    "Sumários/Sumário Rocketseat.md",
-    "Eventos/Setup Do Projeto.md",
-    "Sumários/Sumário OneBitCode.md",
-    "Sumários/Sumário Udemy.md",
-    "Sumários/Sumário FullCycle.md",
-    "Sumários/Sumário Descomplica.md",
-    "Java/Spring Boot MVC.md",
-    "Java/Repository, controller e relacionamentos.md",
-    "Faculdade/Prática Integradora Tecnologias Disruptivas/Spring Boot.md",
-    "Node/JSON Web Token.md",
-    "Node/Utilizando Variável de Ambiente.md",
     "Eventos",
-    "FullCycle/Docker/Instalando WSL2 do zero.md",
-    "Node/Autenticação e Autorização.md",
     "Javascript",
     "Typescript",
     "Faculdade/Desenvolvimento de Aplicações de Banco de Dados",
     "Faculdade/Prática Integradora Tecnologias Disruptivas",
     "Faculdade",
     "FullCycle/Docker",
-    "FullCycle",
-    "Banco De dados",
-    "Sumários",
     "CSharp/Sem título.canvas"
   ]
 }
