@@ -184,6 +184,10 @@ ___
 3. [Utilizando Variável de Ambiente](../Node/Utilizando%20Variável%20de%20Ambiente.md)
 4. [JSON Web Token](../Node/JSON%20Web%20Token.md)
 5. [Criando Sessão](../Node/Criando%20Sessão.md)
+6. [[Extraindo o Token]]
+7. [[Middleware de Autenticação]]
+8. [[Definindo Papel do Usuário]]
+
 
 ## NLW
 

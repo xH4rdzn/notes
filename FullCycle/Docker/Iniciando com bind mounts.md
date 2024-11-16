@@ -16,6 +16,8 @@ docker run -d --name nginx -p 8080:80 -v ~/Projects/fullcycle2/docker/html/:/usr
 ```
 - O comando `-v`, é um dos mais antigos do Docker, atualmente usamos a flag `--mount`, deixando o nosso comando da seguinte maneira:
 ```zsh
-docker run -d --name nginx -p 8080:80 --mount type=bind,source="$(pwd)"/
+docker run -d --name nginx -p 8080:80 --mount type=bind,source="$(pwd)"/html,target=/usr/share/nginx/html nginx
 ```
 - `"$(pwd)"` -> Pega o caminho onde estamos atualmente;
+- O comando `-v`, fazermos um `bind` com uma pasta que não existe, ele irá criar a pasta;
+- Já com o `--mount`, ele irá dar um erro.

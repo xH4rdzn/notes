@@ -11,3 +11,10 @@ ___
 8. [[Acessando e alterando arquivos de um container]]
 9. [[Iniciando com bind mounts]]
 10. [[Trabalhando com volumes]]
+11. [[Entendendo imagens e DockerHub]]
+12. [[Criando primeira imagem com Dockerfile]]
+13. [[Avançado com Dockerfile]]
+14. [[ENTRYPOINT vs CMD]]
+15. [[Docker entrypoint exec]]
+16. [[Publicando imagem no DockerHub]]
+17. 
