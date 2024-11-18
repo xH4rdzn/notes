@@ -1,0 +1,12 @@
+___
+- Docker possui a Docker Inc. com foco total no aprimoramento do `Docker CE` e `Docker Desktop`
+- Docker Inc. a cada dia constrói um ecossistema em volta do Docker e no mundo dos containers para facilitar a vida do desenvolvedor, comprando empresas e projetos.
+	- `Docker Desktop`
+	- `Docker Hub`
+	- `Docker Build Cloud`
+	- `Docker Scout`
+	- `Docker AI`
+	- `InfoSiftr` - Docker Hub/ Docker Verified Publisher
+	- `Tilt` - Gerenciamento de ambientes de desenvolvimento para aplicações/ microsserviços que rodam em kubernetes
+	- `AtomicJar` - Testcontainers / Cloud / Testcontainers Desktop
+	- `Mutagen.io`- Synchronized file shares
