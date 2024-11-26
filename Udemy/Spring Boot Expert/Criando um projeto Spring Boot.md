@@ -1,0 +1,21 @@
+___
+- Para criar o nosso projeto vamos usar o site [Spring Initializr](https://start.spring.io/);
+- Nele fazemos as configurações iniciais
+- Em `project`, escolhemos o nosso gerenciador de pacotes, vamos escolher o `Maven`;
+- Em `language`, podemos usar entre Java, Kotlin ou Groovy;
+- Em `Spring Boot`, escolhemos a versão do `Spring`;
+- Em `Project Metadata`
+	- `Group`-> Passamos o domínio ao contrário do nosso projeto;
+	- `Artifact`-> Passamos o nome do projeto, normalmente passamos em letra minuscula;
+	- `Name` -> Aqui passamos normalmente o mesmo nome do `Artifact`, porém podemos dar espaço e podemos usar letras maiúsculas; 
+	- `Description`-> Passamos uma descrição do nosso projeto;
+	- `Package name`-> Será gerado automaticamente, somando o `Group`e o `Artifact`;
+- Em `Packaging`, escolhemos a opção `Jar`;
+- Em `Java`, escolhemos a versão do Java que vamos utilizar, nesse caso a versão *21*
+- Como dependências vamos usar as seguintes:
+	- `Lombok
+	- `Spring Boot DevTools`
+	- `Spring Web`
+	- `Spring Data JPA`
+	- `H2 Database`-> Banco de dados em memoria;
+- Após isso podemos baixar o nosso projeto e descompactar e abrir em uma IDE;

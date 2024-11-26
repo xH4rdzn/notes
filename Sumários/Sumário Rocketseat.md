@@ -48,8 +48,6 @@ ___
 1. [Criando um projeto de API](../CSharp/Criando%20um%20projeto%20de%20API.md)
 2. [Properties](../CSharp/Properties.md)
 3. [O arquivo Program.cs](../CSharp/O%20arquivo%20Program.cs.md)
-4. [Função do AppSettings.json]()
-5. [Lendo o AppSettings.json]()
 
 ---
 
@@ -172,11 +170,12 @@ ___
 8. [FindMany](../Node/FindMany.md)
 9. [FindUnique](../Node/FindUnique.md)
 10. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
-11. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
-12. [Consulta](../Node/Consulta.md)
-13. [Update - Prisma](../Node/Update%20-%20Prisma.md)
-14. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
-15. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
+11. [[Cadastrando Perguntas]]
+12. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
+13. [Consulta](../Node/Consulta.md)
+14. [Update - Prisma](../Node/Update%20-%20Prisma.md)
+15. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
+16. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
 
 ##### Autenticação e autorização
 1. [JWT](../Node/JWT.md)
@@ -187,9 +186,21 @@ ___
 6. [[Extraindo o Token]]
 7. [[Middleware de Autenticação]]
 8. [[Definindo Papel do Usuário]]
-
-
+9. [[Atualizando Token Automático]]
+10. [[Middleware de Autorização]]
+##### Testes Automatizados
+1. [[Tipos de Testes]]
+2. [[Instalando e Configurando o Jest]]
+3. [[Executando Teste Específico]]
+4. 
+## Node - Ignite
+1. [[Conhecendo o Fastify]]
+2. [[Configurando ESLint]]
+3. [[]]
 ## NLW
+##### Pocket Javascript - Intermediário
+1. [[Iniciando projeto backend]]
+2. 
 
 ## Java
 
