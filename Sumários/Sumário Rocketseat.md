@@ -192,7 +192,22 @@ ___
 1. [[Tipos de Testes]]
 2. [[Instalando e Configurando o Jest]]
 3. [[Executando Teste Específico]]
-4. 
+4. [[Script de Teste]]
+5. [[Escrevendo o primeiro teste]]
+6. [[Utilizando o Watch]]
+7. [[Agrupando Testes]]
+8. [[it]]
+9. [[beforeAll]]
+10. [[AfterAll]]
+11. [[Executando Teste E2E]]
+12. [[Validando Teste E2E]]
+
+##### Projeto - API de Entregas de encomendas
+1. [[Criando o Projeto]]
+2. [[Middeware De Tratamento de Exceções]]
+3. [[Adicionando Zod]]
+4. [[Criando Rota e Controller de Usuário]]
+5. 
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
@@ -209,7 +224,6 @@ ___
 2. [Coleções](../Java/Coleções.md)
 3. [Listas - Java](../Java/Listas%20-%20Java.md)
 4. [Conjuntos - Java](../Java/Conjuntos%20-%20Java.md)
-5. 
 
 ##### Fundamentos do Spring Boot
 1. [Criando Projeto Spring](../Java/Criando%20Projeto%20Spring.md)

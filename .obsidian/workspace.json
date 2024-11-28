@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Instalando e Configurando o Jest.md",
+                "file": "Sumários/Sumário Rocketseat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instalando e Configurando o Jest"
+              "title": "Sumário Rocketseat"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -163,42 +164,41 @@
   },
   "active": "5313e7439ed9c930",
   "lastOpenFiles": [
-    "Sumários/Sumário Rocketseat.md",
-    "Node/Instalando e Configurando o Jest.md",
     "Escolas.md",
+    "Projetos/Rocketseat/Api de Entregas/Criando Projeto no Insomnia.md",
+    "Sumários/Sumário Rocketseat.md",
+    "Projetos/Rocketseat/Api de Entregas/Adicionando Zod.md",
+    "Projetos/Rocketseat/Api de Entregas",
+    "Projetos/Rocketseat/Api de Entregas/Criando Rota e Controller de Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Middeware De Tratamento de Exceções.md",
+    "Projetos/Rocketseat/Api de Entregas/Criando o Projeto.md",
+    "Projetos/Rocketseat",
+    "Projetos",
+    "Eventos/Iniciando projeto backend.md",
+    "Node/Conhecendo o Fastify.md",
+    "Node/Validando Teste E2E.md",
+    "Node/Executando Teste E2E.md",
+    "Node/Criando Rota.md",
+    "Sumários/Sumário FullCycle.md",
+    "FullCycle 4.0/Docker na prática/Docker Inc.md",
+    "Node/AfterAll.md",
+    "Node/beforeAll.md",
+    "Node/it.md",
+    "Node/Agrupando Testes.md",
+    "Node/Utilizando o Watch.md",
+    "Node/Escrevendo o primeiro teste.md",
+    "Node/Script de Teste.md",
+    "Node/Executando Teste Específico.md",
+    "Node/Instalando e Configurando o Jest.md",
     "Node/Tipos de Testes.md",
     "Java/Response Entity.md",
-    "().md",
-    "Node/Middleware de Autorização.md",
-    "Java/Criando arrays de objetos.md",
-    "Sumários/Sumário AlgaWorks.md",
-    "Java/Ordenando arrays em ordem natural e reversa.md",
-    "Node/Atualizando Token Automático.md",
-    "Node/Definindo Papel do Usuário.md",
-    "Node/Middleware de Autenticação.md",
-    "Node/Criando Sessão.md",
-    "Node/Extraindo o Token.md",
-    "Node/JSON Web Token.md",
-    "Node/Utilizando Variável de Ambiente.md",
-    "Node/Cadastrando Perguntas.md",
-    "Node/Relacionamentos no prisma.md",
-    "Node/Criando a Tabela de Perguntas.md",
-    "Eventos/Iniciando projeto backend.md",
     "Eventos",
-    "Node/Conhecendo o Fastify.md",
-    "Java/Composição entre objetos.md",
-    "Sumários/Sumário Rasmoo!.md",
-    "Sumários/Sumário FullCycle.md",
-    "Udemy/Spring Boot Expert/Conhecendo a estrutura do projeto e dicas Maven.md",
     "Udemy/Spring Boot Expert",
     "Udemy",
     "FullCycle 4.0/Docker na prática",
     "FullCycle 4.0",
     "Alura/Java/Trabalhando com lambdas, streams e Spring Framework",
     "Alura/Java",
-    "Alura",
-    "Eventos",
-    "Javascript",
     "CSharp/Sem título.canvas"
   ]
 }
