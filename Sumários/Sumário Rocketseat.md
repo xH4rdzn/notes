@@ -207,7 +207,10 @@ ___
 2. [[Middeware De Tratamento de Exceções]]
 3. [[Adicionando Zod]]
 4. [[Criando Rota e Controller de Usuário]]
-5. 
+5. [[Criando Docker Compose]]
+6. [[Executando o Docker Compose]]
+7. [[Configurando e Instalando o Prisma]]
+8. 
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
