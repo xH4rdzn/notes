@@ -16,7 +16,7 @@ DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schmea=pub
 DATABASE_URL="postgresql://postgres:postgres@localhost:5432/rocketlog?schmea=public"
 ```
 *Nota-se que alterações as informações  que devem ser mudadas são: `johndoe`, `randompassword` e`mydb`, e elas são informações que passamos no arquivo do `DOCKER COMPOSE`;
-- Precisamos também que esse arquivo `.env`, esteja disponivel, quando formos executar a nossa aplicação, para isso voltamos ao arquivo `package.json`e alteramos o script de `dev`, para o seguinte:
+- Precisamos também que esse arquivo `.env`, esteja disponível, quando formos executar a nossa aplicação, para isso voltamos ao arquivo `package.json`e alteramos o script de `dev`, para o seguinte:
 ```json
 "dev": "tsx watch --env-file .env src/server.ts"
 ```

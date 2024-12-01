@@ -210,7 +210,16 @@ ___
 5. [[Criando Docker Compose]]
 6. [[Executando o Docker Compose]]
 7. [[Configurando e Instalando o Prisma]]
-8. 
+8. [[Estrutura do Banco de Dados]]
+9. [[Criando o Modelo das Tabelas]]
+10. [[Gerando Tabelas e Abrindo Banco de Dados]]
+11. [[Validando Dados do Usuário]]
+12. [[Criptografando Senha do Usuário]]
+13. [[Criando o Prisma Database]]
+14. [[Cadastrando Usuário no Banco]]
+15. [[Criando Controller e Rota de Autenticação]]
+16. [[Recuperando o Usuário]]
+17. 
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
