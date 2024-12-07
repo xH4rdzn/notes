@@ -33,3 +33,5 @@ import { sessionsRoutes } from "./sessionsRoutes"
 routes.use("/sessions", sessionsRoutes)
 ```
 *Desta maneira essa rota já deve ficar disponível*
+
+

@@ -65,11 +65,23 @@ ___
 3. [Autoboxing e unboxing](../Java/Autoboxing%20e%20unboxing.md)
 
 
-##### Trabalhando com arrays
+##### Trabalhando com arrays - Terminar depois
 1. [Declarando e inicializando arrays](../Java/Declarando%20e%20inicializando%20arrays.md)
 2. [Acessando e atribuindo elementos de arrays](../Java/Acessando%20e%20atribuindo%20elementos%20de%20arrays.md)
 3. [Iterando em arrays](../Java/Iterando%20em%20arrays.md)
 4. [Transformando arrays em representações strings](../Java/Transformando%20arrays%20em%20representações%20strings.md)
 5. [Ordenando arrays em ordem natural e reversa](../Java/Ordenando%20arrays%20em%20ordem%20natural%20e%20reversa.md)
 6. [Criando arrays de objetos](../Java/Criando%20arrays%20de%20objetos.md)
-7. 
+7. [[Iterando em arrays de objetos]]
+8. [[Copiando e expandindo arrays]]
+
+##### Gerenciamento de memória do java - Fazer depois
+1. [[Estrutura da memória da JVM]]
+
+##### Construtores, pacotes e visibilidade
+1. [[Criando e chamando construtores]]
+2. [[Construtores com parâmetros]]
+3. [[Sobrecarga de construtores]]
+4. [[Boas práticas - valide os argumentos de construtores]]
+5. [[Encadeamento de chamadas de construtores]]
+6. 

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6681ef4b278940b1",
+            "id": "475ca2446b741f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
+                "file": "Sumários/Sumário Rocketseat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recuperando o Usuário"
+              "title": "Sumário Rocketseat"
             }
           }
         ]
@@ -161,44 +161,45 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6681ef4b278940b1",
+  "active": "475ca2446b741f6e",
   "lastOpenFiles": [
+    "Projetos/Rocketseat/Api de Entregas/Verificando autorização.md",
     "Sumários/Sumário Rocketseat.md",
-    "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Criando Deliveries Controller e Routes.md",
+    "Node/Criando API com Express.md",
+    "Node/Route Params.md",
+    "Node/Controller.md",
     "Escolas.md",
+    "Node/Atualizando Token Automático.md",
+    "Projetos/Rocketseat/Api de Entregas/Criando ensure-authenticated.md",
+    "Projetos/Rocketseat/Api de Entregas/Finalizando Retorno do Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Validando Variável de Ambiente.md",
+    "Projetos/Rocketseat/Api de Entregas/Token do Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Criando Controller e Rota de Autenticação.md",
+    "Pasted image 20241206201718.png",
     "Projetos/Rocketseat/Api de Entregas/Cadastrando Usuário no Banco.md",
     "Projetos/Rocketseat/Api de Entregas/Criando o Prisma Database.md",
     "Projetos/Rocketseat/Api de Entregas/Criptografando Senha do Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Validando Dados do Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Gerando Tabelas e Abrindo Banco de Dados.md",
     "Projetos/Rocketseat/Api de Entregas/Criando o Modelo das Tabelas.md",
-    "Node/Relacionamentos no prisma.md",
     "Projetos/Rocketseat/Api de Entregas/Estrutura do Banco de Dados.md",
     "Projetos/Rocketseat/Api de Entregas/Configurando e Instalando o Prisma.md",
     "Node/Executando o Docker Compose.md",
     "Projetos/Rocketseat/Api de Entregas/Criando Docker Compose.md",
     "Projetos/Rocketseat/Api de Entregas/Criando Rota e Controller de Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Adicionando Zod.md",
-    "Projetos/Rocketseat/Api de Entregas/Middeware De Tratamento de Exceções.md",
-    "Projetos/Rocketseat/Api de Entregas/Criando o Projeto.md",
-    "Node/Criando o Docker Compose.md",
-    "Node/Instalando e configurando o Prisma.md",
-    "Executando Docker Compose.md",
-    "Projetos/Rocketseat/Api de Entregas/Criando Projeto no Insomnia.md",
+    "Javanauta",
     "Projetos/Rocketseat/Api de Entregas",
     "Projetos/Rocketseat",
     "Projetos",
-    "Eventos/Iniciando projeto backend.md",
-    "Node/Conhecendo o Fastify.md",
-    "Node/Validando Teste E2E.md",
     "Eventos",
     "Udemy/Spring Boot Expert",
     "Udemy",
     "FullCycle 4.0/Docker na prática",
     "FullCycle 4.0",
     "Alura/Java/Trabalhando com lambdas, streams e Spring Framework",
-    "Alura/Java",
     "CSharp/Sem título.canvas"
   ]
 }

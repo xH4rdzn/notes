@@ -21,9 +21,11 @@ ___
 
 
 ## FullCycle 4.0
-#### Docker na prática
+### Docker na prática
 1. [[Conceitos básicos sobre containers]]
 2. [[Containers vs Maquinas Virtuais]]
 3. [[Docker e contexto em que foi criado]]
 4. [[Docker Inc]]
-5. [[]]
+##### Manipulando containers
+1. [[Linha de Comando, seu primeiro passo]]
+2. 

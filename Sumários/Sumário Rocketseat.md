@@ -219,7 +219,13 @@ ___
 14. [[Cadastrando Usuário no Banco]]
 15. [[Criando Controller e Rota de Autenticação]]
 16. [[Recuperando o Usuário]]
-17. 
+17. [[Token do Usuário]]
+18. [[Validando Variável de Ambiente]]
+19. [[Finalizando Retorno do Usuário]]
+20. [[Criando ensure-authenticated]]
+21. [[Criando Deliveries Controller e Routes]]
+22. [[Verificando autorização]]
+23. 
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
