@@ -225,7 +225,19 @@ ___
 20. [[Criando ensure-authenticated]]
 21. [[Criando Deliveries Controller e Routes]]
 22. [[Verificando autorização]]
-23. 
+23. [[Cadastra Entrega]]
+24. [[Listar entregas]]
+25. [[Exibindo Nome do Cliente]]
+26. [[Atualizando Status da Entrega]]
+27. [[Criando Controller e Rota de Logs da Entrega]]
+28. [[Cadastra Log]]
+29. [[Exibindo Detalhes do Pedido]]
+30. [[Exibindo Logs de um Pedido]]
+31. [[Condição de Pedido Entregue]]
+32. [[Registrando no Log Alteração de Status]]
+33. [[Instalando o Suite de Testes]]
+34. [[Configurando o Jest]]
+35. 
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
@@ -250,4 +262,8 @@ ___
 4. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
 5. [Body Params](../Java/Body%20Params.md)
 6. [Response Entity](../Java/Response%20Entity.md)
-7. 
+
+## Kotlin
+1. [[Hello World em Kotlin]]
+2. [[Mutabilidade e Imutabilidade]]
+3. 
