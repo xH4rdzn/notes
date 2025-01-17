@@ -7,5 +7,4 @@ ___
 6. [One Bit Code](./Sumários/Sumário%20OneBitCode.md)
 7. [Udemy](./Sumários/Sumário%20Udemy.md)
 8. [Descomplica](./Sumários/Sumário%20Descomplica.md)
-9. [Alura](./Sumários/Alura.md)
 

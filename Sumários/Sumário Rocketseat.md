@@ -237,15 +237,19 @@ ___
 32. [[Registrando no Log Alteração de Status]]
 33. [[Instalando o Suite de Testes]]
 34. [[Configurando o Jest]]
-35. 
+35. [[Testando Suite de Teste]]
+36. [[Teste no Cadastro do Usuário]]
+37. [[Removendo Usuário de Teste]]
+38. [[Testando Cadastro de Usuário com E-mail indisponível]]
+39. [[Testando Validação do Email]]
+40. [[Testando Autenticação]]
+41. [[Removendo Usuário da Autenticação]]
+##### Deploy
+1. [[]]
 ## Node - Ignite
 1. [[Conhecendo o Fastify]]
 2. [[Configurando ESLint]]
 3. [[]]
-## NLW
-##### Pocket Javascript - Intermediário
-1. [[Iniciando projeto backend]]
-2. 
 
 ## Java
 
