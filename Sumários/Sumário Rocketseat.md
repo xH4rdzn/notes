@@ -51,7 +51,8 @@ ___
 
 ---
 
-## Node - FullStack
+## FullStack
+#### Node - FullStack
 
 ##### Criando API REST
 1. [O que é uma API Rest](../Node/O%20que%20é%20uma%20API%20Rest.md)
@@ -136,138 +137,189 @@ ___
 16. [Cadastrando Módulos](../Node/Cadastrando%20Módulos.md)
 17. [Select com Join](../Node/Select%20com%20Join.md)
 
+##### Criando uma API de Restaurante
+1. [[Projetos/Rocketseat/Api de Restaurante/Criando o projeto|Criando o projeto]]
+2. [[Configurando o Projeto]]
+3. [[Criando a estrutura do projeto]]
+4. [[Criando o Middleware de Tratamento de Exceções]]
+5. [[Instalando e Configurando o Knex.js]]
+6. [[Habilitando Restrição de Relacionamentos]]
+7. [[Criando a Migration de Produtos]]
+8. [[Criando a conexão com o banco de dados]]
+9. [[Adicionando e configurando o Zod]]
+10. [[Validando dados do Produto]]
+11. [[Adicionando produto no banco]]
+12. [[Listando produtos]]
+13. [[Atualizando protudos]]
+14. [[Removendo Produtos]]
+15. [[Seed de Produtos]]
+16. [[Criando a tabela de mesas]]
+17. [[]]
 ##### Docker
-1. [Introdução ao Docker](../Node/Introdução%20ao%20Docker.md)
-2. [Conhecendo o Docker Hub](../Node/Conhecendo%20o%20Docker%20Hub.md)
-3. [Criando o Dockerfile](../Node/Criando%20o%20Dockerfile.md)
-4. [Docker Ignore](../Node/Docker%20Ignore.md)
-5. [Build Dockerfile](../Node/Build%20Dockerfile.md)
-6. [Rodando nosso Container](../Node/Rodando%20nosso%20Container.md)
-7. [Executando em Background](../Node/Executando%20em%20Background.md)
-8. [Visualizando Logs e Histórico](../Node/Visualizando%20Logs%20e%20Histórico.md)
-9. [Estados do Container](../Node/Estados%20do%20Container.md)
-10. [Removendo Container e Imagem](../Node/Removendo%20Container%20e%20Imagem.md)
-11. [Utilizando Tag para versionar imagens](../Node/Utilizando%20Tag%20para%20versionar%20imagens.md)
-12. [Efemeridade em Containers](../Node/Efemeridade%20em%20Containers.md)
-13. [Acessando Diretório de Trabalho](../Node/Acessando%20Diretório%20de%20Trabalho.md)
-14. [Criando Volumes](../Node/Criando%20Volumes.md)
-15. [Utilizando Imagem do PostgreSQL](../Node/Utilizando%20Imagem%20do%20PostgreSQL.md)
-16. [Conectando com o Beekeeper](../Node/Conectando%20com%20o%20Beekeeper.md)
-17. [Limpando Containers e Imagens](../Node/Limpando%20Containers%20e%20Imagens.md)
-18. [Entendendo o Docker Compose](../Node/Entendendo%20o%20Docker%20Compose.md)
-19. [Instalação do Docker Compose](../Node/Instalação%20do%20Docker%20Compose.md)
-20. [Criando o Docker Compose](../Node/Criando%20o%20Docker%20Compose.md)
-21. [Executando o Docker Compose](../Node/Executando%20o%20Docker%20Compose.md)
+18. [Introdução ao Docker](../Node/Introdução%20ao%20Docker.md)
+19. [Conhecendo o Docker Hub](../Node/Conhecendo%20o%20Docker%20Hub.md)
+20. [Criando o Dockerfile](../Node/Criando%20o%20Dockerfile.md)
+21. [Docker Ignore](../Node/Docker%20Ignore.md)
+22. [Build Dockerfile](../Node/Build%20Dockerfile.md)
+23. [Rodando nosso Container](../Node/Rodando%20nosso%20Container.md)
+24. [Executando em Background](../Node/Executando%20em%20Background.md)
+25. [Visualizando Logs e Histórico](../Node/Visualizando%20Logs%20e%20Histórico.md)
+26. [Estados do Container](../Node/Estados%20do%20Container.md)
+27. [Removendo Container e Imagem](../Node/Removendo%20Container%20e%20Imagem.md)
+28. [Utilizando Tag para versionar imagens](../Node/Utilizando%20Tag%20para%20versionar%20imagens.md)
+29. [Efemeridade em Containers](../Node/Efemeridade%20em%20Containers.md)
+30. [Acessando Diretório de Trabalho](../Node/Acessando%20Diretório%20de%20Trabalho.md)
+31. [Criando Volumes](../Node/Criando%20Volumes.md)
+32. [Utilizando Imagem do PostgreSQL](../Node/Utilizando%20Imagem%20do%20PostgreSQL.md)
+33. [Conectando com o Beekeeper](../Node/Conectando%20com%20o%20Beekeeper.md)
+34. [Limpando Containers e Imagens](../Node/Limpando%20Containers%20e%20Imagens.md)
+35. [Entendendo o Docker Compose](../Node/Entendendo%20o%20Docker%20Compose.md)
+36. [Instalação do Docker Compose](../Node/Instalação%20do%20Docker%20Compose.md)
+37. [Criando o Docker Compose](../Node/Criando%20o%20Docker%20Compose.md)
+38. [Executando o Docker Compose](../Node/Executando%20o%20Docker%20Compose.md)
 
 ##### ORM Prisma
-1. [O que é um ORM](../Node/O%20que%20é%20um%20ORM.md)
-2. [Express Async Erros](../Node/Express%20Async%20Erros.md)
-3. [Conhecendo o Prisma](../Node/Conhecendo%20o%20Prisma.md)
-4. [Instalando e configurando o Prisma](../Node/Instalando%20e%20configurando%20o%20Prisma.md)
-5. [Criando Tabela com Prisma](../Node/Criando%20Tabela%20com%20Prisma.md)
-6. [Prisma Studio](../Node/Prisma%20Studio.md)
-7. [Inserindo dados com o Prisma](../Node/Inserindo%20dados%20com%20o%20Prisma.md)
-8. [FindMany](../Node/FindMany.md)
-9. [FindUnique](../Node/FindUnique.md)
-10. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
-11. [[Cadastrando Perguntas]]
-12. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
-13. [Consulta](../Node/Consulta.md)
-14. [Update - Prisma](../Node/Update%20-%20Prisma.md)
-15. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
-16. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
+39. [O que é um ORM](../Node/O%20que%20é%20um%20ORM.md)
+40. [Express Async Erros](../Node/Express%20Async%20Erros.md)
+41. [Conhecendo o Prisma](../Node/Conhecendo%20o%20Prisma.md)
+42. [Instalando e configurando o Prisma](../Node/Instalando%20e%20configurando%20o%20Prisma.md)
+43. [Criando Tabela com Prisma](../Node/Criando%20Tabela%20com%20Prisma.md)
+44. [Prisma Studio](../Node/Prisma%20Studio.md)
+45. [Inserindo dados com o Prisma](../Node/Inserindo%20dados%20com%20o%20Prisma.md)
+46. [FindMany](../Node/FindMany.md)
+47. [FindUnique](../Node/FindUnique.md)
+48. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
+49. [[Cadastrando Perguntas]]
+50. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
+51. [Consulta](../Node/Consulta.md)
+52. [Update - Prisma](../Node/Update%20-%20Prisma.md)
+53. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
+54. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
 
 ##### Autenticação e autorização
-1. [JWT](../Node/JWT.md)
-2. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
-3. [Utilizando Variável de Ambiente](../Node/Utilizando%20Variável%20de%20Ambiente.md)
-4. [JSON Web Token](../Node/JSON%20Web%20Token.md)
-5. [Criando Sessão](../Node/Criando%20Sessão.md)
-6. [[Extraindo o Token]]
-7. [[Middleware de Autenticação]]
-8. [[Definindo Papel do Usuário]]
-9. [[Atualizando Token Automático]]
-10. [[Middleware de Autorização]]
+55. [JWT](../Node/JWT.md)
+56. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
+57. [Utilizando Variável de Ambiente](../Node/Utilizando%20Variável%20de%20Ambiente.md)
+58. [JSON Web Token](../Node/JSON%20Web%20Token.md)
+59. [Criando Sessão](../Node/Criando%20Sessão.md)
+60. [[Extraindo o Token]]
+61. [[Middleware de Autenticação]]
+62. [[Definindo Papel do Usuário]]
+63. [[Atualizando Token Automático]]
+64. [[Middleware de Autorização]]
 ##### Testes Automatizados
-1. [[Tipos de Testes]]
-2. [[Instalando e Configurando o Jest]]
-3. [[Executando Teste Específico]]
-4. [[Script de Teste]]
-5. [[Escrevendo o primeiro teste]]
-6. [[Utilizando o Watch]]
-7. [[Agrupando Testes]]
-8. [[it]]
-9. [[beforeAll]]
-10. [[AfterAll]]
-11. [[Executando Teste E2E]]
-12. [[Validando Teste E2E]]
+65. [[Tipos de Testes]]
+66. [[Instalando e Configurando o Jest]]
+67. [[Executando Teste Específico]]
+68. [[Script de Teste]]
+69. [[Escrevendo o primeiro teste]]
+70. [[Utilizando o Watch]]
+71. [[Agrupando Testes]]
+72. [[it]]
+73. [[beforeAll]]
+74. [[AfterAll]]
+75. [[Executando Teste E2E]]
+76. [[Validando Teste E2E]]
 
 ##### Projeto - API de Entregas de encomendas
-1. [[Criando o Projeto]]
-2. [[Middeware De Tratamento de Exceções]]
-3. [[Adicionando Zod]]
-4. [[Criando Rota e Controller de Usuário]]
-5. [[Criando Docker Compose]]
-6. [[Executando o Docker Compose]]
-7. [[Configurando e Instalando o Prisma]]
-8. [[Estrutura do Banco de Dados]]
-9. [[Criando o Modelo das Tabelas]]
-10. [[Gerando Tabelas e Abrindo Banco de Dados]]
-11. [[Validando Dados do Usuário]]
-12. [[Criptografando Senha do Usuário]]
-13. [[Criando o Prisma Database]]
-14. [[Cadastrando Usuário no Banco]]
-15. [[Criando Controller e Rota de Autenticação]]
-16. [[Recuperando o Usuário]]
-17. [[Token do Usuário]]
-18. [[Validando Variável de Ambiente]]
-19. [[Finalizando Retorno do Usuário]]
-20. [[Criando ensure-authenticated]]
-21. [[Criando Deliveries Controller e Routes]]
-22. [[Verificando autorização]]
-23. [[Cadastra Entrega]]
-24. [[Listar entregas]]
-25. [[Exibindo Nome do Cliente]]
-26. [[Atualizando Status da Entrega]]
-27. [[Criando Controller e Rota de Logs da Entrega]]
-28. [[Cadastra Log]]
-29. [[Exibindo Detalhes do Pedido]]
-30. [[Exibindo Logs de um Pedido]]
-31. [[Condição de Pedido Entregue]]
-32. [[Registrando no Log Alteração de Status]]
-33. [[Instalando o Suite de Testes]]
-34. [[Configurando o Jest]]
-35. [[Testando Suite de Teste]]
-36. [[Teste no Cadastro do Usuário]]
-37. [[Removendo Usuário de Teste]]
-38. [[Testando Cadastro de Usuário com E-mail indisponível]]
-39. [[Testando Validação do Email]]
-40. [[Testando Autenticação]]
-41. [[Removendo Usuário da Autenticação]]
+77. [[Projetos/Rocketseat/Api de Entregas/Criando o Projeto]]
+78. [[Middeware De Tratamento de Exceções]]
+79. [[Adicionando Zod]]
+80. [[Criando Rota e Controller de Usuário]]
+81. [[Criando Docker Compose]]
+82. [[Executando o Docker Compose]]
+83. [[Configurando e Instalando o Prisma]]
+84. [[Estrutura do Banco de Dados]]
+85. [[Criando o Modelo das Tabelas]]
+86. [[Gerando Tabelas e Abrindo Banco de Dados]]
+87. [[Validando Dados do Usuário]]
+88. [[Criptografando Senha do Usuário]]
+89. [[Criando o Prisma Database]]
+90. [[Cadastrando Usuário no Banco]]
+91. [[Criando Controller e Rota de Autenticação]]
+92. [[Recuperando o Usuário]]
+93. [[Token do Usuário]]
+94. [[Validando Variável de Ambiente]]
+95. [[Finalizando Retorno do Usuário]]
+96. [[Criando ensure-authenticated]]
+97. [[Criando Deliveries Controller e Routes]]
+98. [[Verificando autorização]]
+99. [[Cadastra Entrega]]
+100. [[Listar entregas]]
+101. [[Exibindo Nome do Cliente]]
+102. [[Atualizando Status da Entrega]]
+103. [[Criando Controller e Rota de Logs da Entrega]]
+104. [[Cadastra Log]]
+105. [[Exibindo Detalhes do Pedido]]
+106. [[Exibindo Logs de um Pedido]]
+107. [[Condição de Pedido Entregue]]
+108. [[Registrando no Log Alteração de Status]]
+109. [[Instalando o Suite de Testes]]
+110. [[Configurando o Jest]]
+111. [[Testando Suite de Teste]]
+112. [[Teste no Cadastro do Usuário]]
+113. [[Removendo Usuário de Teste]]
+114. [[Testando Cadastro de Usuário com E-mail indisponível]]
+115. [[Testando Validação do Email]]
+116. [[Testando Autenticação]]
+117. [[Removendo Usuário da Autenticação]]
 ##### Deploy
-1. [[]]
-## Node - Ignite
-1. [[Conhecendo o Fastify]]
-2. [[Configurando ESLint]]
-3. [[]]
+118. [[Compreendendo Deploy]]
+119. [[Configurando a porta]]
+120. [[Build Da Aplicação]]
+121. [[Testando Build]]
+122. [[Configurações]]
+123. [[Colocando o projeto no GitHub]]
+124. [[Conhecendo o Render]]
+125. [[Criando o banco de dados]]
+126. [[Acessando o banco de dados remoto]]
+127. [[Deploy da aplicação]]
+##### Gerenciando dependências em projetos Node
+128. [[Visualizando Versões no NPM]]
+129. [[Versionamento Semântico]]
+130. [[Instalando Versões]]
+131. [[Calculando Versão]]
+132. 
 
+## Node - Ignite
+
+##### Criando API REST com Node.js
+133. [[Entendendo o Typescript]]
+134. [[Criando aplicação]]
+135. [[Configurando ESLint]]
+136. [[Estratégias de acesso ao banco]]
+137. [[Configurando o Knex]]
+138. [[Criando a primeira migration]]
+139. [[Criando tabela de transações]]
+140. [[Realizando queries com Knex]]
+141. [[Variáveis ambiente]]
+142. [[Tratando env com Zod]]
+143. [[Plugins do Fastify]]
+144. [[Criação de transações]]
+145. [[Tipagem no Knex]]
+146. [[Listagem das transações]]
+147. [[Resumo de transações]]
+148. [[Utilizando cookies no Fastify]]
+149. [[Validando existência do cookie]]
+150. [[Configurando um hook global]]
+151. 
 ## Java
 
 ##### Arrays e Coleções
-1. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
-2. [Coleções](../Java/Coleções.md)
-3. [Listas - Java](../Java/Listas%20-%20Java.md)
-4. [Conjuntos - Java](../Java/Conjuntos%20-%20Java.md)
+152. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
+153. [Coleções](../Java/Coleções.md)
+154. [Listas - Java](../Java/Listas%20-%20Java.md)
+155. [Conjuntos - Java](../Java/Conjuntos%20-%20Java.md)
 
 ##### Fundamentos do Spring Boot
-1. [Criando Projeto Spring](../Java/Criando%20Projeto%20Spring.md)
-2. [Controller - Java](../Java/Controller%20-%20Java.md)
-3. [Componente Scan](../Java/Componente%20Scan.md)
-4. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
-5. [Body Params](../Java/Body%20Params.md)
-6. [Response Entity](../Java/Response%20Entity.md)
+156. [Criando Projeto Spring](../Java/Criando%20Projeto%20Spring.md)
+157. [Controller - Java](../Java/Controller%20-%20Java.md)
+158. [Componente Scan](../Java/Componente%20Scan.md)
+159. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
+160. [Body Params](../Java/Body%20Params.md)
+161. [Response Entity](../Java/Response%20Entity.md)
 
 ## Kotlin
-1. [[Hello World em Kotlin]]
-2. [[Mutabilidade e Imutabilidade]]
-3. 
+162. [[Hello World em Kotlin]]
+163. [[Mutabilidade e Imutabilidade]]
+164. 

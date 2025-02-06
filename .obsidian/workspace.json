@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9469748819a2f351",
+        "id": "aae5c9e5850ea8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "9e13bf533e34b1c6",
+            "id": "d7a768feaed80566",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -152,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -161,48 +162,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9e13bf533e34b1c6",
+  "active": "d7a768feaed80566",
   "lastOpenFiles": [
-    "Escolas.md",
-    "Projetos/Rocketseat/Api de Entregas/Removendo Usuário da Autenticação.md",
+    "Criando a tabela de mesas.md",
     "Sumários/Sumário Rocketseat.md",
-    "Projetos/Rocketseat/Api de Entregas/Testando Autenticação.md",
-    "Eventos/Iniciando projeto backend.md",
-    "Sumários/Sumário Javanauta.md",
-    "Javanauta/Métodos - Modificadores de acesso.md",
-    "Javanauta/O que é objeto ?.md",
-    "Sumários/Alura.md",
-    "Alura/Java/Trabalhando com lambdas, streams e Spring Framework/Um novo projeto utilizando o Spring Framework.md",
-    "Sumários/Sumário Descomplica.md",
-    "Sumários/Sumário Udemy.md",
-    "Sumários/Sumário OneBitCode.md",
+    "Escolas.md",
+    "Projetos/Rocketseat/Api de Restaurante/Seed de Produtos.md",
+    "Projetos/Rocketseat/Api de Restaurante/Removendo Produtos.md",
+    "Projetos/Rocketseat/Api de Restaurante/Atualizando protudos.md",
+    "Sumários/Gran Faculdade.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Dispositivos de entrada e saída.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Interconexão do Sistema.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Memória e Processador.md",
+    "Projetos/Rocketseat/Api de Restaurante/Listando produtos.md",
+    "Projetos/Rocketseat/Api de Restaurante/Adicionando produto no banco.md",
+    "Imagens/Pasted image 20250205150444.png",
+    "Pasted image 20250205150424.png",
+    "Projetos/Rocketseat/Api de Restaurante/Validando dados do Produto.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Nuvem Computacional.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Sistemas de computação.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Estrutura de Funcionamento dos Computadores.md",
+    "Projetos/Rocketseat/Api de Restaurante/Adicionando e configurando o Zod.md",
+    "Projetos/Rocketseat/Api de Restaurante/Criando a conexão com o banco de dados.md",
+    "Projetos/Rocketseat/Api de Restaurante/Criando a Migration de Produtos.md",
+    "Projetos/Rocketseat/Api de Restaurante/Habilitando Restrição de Relacionamentos.md",
+    "Projetos/Rocketseat/Api de Restaurante/Instalando e Configurando o Knex.js.md",
     "Javanauta/Métodos de Instância e Métodos Estáticos.md",
-    "Sumários/Sumário AlgaWorks.md",
-    "Sumários/Sumário Rasmoo!.md",
-    "Sumários/Sumário FullCycle.md",
-    "Projetos/Rocketseat/Api de Entregas/Testando Validação do Email.md",
-    "Configurando ESLint.md",
-    "Node/Conhecendo o Fastify.md",
-    "Kotlin/Mutabilidade e Imutabilidade.md",
-    "Kotlin/Hello World em Kotlin.md",
-    "Imagens/Pasted image 20250103165006.png",
-    "Imagens/Pasted image 20250103164915.png",
-    "Imagens/Pasted image 20250103164210.png",
-    "Projetos/Rocketseat/Api de Entregas/Testando Cadastro de Usuário com E-mail indisponível.md",
-    "Projetos/Rocketseat/Api de Entregas/Removendo Usuário de Teste.md",
-    "Projetos/Rocketseat/Api de Entregas/Teste no Cadastro do Usuário.md",
-    "Projetos/Rocketseat/Api de Entregas/Testando Suite de Teste.md",
+    "Javanauta/Métodos - Tipo de Retorno.md",
+    "Javanauta/Métodos - Parâmetros de Métodos.md",
+    "Javanauta/Métodos - Modificadores de acesso.md",
+    "Javanauta/Métodos - Como nomear Métodos.md",
+    "Imagens/Pasted image 20250204163745.png",
+    "Imagens/Pasted image 20250204171930.png",
+    "Imagens/Pasted image 20250203213857.png",
+    "Imagens/Pasted image 20250203213628.png",
+    "Imagens/Pasted image 20250203213432.png",
+    "Projetos/Rocketseat/Api de Restaurante",
+    "Faculdade/Imagens/Pasted image 20250203183620.png",
+    "Faculdade/Imagens/Pasted image 20250203183538.png",
+    "Faculdade/Imagens/Pasted image 20250203183300.png",
+    "Faculdade/Imagens",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais",
+    "Faculdade/Programação ll",
+    "Faculdade",
+    "Deploy",
     "Imagens",
     "Kotlin",
-    "Pasted image 20241206201718.png",
     "Javanauta",
     "Projetos/Rocketseat/Api de Entregas",
-    "Projetos/Rocketseat",
-    "Projetos",
-    "Eventos",
-    "Udemy/Spring Boot Expert",
-    "Udemy",
-    "FullCycle 4.0/Docker na prática",
     "CSharp/Sem título.canvas"
   ]
 }
