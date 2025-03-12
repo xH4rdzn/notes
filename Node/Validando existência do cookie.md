@@ -38,3 +38,85 @@ app.get('/', {
 })
 ```
 - Agora basta aplicarmos esse `middleware`nas rotas onde desejamos que seja o mesmo `sessionId`;
+- Caso precisamos verificar se é o mesmo usuário que está fazendo a requisição, podemos fazer a verificação da seguinte maneira:
+```ts
+import type { FastifyReply, FastifyRequest } from 'fastify'
+
+import { knex } from '../database'
+
+  
+
+export async function checkingSessionIdExists(
+
+request: FastifyRequest,
+
+reply: FastifyReply,
+
+) {
+
+const sessionId = request.cookies.sessionId
+
+  
+
+if (!sessionId) {
+
+return reply.status(401).send({
+
+error: 'Não autorizado',
+
+})
+
+}
+
+  
+
+const user = await knex('users').where({ session_id: sessionId }).first()
+
+  
+
+if (!user) {
+
+return reply.status(401).send({
+
+error: 'Não autorizado',
+
+})
+
+}
+
+  
+
+request.user = user
+
+}
+```
+- E passamos o usuário para o `request`, para podermos recuperar em qualquer outra rota.
+- Mas também precisamos criar uma tipagem para o `Fastify`, para isso vamos na pasta `types`e criamos o arquivo `fastify.d.ts` e dentro dele adicionamos o seguinte código:
+```ts
+import 'fastify'
+
+  
+
+declare module 'fastify' {
+
+export interface FastifyRequest {
+
+user?: {
+
+id: string
+
+session_id: string
+
+name: string
+
+email: string
+
+created_at: string
+
+}
+
+}
+
+}
+```
+- Nota-se que passamos as informações que são do cadastro do usuário;

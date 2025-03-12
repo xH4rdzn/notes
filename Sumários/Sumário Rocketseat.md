@@ -52,274 +52,397 @@ ___
 ---
 
 ## FullStack
+
+#### JavaScript Básico - FullStack
+1. [[Comentários em Javascript]]
+2. [[Javascript/Var|Var]]
+3. [[Case Sensitive]]
+4. [[Let]]
+5. [[Const]]
+6. [[Compreendendo escopos]]
+7. [[Hoisting]]
+8. [[Tipos de Dados javascript|Tipo de Dados]]
+9. [[String]]
+10. [[Template Literals]] 
+11. [[Number]]
+12. [[Boolean]]
+13. [[Undefined e Null]]
+14. [[Conversão e Coerção de Tipos]]
+15. [[Expressões e Operadores]]
+16. [[Javascript/Operadores Aritméticos|Operadores Artméticos]]
+17. [[Incremento e decremento]]
+18. [[Ordem de Precedência]]
+19. [[Grouping Operator]]
+20. [[Igual a e Diferente de]]
+21. [[Estritamente Igual e Diferente]]
+22. [[Maior, Menor e Igual]]
+23. [[Operadores de Atribuição]]
+24. [[Javascript/Operadores Lógicos|Operadores Lógicos]]
+25. [[Condicionais]]
+26. [[Operador Condicional Ternário]]
+27. [[Falsy e Truthy]]
+28. [[If]]
+29. [[If Else]]
+30.  [[Else if]]
+31. [[Javascript/Switch|Switch]]
+32. [[Tratamento de Exceções]]
+33. [[Try - Cath - Finally]]
+34. [[O que são funções ?]]
+35. [[Primeira Função]]
+36. [[Argumentos e Parâmetros]]
+37. [[Retornando valores]]
+38. [[Escopo de Função]]
+39. [[Comentário de Documentação]]
+40. [[Função anônima]]
+41. [[Arrow Function]]
+42. [[Callback Function]]
+43. [[DOM - Document Object Model]]
+44. [[Acessando Elementos no DOM]]
+45. [[Query Selector]]
+46. [[Manipulando Conteúdo]]
+47. [[Alterando Estilos]]
+48. [[Criando Elementos]]
+49. [[Manipulando Atributos]]
+50. [[Eventos]]
+51. [[Eventos em um elemento específico]]
+52. [[Eventos de formulário]]
+53. [[Eventos em Input]]
+54. [[Compreendendo Expressão Regular]]
+55. [[Utilizando o Regexr]]
+56. [[Manipulando valor do input]]
+57. [[O que é depurar código]] 
+
+#### Projeto - Convert
+1. [[Criando o arquivo de script]]
+2. [[Obtendo o valor digitado]]
+3. [[Validando o input]]
+4. [[Obtendo a moeda selecionada]]
+5. [[Identificando a moeda]]
+6. [[Exibindo o footer]]
+7. [[Exibindo a cotação da moeda]]
+8. [[Criar a função para formatar moeda]]
+9. [[Exibindo o total]]
+10. [[Formatando o total]]
+
+#### Javascript Intermediário
+1. [[Aprendendo sobre objetos]]
+2. [[Criando um objeto]]
+3. [[Acessando um objeto]]
+4. [[Acessando propriedades no contexto do objeto]]
+5. [[Atualizando um objeto]]
+6. [[Encadeamento opcional (Optional chaining)]]
+7. [[Operador de coalescência nula]]
+8. [[O que é uma função construtora ?]]
+9. [[Texto maiúsculo e minúsculo]]
+10. [[Obtendo o comprimento de uma string]]
+11. [[Substituindo e fatiando um texto]]
+12. [[Completando uma string]]
+13. [[Separando e unindo strings]]
+14. [[Encontrando um conteúdo no texto]]
+15. [[Aprendendo sobre arrays]]
+16. [[Criando um array com um construtor]]
+17. [[Criando e acessando um array]]
+18. [[Convertendo uma string para array]]
+19. [[Adicionando e removendo um item do array]]
+20. [[Usando o índice]]
+21. [[Quais elementos o array aceita ?]]
+22. [[Verificando se existe um conteúdo no array]]
+23. [[Loop While]]
+24. [[Loop do While]]
+25. [[Loop for]]
+26. [[For in]]
+27. [[For Of]]
+28. [[Javascript/Break|Break]]
+29. [[Javascript/Continue|Continue]]
+30. [[Obtendo a data e a hora]]
+31. [[Definindo uma data e uma hora específica]]
+32. [[Métodos para trabalhar com data e hora]]
+33. [[Modificando uma data e uma hora]]
+34. [[Formatar uma data e uma hora]]
+35. 
+
 #### Node - FullStack
 
 ##### Criando API REST
-1. [O que é uma API Rest](../Node/O%20que%20é%20uma%20API%20Rest.md)
-2. [Criando projeto](../Node/Criando%20projeto.md)
-3. [Adicionando o TypeScript](../Node/Adicionando%20o%20TypeScript.md)
-4. [Compilando TypeScript](../Node/Compilando%20TypeScript.md)
-5. [Executando TypeScript com tsx](../Node/Executando%20TypeScript%20com%20tsx.md)
-6. [Configurando o TypeScript](../Node/Configurando%20o%20TypeScript.md)
-7. [Instalando e utilizando o Express](../Node/Instalando%20e%20utilizando%20o%20Express.md)
-8. [Criando API com Express](../Node/Criando%20API%20com%20Express.md)
-9. [Enviando requisição com o método GET](../Node/Enviando%20requisição%20com%20o%20método%20GET.md)
-10. [Route Params](../Node/Route%20Params.md)
-11. [Query Params](../Node/Query%20Params.md)
-12. [Dados no corpo da requisição](../Node/Dados%20no%20corpo%20da%20requisição.md)
-13. [Resposta com JSON e Status Code](../Node/Resposta%20com%20JSON%20e%20Status%20Code.md)
-14. [Middleware Global](../Node/Middleware%20Global.md)
-15. [Middleware Local](../Node/Middleware%20Local.md)
-16. [Modificando requisição e arquivo d.ts](../Node/Modificando%20requisição%20e%20arquivo%20d.ts.md)
-17. [Separando as Rotas](../Node/Separando%20as%20Rotas.md)
-18. [Controller](../Node/Controller.md)
-19. [Tratando exceções](../Node/Tratando%20exceções.md)
-20. [AppError](../Node/AppError.md)
-21. [Tratando requisição](../Node/Tratando%20requisição.md)
-22. [Instalando o Zod](../Node/Instalando%20o%20Zod.md)
-23. [Validando tipo de dado](../Node/Validando%20tipo%20de%20dado.md)
-24. [Formatando mensagens de erro com zod](../Node/Formatando%20mensagens%20de%20erro%20com%20zod.md)
-25. [Nullish](../Node/Nullish.md)
-26. [Customizar mensagem do zod](../Node/Customizar%20mensagem%20do%20zod.md)
-27. [Adicionando regras de validação](../Node/Adicionando%20regras%20de%20validação.md)
+32. [O que é uma API Rest](../Node/O%20que%20é%20uma%20API%20Rest.md)
+33. [Criando projeto](../Node/Criando%20projeto.md)
+34. [Adicionando o TypeScript](../Node/Adicionando%20o%20TypeScript.md)
+35. [Compilando TypeScript](../Node/Compilando%20TypeScript.md)
+36. [Executando TypeScript com tsx](../Node/Executando%20TypeScript%20com%20tsx.md)
+37. [Configurando o TypeScript](../Node/Configurando%20o%20TypeScript.md)
+38. [Instalando e utilizando o Express](../Node/Instalando%20e%20utilizando%20o%20Express.md)
+39. [Criando API com Express](../Node/Criando%20API%20com%20Express.md)
+40. [Enviando requisição com o método GET](../Node/Enviando%20requisição%20com%20o%20método%20GET.md)
+41. [Route Params](../Node/Route%20Params.md)
+42. [Query Params](../Node/Query%20Params.md)
+43. [Dados no corpo da requisição](../Node/Dados%20no%20corpo%20da%20requisição.md)
+44. [Resposta com JSON e Status Code](../Node/Resposta%20com%20JSON%20e%20Status%20Code.md)
+45. [Middleware Global](../Node/Middleware%20Global.md)
+46. [Middleware Local](../Node/Middleware%20Local.md)
+47. [Modificando requisição e arquivo d.ts](../Node/Modificando%20requisição%20e%20arquivo%20d.ts.md)
+48. [Separando as Rotas](../Node/Separando%20as%20Rotas.md)
+49. [Controller](../Node/Controller.md)
+50. [Tratando exceções](../Node/Tratando%20exceções.md)
+51. [AppError](../Node/AppError.md)
+52. [Tratando requisição](../Node/Tratando%20requisição.md)
+53. [Instalando o Zod](../Node/Instalando%20o%20Zod.md)
+54. [Validando tipo de dado](../Node/Validando%20tipo%20de%20dado.md)
+55. [Formatando mensagens de erro com zod](../Node/Formatando%20mensagens%20de%20erro%20com%20zod.md)
+56. [Nullish](../Node/Nullish.md)
+57. [Customizar mensagem do zod](../Node/Customizar%20mensagem%20do%20zod.md)
+58. [Adicionando regras de validação](../Node/Adicionando%20regras%20de%20validação.md)
 
 ##### Banco de dados
-1. [Introdução a banco de dados](../Banco%20De%20dados/Introdução%20a%20banco%20de%20dados.md)
-2. [Banco de dados Relacional](../Banco%20De%20dados/Banco%20de%20dados%20Relacional.md)
-3. [SQLite](../Banco%20De%20dados/SQLite.md)
-4. [Criando o banco de dados - SQLite](../Banco%20De%20dados/Criando%20o%20banco%20de%20dados%20-%20SQLite.md)
-5. [Tipos de Dados](../Banco%20De%20dados/Tipos%20de%20Dados.md)
-6. [Criando tabela via código - SQL](../Banco%20De%20dados/Criando%20tabela%20via%20código%20-%20SQL.md)
-7. [Adicionando e removendo coluna](../Banco%20De%20dados/Adicionando%20e%20removendo%20coluna.md)
-8. [Renomeando coluna](../Banco%20De%20dados/Renomeando%20coluna.md)
-9. [Renomear tabela](../Banco%20De%20dados/Renomear%20tabela.md)
-10. [Remover Tabela](../Banco%20De%20dados/Remover%20Tabela.md)
-11. [Inserindo e selecionando dados](../Banco%20De%20dados/Inserindo%20e%20selecionando%20dados.md)
-12. [Visualizando dados](../Banco%20De%20dados/Visualizando%20dados.md)
-13. [Atualizando dados](../Banco%20De%20dados/Atualizando%20dados.md)
-14. [Removendo registros](../Banco%20De%20dados/Removendo%20registros.md)
-15. [Where com Igualdade](../Banco%20De%20dados/Where%20com%20Igualdade.md)
-16. [Where com like](../Banco%20De%20dados/Where%20com%20like.md)
-17. [Filtrando valores](../Banco%20De%20dados/Filtrando%20valores.md)
-18. [Operadores AND e OR](../Banco%20De%20dados/Operadores%20AND%20e%20OR.md)
-19. [Between](../Banco%20De%20dados/Between.md)
-20. [IN](../Banco%20De%20dados/IN.md)
-21. [Order by](../Banco%20De%20dados/Order%20by.md)
-22. [LIMIT](../Banco%20De%20dados/LIMIT.md)
-23. [Count](../Banco%20De%20dados/Count.md)
-24. [Sum](../Banco%20De%20dados/Sum.md)
-25. [Avg](../Banco%20De%20dados/Avg.md)
-26. [Aliases](../Banco%20De%20dados/Aliases.md)
-27. [Group By](../Banco%20De%20dados/Group%20By.md)
-28. [Compreendendo Relacionamentos](../Banco%20De%20dados/Compreendendo%20Relacionamentos.md)
-29. [Tipos de Relacionamentos](../Banco%20De%20dados/Tipos%20de%20Relacionamentos.md)
-30. [Relacionamento Um para Um](../Banco%20De%20dados/Relacionamento%20Um%20para%20Um.md)
-31. [Inner Join](../Banco%20De%20dados/Inner%20Join.md)
-32. [Relacionamento Um para Muitos](../Banco%20De%20dados/Relacionamento%20Um%20para%20Muitos.md)
-33. [Relacionamento Muito para Muitos](../Banco%20De%20dados/Relacionamento%20Muito%20para%20Muitos.md)
+59. [Introdução a banco de dados](../Banco%20De%20dados/Introdução%20a%20banco%20de%20dados.md)
+60. [Banco de dados Relacional](../Banco%20De%20dados/Banco%20de%20dados%20Relacional.md)
+61. [SQLite](../Banco%20De%20dados/SQLite.md)
+62. [Criando o banco de dados - SQLite](../Banco%20De%20dados/Criando%20o%20banco%20de%20dados%20-%20SQLite.md)
+63. [Tipos de Dados](../Banco%20De%20dados/Tipos%20de%20Dados.md)
+64. [Criando tabela via código - SQL](../Banco%20De%20dados/Criando%20tabela%20via%20código%20-%20SQL.md)
+65. [Adicionando e removendo coluna](../Banco%20De%20dados/Adicionando%20e%20removendo%20coluna.md)
+66. [Renomeando coluna](../Banco%20De%20dados/Renomeando%20coluna.md)
+67. [Renomear tabela](../Banco%20De%20dados/Renomear%20tabela.md)
+68. [Remover Tabela](../Banco%20De%20dados/Remover%20Tabela.md)
+69. [Inserindo e selecionando dados](../Banco%20De%20dados/Inserindo%20e%20selecionando%20dados.md)
+70. [Visualizando dados](../Banco%20De%20dados/Visualizando%20dados.md)
+71. [Atualizando dados](../Banco%20De%20dados/Atualizando%20dados.md)
+72. [Removendo registros](../Banco%20De%20dados/Removendo%20registros.md)
+73. [Where com Igualdade](../Banco%20De%20dados/Where%20com%20Igualdade.md)
+74. [Where com like](../Banco%20De%20dados/Where%20com%20like.md)
+75. [Filtrando valores](../Banco%20De%20dados/Filtrando%20valores.md)
+76. [Operadores AND e OR](../Banco%20De%20dados/Operadores%20AND%20e%20OR.md)
+77. [Between](../Banco%20De%20dados/Between.md)
+78. [IN](../Banco%20De%20dados/IN.md)
+79. [Order by](../Banco%20De%20dados/Order%20by.md)
+80. [LIMIT](../Banco%20De%20dados/LIMIT.md)
+81. [Count](../Banco%20De%20dados/Count.md)
+82. [Sum](../Banco%20De%20dados/Sum.md)
+83. [Avg](../Banco%20De%20dados/Avg.md)
+84. [Aliases](../Banco%20De%20dados/Aliases.md)
+85. [Group By](../Banco%20De%20dados/Group%20By.md)
+86. [Compreendendo Relacionamentos](../Banco%20De%20dados/Compreendendo%20Relacionamentos.md)
+87. [Tipos de Relacionamentos](../Banco%20De%20dados/Tipos%20de%20Relacionamentos.md)
+88. [Relacionamento Um para Um](../Banco%20De%20dados/Relacionamento%20Um%20para%20Um.md)
+89. [Inner Join](../Banco%20De%20dados/Inner%20Join.md)
+90. [Relacionamento Um para Muitos](../Banco%20De%20dados/Relacionamento%20Um%20para%20Muitos.md)
+91. [Relacionamento Muito para Muitos](../Banco%20De%20dados/Relacionamento%20Muito%20para%20Muitos.md)
 
 ##### Query Builder
-1. [O que é um Query Builder](../Node/O%20que%20é%20um%20Query%20Builder.md)
-2. [Instalando o Knex.js](../Node/Instalando%20o%20Knex.js.md)
-3. [Compreendendo o que são migrations](../Node/Compreendendo%20o%20que%20são%20migrations.md)
-4. [Configurando o Knex.js](../Node/Configurando%20o%20Knex.js.md)
-5. [Script de execução](../Node/Script%20de%20execução.md)
-6. [Criando tabela](../Node/Criando%20tabela.md)
-7. [Criando migration para alterar tabela](../Node/Criando%20migration%20para%20alterar%20tabela.md)
-8. [Revertendo migration](../Node/Revertendo%20migration.md)
-9. [Método de Insert](../Node/Método%20de%20Insert.md)
-10. [Insert com Knex Raw](../Node/Insert%20com%20Knex%20Raw.md)
-11. [Select](../Node/Select.md)
-12. [Update](../Node/Update.md)
-13. [Delete](../Node/Delete.md)
-14. [Utilizando Seed](../Node/Utilizando%20Seed.md)
-15. [Criando relacionamento](../Node/Criando%20relacionamento.md)
-16. [Cadastrando Módulos](../Node/Cadastrando%20Módulos.md)
-17. [Select com Join](../Node/Select%20com%20Join.md)
+92. [O que é um Query Builder](../Node/O%20que%20é%20um%20Query%20Builder.md)
+93. [Instalando o Knex.js](../Node/Instalando%20o%20Knex.js.md)
+94. [Compreendendo o que são migrations](../Node/Compreendendo%20o%20que%20são%20migrations.md)
+95. [Configurando o Knex.js](../Node/Configurando%20o%20Knex.js.md)
+96. [Script de execução](../Node/Script%20de%20execução.md)
+97. [Criando tabela](../Node/Criando%20tabela.md)
+98. [Criando migration para alterar tabela](../Node/Criando%20migration%20para%20alterar%20tabela.md)
+99. [Revertendo migration](../Node/Revertendo%20migration.md)
+100. [Método de Insert](../Node/Método%20de%20Insert.md)
+101. [Insert com Knex Raw](../Node/Insert%20com%20Knex%20Raw.md)
+102. [Select](../Node/Select.md)
+103. [Update](../Node/Update.md)
+104. [Delete](../Node/Delete.md)
+105. [Utilizando Seed](../Node/Utilizando%20Seed.md)
+106. [Criando relacionamento](../Node/Criando%20relacionamento.md)
+107. [Cadastrando Módulos](../Node/Cadastrando%20Módulos.md)
+108. [Select com Join](../Node/Select%20com%20Join.md)
 
 ##### Criando uma API de Restaurante
-1. [[Projetos/Rocketseat/Api de Restaurante/Criando o projeto|Criando o projeto]]
-2. [[Configurando o Projeto]]
-3. [[Criando a estrutura do projeto]]
-4. [[Criando o Middleware de Tratamento de Exceções]]
-5. [[Instalando e Configurando o Knex.js]]
-6. [[Habilitando Restrição de Relacionamentos]]
-7. [[Criando a Migration de Produtos]]
-8. [[Criando a conexão com o banco de dados]]
-9. [[Adicionando e configurando o Zod]]
-10. [[Validando dados do Produto]]
-11. [[Adicionando produto no banco]]
-12. [[Listando produtos]]
-13. [[Atualizando protudos]]
-14. [[Removendo Produtos]]
-15. [[Seed de Produtos]]
-16. [[Criando a tabela de mesas]]
-17. [[]]
+109. [[Projetos/Rocketseat/Api de Restaurante/Criando o projeto|Criando o projeto]]
+110. [[Configurando o Projeto]]
+111. [[Criando a estrutura do projeto]]
+112. [[Criando o Middleware de Tratamento de Exceções]]
+113. [[Instalando e Configurando o Knex.js]]
+114. [[Habilitando Restrição de Relacionamentos]]
+115. [[Criando a Migration de Produtos]]
+116. [[Criando a conexão com o banco de dados]]
+117. [[Adicionando e configurando o Zod]]
+118. [[Validando dados do Produto]]
+119. [[Adicionando produto no banco]]
+120. [[Listando produtos]]
+121. [[Atualizando protudos]]
+122. [[Removendo Produtos]]
+123. [[Seed de Produtos]]
+124. [[Criando a tabela de mesas]]
+125. [[Seed de tabelas]]
+126. [[Listando mesas]]
+127. [[Criando tabela de sessão da mesa]]
+128. [[Rota e Controller de sessão da mesa]]
+129. [[Abrindo Mesa]]
+130. [[Refinando abertura da mesa]]
+131. [[Listando Sessões das Mesas]]
+132. [[Validando Id da Sessão]]
+133. [[Fechando a mesa]]
+134. 
 ##### Docker
-18. [Introdução ao Docker](../Node/Introdução%20ao%20Docker.md)
-19. [Conhecendo o Docker Hub](../Node/Conhecendo%20o%20Docker%20Hub.md)
-20. [Criando o Dockerfile](../Node/Criando%20o%20Dockerfile.md)
-21. [Docker Ignore](../Node/Docker%20Ignore.md)
-22. [Build Dockerfile](../Node/Build%20Dockerfile.md)
-23. [Rodando nosso Container](../Node/Rodando%20nosso%20Container.md)
-24. [Executando em Background](../Node/Executando%20em%20Background.md)
-25. [Visualizando Logs e Histórico](../Node/Visualizando%20Logs%20e%20Histórico.md)
-26. [Estados do Container](../Node/Estados%20do%20Container.md)
-27. [Removendo Container e Imagem](../Node/Removendo%20Container%20e%20Imagem.md)
-28. [Utilizando Tag para versionar imagens](../Node/Utilizando%20Tag%20para%20versionar%20imagens.md)
-29. [Efemeridade em Containers](../Node/Efemeridade%20em%20Containers.md)
-30. [Acessando Diretório de Trabalho](../Node/Acessando%20Diretório%20de%20Trabalho.md)
-31. [Criando Volumes](../Node/Criando%20Volumes.md)
-32. [Utilizando Imagem do PostgreSQL](../Node/Utilizando%20Imagem%20do%20PostgreSQL.md)
-33. [Conectando com o Beekeeper](../Node/Conectando%20com%20o%20Beekeeper.md)
-34. [Limpando Containers e Imagens](../Node/Limpando%20Containers%20e%20Imagens.md)
-35. [Entendendo o Docker Compose](../Node/Entendendo%20o%20Docker%20Compose.md)
-36. [Instalação do Docker Compose](../Node/Instalação%20do%20Docker%20Compose.md)
-37. [Criando o Docker Compose](../Node/Criando%20o%20Docker%20Compose.md)
-38. [Executando o Docker Compose](../Node/Executando%20o%20Docker%20Compose.md)
+135. [Introdução ao Docker](../Node/Introdução%20ao%20Docker.md)
+136. [Conhecendo o Docker Hub](../Node/Conhecendo%20o%20Docker%20Hub.md)
+137. [Criando o Dockerfile](../Node/Criando%20o%20Dockerfile.md)
+138. [Docker Ignore](../Node/Docker%20Ignore.md)
+139. [Build Dockerfile](../Node/Build%20Dockerfile.md)
+140. [Rodando nosso Container](../Node/Rodando%20nosso%20Container.md)
+141. [Executando em Background](../Node/Executando%20em%20Background.md)
+142. [Visualizando Logs e Histórico](../Node/Visualizando%20Logs%20e%20Histórico.md)
+143. [Estados do Container](../Node/Estados%20do%20Container.md)
+144. [Removendo Container e Imagem](../Node/Removendo%20Container%20e%20Imagem.md)
+145. [Utilizando Tag para versionar imagens](../Node/Utilizando%20Tag%20para%20versionar%20imagens.md)
+146. [Efemeridade em Containers](../Node/Efemeridade%20em%20Containers.md)
+147. [Acessando Diretório de Trabalho](../Node/Acessando%20Diretório%20de%20Trabalho.md)
+148. [Criando Volumes](../Node/Criando%20Volumes.md)
+149. [Utilizando Imagem do PostgreSQL](../Node/Utilizando%20Imagem%20do%20PostgreSQL.md)
+150. [Conectando com o Beekeeper](../Node/Conectando%20com%20o%20Beekeeper.md)
+151. [Limpando Containers e Imagens](../Node/Limpando%20Containers%20e%20Imagens.md)
+152. [Entendendo o Docker Compose](../Node/Entendendo%20o%20Docker%20Compose.md)
+153. [Instalação do Docker Compose](../Node/Instalação%20do%20Docker%20Compose.md)
+154. [Criando o Docker Compose](../Node/Criando%20o%20Docker%20Compose.md)
+155. [Executando o Docker Compose](../Node/Executando%20o%20Docker%20Compose.md)
 
 ##### ORM Prisma
-39. [O que é um ORM](../Node/O%20que%20é%20um%20ORM.md)
-40. [Express Async Erros](../Node/Express%20Async%20Erros.md)
-41. [Conhecendo o Prisma](../Node/Conhecendo%20o%20Prisma.md)
-42. [Instalando e configurando o Prisma](../Node/Instalando%20e%20configurando%20o%20Prisma.md)
-43. [Criando Tabela com Prisma](../Node/Criando%20Tabela%20com%20Prisma.md)
-44. [Prisma Studio](../Node/Prisma%20Studio.md)
-45. [Inserindo dados com o Prisma](../Node/Inserindo%20dados%20com%20o%20Prisma.md)
-46. [FindMany](../Node/FindMany.md)
-47. [FindUnique](../Node/FindUnique.md)
-48. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
-49. [[Cadastrando Perguntas]]
-50. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
-51. [Consulta](../Node/Consulta.md)
-52. [Update - Prisma](../Node/Update%20-%20Prisma.md)
-53. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
-54. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
+156. [O que é um ORM](../Node/O%20que%20é%20um%20ORM.md)
+157. [Express Async Erros](../Node/Express%20Async%20Erros.md)
+158. [Conhecendo o Prisma](../Node/Conhecendo%20o%20Prisma.md)
+159. [Instalando e configurando o Prisma](../Node/Instalando%20e%20configurando%20o%20Prisma.md)
+160. [Criando Tabela com Prisma](../Node/Criando%20Tabela%20com%20Prisma.md)
+161. [Prisma Studio](../Node/Prisma%20Studio.md)
+162. [Inserindo dados com o Prisma](../Node/Inserindo%20dados%20com%20o%20Prisma.md)
+163. [FindMany](../Node/FindMany.md)
+164. [FindUnique](../Node/FindUnique.md)
+165. [Criando a Tabela de Perguntas](../Node/Criando%20a%20Tabela%20de%20Perguntas.md)
+166. [[Cadastrando Perguntas]]
+167. [Relacionamentos](../Node/Relacionamentos%20no%20prisma.md)
+168. [Consulta](../Node/Consulta.md)
+169. [Update - Prisma](../Node/Update%20-%20Prisma.md)
+170. [Delete - Prisma](../Node/Delete%20-%20Prisma.md)
+171. [Seed - Prisma](../Node/Seed%20-%20Prisma.md) 
 
 ##### Autenticação e autorização
-55. [JWT](../Node/JWT.md)
-56. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
-57. [Utilizando Variável de Ambiente](../Node/Utilizando%20Variável%20de%20Ambiente.md)
-58. [JSON Web Token](../Node/JSON%20Web%20Token.md)
-59. [Criando Sessão](../Node/Criando%20Sessão.md)
-60. [[Extraindo o Token]]
-61. [[Middleware de Autenticação]]
-62. [[Definindo Papel do Usuário]]
-63. [[Atualizando Token Automático]]
-64. [[Middleware de Autorização]]
+172. [JWT](../Node/JWT.md)
+173. [Autenticação e Autorização](../Node/Autenticação%20e%20Autorização.md)
+174. [Utilizando Variável de Ambiente](../Node/Utilizando%20Variável%20de%20Ambiente.md)
+175. [JSON Web Token](../Node/JSON%20Web%20Token.md)
+176. [Criando Sessão](../Node/Criando%20Sessão.md)
+177. [[Extraindo o Token]]
+178. [[Middleware de Autenticação]]
+179. [[Definindo Papel do Usuário]]
+180. [[Atualizando Token Automático]]
+181. [[Middleware de Autorização]]
 ##### Testes Automatizados
-65. [[Tipos de Testes]]
-66. [[Instalando e Configurando o Jest]]
-67. [[Executando Teste Específico]]
-68. [[Script de Teste]]
-69. [[Escrevendo o primeiro teste]]
-70. [[Utilizando o Watch]]
-71. [[Agrupando Testes]]
-72. [[it]]
-73. [[beforeAll]]
-74. [[AfterAll]]
-75. [[Executando Teste E2E]]
-76. [[Validando Teste E2E]]
+182. [[Tipos de Testes]]
+183. [[Instalando e Configurando o Jest]]
+184. [[Executando Teste Específico]]
+185. [[Script de Teste]]
+186. [[Escrevendo o primeiro teste]]
+187. [[Utilizando o Watch]]
+188. [[Agrupando Testes]]
+189. [[it]]
+190. [[beforeAll]]
+191. [[AfterAll]]
+192. [[Executando Teste E2E]]
+193. [[Validando Teste E2E]]
 
 ##### Projeto - API de Entregas de encomendas
-77. [[Projetos/Rocketseat/Api de Entregas/Criando o Projeto]]
-78. [[Middeware De Tratamento de Exceções]]
-79. [[Adicionando Zod]]
-80. [[Criando Rota e Controller de Usuário]]
-81. [[Criando Docker Compose]]
-82. [[Executando o Docker Compose]]
-83. [[Configurando e Instalando o Prisma]]
-84. [[Estrutura do Banco de Dados]]
-85. [[Criando o Modelo das Tabelas]]
-86. [[Gerando Tabelas e Abrindo Banco de Dados]]
-87. [[Validando Dados do Usuário]]
-88. [[Criptografando Senha do Usuário]]
-89. [[Criando o Prisma Database]]
-90. [[Cadastrando Usuário no Banco]]
-91. [[Criando Controller e Rota de Autenticação]]
-92. [[Recuperando o Usuário]]
-93. [[Token do Usuário]]
-94. [[Validando Variável de Ambiente]]
-95. [[Finalizando Retorno do Usuário]]
-96. [[Criando ensure-authenticated]]
-97. [[Criando Deliveries Controller e Routes]]
-98. [[Verificando autorização]]
-99. [[Cadastra Entrega]]
-100. [[Listar entregas]]
-101. [[Exibindo Nome do Cliente]]
-102. [[Atualizando Status da Entrega]]
-103. [[Criando Controller e Rota de Logs da Entrega]]
-104. [[Cadastra Log]]
-105. [[Exibindo Detalhes do Pedido]]
-106. [[Exibindo Logs de um Pedido]]
-107. [[Condição de Pedido Entregue]]
-108. [[Registrando no Log Alteração de Status]]
-109. [[Instalando o Suite de Testes]]
-110. [[Configurando o Jest]]
-111. [[Testando Suite de Teste]]
-112. [[Teste no Cadastro do Usuário]]
-113. [[Removendo Usuário de Teste]]
-114. [[Testando Cadastro de Usuário com E-mail indisponível]]
-115. [[Testando Validação do Email]]
-116. [[Testando Autenticação]]
-117. [[Removendo Usuário da Autenticação]]
+194. [[Projetos/Rocketseat/Api de Entregas/Criando o Projeto]]
+195. [[Middeware De Tratamento de Exceções]]
+196. [[Adicionando Zod]]
+197. [[Criando Rota e Controller de Usuário]]
+198. [[Criando Docker Compose]]
+199. [[Executando o Docker Compose]]
+200. [[Configurando e Instalando o Prisma]]
+201. [[Estrutura do Banco de Dados]]
+202. [[Criando o Modelo das Tabelas]]
+203. [[Gerando Tabelas e Abrindo Banco de Dados]]
+204. [[Validando Dados do Usuário]]
+205. [[Criptografando Senha do Usuário]]
+206. [[Criando o Prisma Database]]
+207. [[Cadastrando Usuário no Banco]]
+208. [[Criando Controller e Rota de Autenticação]]
+209. [[Recuperando o Usuário]]
+210. [[Token do Usuário]]
+211. [[Validando Variável de Ambiente]]
+212. [[Finalizando Retorno do Usuário]]
+213. [[Criando ensure-authenticated]]
+214. [[Criando Deliveries Controller e Routes]]
+215. [[Verificando autorização]]
+216. [[Cadastra Entrega]]
+217. [[Listar entregas]]
+218. [[Exibindo Nome do Cliente]]
+219. [[Atualizando Status da Entrega]]
+220. [[Criando Controller e Rota de Logs da Entrega]]
+221. [[Cadastra Log]]
+222. [[Exibindo Detalhes do Pedido]]
+223. [[Exibindo Logs de um Pedido]]
+224. [[Condição de Pedido Entregue]]
+225. [[Registrando no Log Alteração de Status]]
+226. [[Instalando o Suite de Testes]]
+227. [[Configurando o Jest]]
+228. [[Testando Suite de Teste]]
+229. [[Teste no Cadastro do Usuário]]
+230. [[Removendo Usuário de Teste]]
+231. [[Testando Cadastro de Usuário com E-mail indisponível]]
+232. [[Testando Validação do Email]]
+233. [[Testando Autenticação]]
+234. [[Removendo Usuário da Autenticação]]
 ##### Deploy
-118. [[Compreendendo Deploy]]
-119. [[Configurando a porta]]
-120. [[Build Da Aplicação]]
-121. [[Testando Build]]
-122. [[Configurações]]
-123. [[Colocando o projeto no GitHub]]
-124. [[Conhecendo o Render]]
-125. [[Criando o banco de dados]]
-126. [[Acessando o banco de dados remoto]]
-127. [[Deploy da aplicação]]
+235. [[Compreendendo Deploy]]
+236. [[Configurando a porta]]
+237. [[Build Da Aplicação]]
+238. [[Testando Build]]
+239. [[Configurações]]
+240. [[Colocando o projeto no GitHub]]
+241. [[Conhecendo o Render]]
+242. [[Criando o banco de dados]]
+243. [[Acessando o banco de dados remoto]]
+244. [[Deploy da aplicação]]
 ##### Gerenciando dependências em projetos Node
-128. [[Visualizando Versões no NPM]]
-129. [[Versionamento Semântico]]
-130. [[Instalando Versões]]
-131. [[Calculando Versão]]
-132. 
+245. [[Visualizando Versões no NPM]]
+246. [[Versionamento Semântico]]
+247. [[Instalando Versões]]
+248. [[Calculando Versão]]
+249. 
 
 ## Node - Ignite
 
 ##### Criando API REST com Node.js
-133. [[Entendendo o Typescript]]
-134. [[Criando aplicação]]
-135. [[Configurando ESLint]]
-136. [[Estratégias de acesso ao banco]]
-137. [[Configurando o Knex]]
-138. [[Criando a primeira migration]]
-139. [[Criando tabela de transações]]
-140. [[Realizando queries com Knex]]
-141. [[Variáveis ambiente]]
-142. [[Tratando env com Zod]]
-143. [[Plugins do Fastify]]
-144. [[Criação de transações]]
-145. [[Tipagem no Knex]]
-146. [[Listagem das transações]]
-147. [[Resumo de transações]]
-148. [[Utilizando cookies no Fastify]]
-149. [[Validando existência do cookie]]
-150. [[Configurando um hook global]]
-151. 
+250. [[Entendendo o Typescript]]
+251. [[Criando aplicação]]
+252. [[Configurando ESLint]]
+253. [[Estratégias de acesso ao banco]]
+254. [[Configurando o Knex]]
+255. [[Criando a primeira migration]]
+256. [[Criando tabela de transações]]
+257. [[Realizando queries com Knex]]
+258. [[Variáveis ambiente]]
+259. [[Tratando env com Zod]]
+260. [[Plugins do Fastify]]
+261. [[Criação de transações]]
+262. [[Tipagem no Knex]]
+263. [[Listagem das transações]]
+264. [[Resumo de transações]]
+265. [[Utilizando cookies no Fastify]]
+266. [[Validando existência do cookie]]
+267. [[Configurando um hook global]]
+268. 
 ## Java
 
 ##### Arrays e Coleções
-152. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
-153. [Coleções](../Java/Coleções.md)
-154. [Listas - Java](../Java/Listas%20-%20Java.md)
-155. [Conjuntos - Java](../Java/Conjuntos%20-%20Java.md)
+269. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
+270. [Coleções](../Java/Coleções.md)
+271. [Listas - Java](../Java/Listas%20-%20Java.md)
+272. [Conjuntos - Java](../Java/Conjuntos%20-%20Java.md)
 
 ##### Fundamentos do Spring Boot
-156. [Criando Projeto Spring](../Java/Criando%20Projeto%20Spring.md)
-157. [Controller - Java](../Java/Controller%20-%20Java.md)
-158. [Componente Scan](../Java/Componente%20Scan.md)
-159. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
-160. [Body Params](../Java/Body%20Params.md)
-161. [Response Entity](../Java/Response%20Entity.md)
+273. [Criando Projeto Spring](../Java/Criando%20Projeto%20Spring.md)
+274. [Controller - Java](../Java/Controller%20-%20Java.md)
+275. [Componente Scan](../Java/Componente%20Scan.md)
+276. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
+277. [Body Params](../Java/Body%20Params.md)
+278. [Response Entity](../Java/Response%20Entity.md)
 
 ## Kotlin
-162. [[Hello World em Kotlin]]
-163. [[Mutabilidade e Imutabilidade]]
-164. 
+279. [[Hello World em Kotlin]]
+280. [[Mutabilidade e Imutabilidade]]
+## Eventos
+#### NLW Connect
+##### Node
+1. [[Criação e configuração inicial do projeto]]
+2. [[Integração com banco de dados e primeiras funcionalidades]]
+3. 

@@ -27,5 +27,5 @@ ___
 3. [[Docker e contexto em que foi criado]]
 4. [[Docker Inc]]
 ##### Manipulando containers
-1. [[Linha de Comando, seu primeiro passo]]
+1. [[Executando nosso primeiro container com hello world]]
 2. 

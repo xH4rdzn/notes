@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFolderArchive",
-      "LiFolder",
-      "📚"
+      "FabDocker",
+      "LiScrollText",
+      "LiImages",
+      "LiList",
+      "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,9 +35,26 @@
     "useInternalPlugins": false
   },
   "Escolas.md": "📚",
-  "Node": "LiFolder",
-  "Kotlin": "LiFolder",
-  "Javanauta": "LiFolder",
-  "Java": "LiFolder",
-  "Imagens": "LiFolderArchive"
+  "Node": {
+    "iconName": "BoBxlNodejs",
+    "iconColor": "#6cc24a"
+  },
+  "Java": {
+    "iconName": "BoBxlJava",
+    "iconColor": "#c70000"
+  },
+  "Imagens": "LiImages",
+  "Javascript": {
+    "iconName": "BoBxlJavascript",
+    "iconColor": "#f0db4f"
+  },
+  "Banco De dados": {
+    "iconName": "LiDatabase",
+    "iconColor": "#c4177c"
+  },
+  "Java/Javanauta": "LiFolder",
+  "Sumários": "LiList",
+  "Faculdade": "LiScrollText",
+  "FullCycle 4.0/Docker na prática": "FabDocker",
+  "FullCycle 3.0/Docker": "FabDocker"
 }
