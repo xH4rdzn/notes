@@ -159,7 +159,17 @@ ___
 32. [[Métodos para trabalhar com data e hora]]
 33. [[Modificando uma data e uma hora]]
 34. [[Formatar uma data e uma hora]]
-35. 
+35. [[Convertendo uma data para string]]
+36. [[Exibindo data e hora formatadas de acordo com a localidade]]
+37. [[Usando o toLocaleString()]]
+38. [[Aprendendo sobre fuso horário]]
+39. [[Conhecendo a Intl]]
+40. [[Criando uma data e hora com fuso horário]]
+41. [[Aprendendo sobre classes]]
+42. [[Criando uma classe com um método construtor]]
+43. [[Criando propriedades dentro das classes]]
+44. [[Adicionando métodos nas classes]]
+45. 
 
 #### Node - FullStack
 

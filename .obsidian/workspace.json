@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Formatar uma data e uma hora.md",
+                "file": "Javascript/Adicionando métodos nas classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formatar uma data e uma hora"
+              "title": "Adicionando métodos nas classes"
             }
           }
         ]
@@ -161,15 +161,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f13b409cc3ecdea9",
+  "active": "1011bf8c95a43869",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
-    "Javascript/Formatar uma data e uma hora.md",
+    "Javascript/Adicionando métodos nas classes.md",
+    "Javascript/Criando propriedades dentro das classes.md",
+    "Javascript/Criando uma classe com um método construtor.md",
+    "Javascript/Aprendendo sobre classes.md",
     "Javascript/Modificando uma data e uma hora.md",
     "Javascript/Métodos para trabalhar com data e hora.md",
+    "Javascript/Criando uma data e hora com fuso horário.md",
+    "Javascript/Conhecendo a Intl.md",
+    "Javascript/Aprendendo sobre fuso horário.md",
+    "Javascript/Usando o toLocaleString().md",
+    "Javascript/Exibindo data e hora formatadas de acordo com a localidade.md",
+    "Javascript/Convertendo uma data para string.md",
+    "Javascript/Formatar uma data e uma hora.md",
+    "Escolas.md",
     "Javascript/Definindo uma data e uma hora específica.md",
     "Javascript/Obtendo a data e a hora.md",
-    "Escolas.md",
     "Javascript/Continue.md",
     "Javascript/Break.md",
     "CSharp/Break.md",
@@ -179,16 +189,6 @@
     "Javascript/Loop do While.md",
     "Javascript/Loop Infinito.md",
     "Javascript/Loop While.md",
-    "Javascript/Aprendendo sobre repetições.md",
-    "Javascript/Verificando se existe um conteúdo no array.md",
-    "Javascript/Quais elementos o array aceita ?.md",
-    "Javascript/Usando o índice.md",
-    "Javascript/Adicionando e removendo um item do array.md",
-    "Javascript/Convertendo uma string para array.md",
-    "Javascript/Criando e acessando um array.md",
-    "Javascript/Criando um array com um construtor.md",
-    "Javascript/Aprendendo sobre arrays.md",
-    "Javascript/Encontrando um conteúdo no texto.md",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
     "Imagens/Pasted image 20250222073043.png",
