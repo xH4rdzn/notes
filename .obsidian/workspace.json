@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c31c47bb37655322",
+        "id": "4a329ef22e68ff2b",
         "type": "tabs",
         "children": [
           {
-            "id": "1011bf8c95a43869",
+            "id": "ccaf0629f30dce43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Adicionando métodos nas classes.md",
+                "file": "Sumários/Sumário Rocketseat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adicionando métodos nas classes"
+              "title": "Sumário Rocketseat"
             }
           }
         ]
@@ -161,9 +161,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1011bf8c95a43869",
+  "active": "f13b409cc3ecdea9",
   "lastOpenFiles": [
+    "Javascript/Como utilizar classes para criar erros customizados.md",
     "Sumários/Sumário Rocketseat.md",
+    "Javascript/Como utilizar classes para lidar com exceções.md",
+    "Javascript/Criando um objeto prototype.md",
+    "Escolas.md",
+    "Javascript/Aprendendo sobre herança e cadeia de protótipos.md",
+    "Javascript/Sobrescrevendo métodos.md",
+    "Javascript/Como aplicar herança com classes ?.md",
+    "Javascript/O que é método estático ?.md",
     "Javascript/Adicionando métodos nas classes.md",
     "Javascript/Criando propriedades dentro das classes.md",
     "Javascript/Criando uma classe com um método construtor.md",
@@ -177,18 +185,10 @@
     "Javascript/Exibindo data e hora formatadas de acordo com a localidade.md",
     "Javascript/Convertendo uma data para string.md",
     "Javascript/Formatar uma data e uma hora.md",
-    "Escolas.md",
     "Javascript/Definindo uma data e uma hora específica.md",
     "Javascript/Obtendo a data e a hora.md",
     "Javascript/Continue.md",
     "Javascript/Break.md",
-    "CSharp/Break.md",
-    "Javascript/For in.md",
-    "Javascript/For Of.md",
-    "Javascript/Loop for.md",
-    "Javascript/Loop do While.md",
-    "Javascript/Loop Infinito.md",
-    "Javascript/Loop While.md",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
     "Imagens/Pasted image 20250222073043.png",

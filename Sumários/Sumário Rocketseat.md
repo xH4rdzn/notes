@@ -169,7 +169,17 @@ ___
 42. [[Criando uma classe com um método construtor]]
 43. [[Criando propriedades dentro das classes]]
 44. [[Adicionando métodos nas classes]]
-45. 
+45. [[O que é método estático ?]]
+46. [[Como aplicar herança com classes ?]]
+47. [[Sobrescrevendo métodos]]
+48. [[Aprendendo sobre herança e cadeia de protótipos]]
+49. [[Criando um objeto prototype]]
+50. [[Como utilizar classes para lidar com exceções]]
+51. [[Como utilizar classes para criar erros customizados]]
+
+#### Projeto: Refund
+1. [[]]
+
 
 #### Node - FullStack
 
