@@ -53,7 +53,7 @@ ___
 
 ## FullStack
 
-#### JavaScript Básico - FullStack
+#### JavaScript Básico
 1. [[Comentários em Javascript]]
 2. [[Javascript/Var|Var]]
 3. [[Case Sensitive]]
@@ -178,7 +178,41 @@ ___
 51. [[Como utilizar classes para criar erros customizados]]
 
 #### Projeto: Refund
-1. [[]]
+1. [[Capturando o evento de input]]
+2. [[Aceitando somente números no valor]]
+3. [[Formatando a moeda]]
+4. [[Obtendo os dados do formulário]]
+5. [[Criando um objeto de nova despesa]]
+6. [[Criando a função para adicionar uma nova despesa]]
+7. [[Criando a li]]
+8. [[Criando o ícone da categoria]]
+9. [[Criando a informação da despesa]]
+10. [[Criando o valor da despesa]]
+11. [[Criando o ícone de remover]]
+12. [[Exibindo a quantidade de itens da lista]]
+13. [[Percorrendo os itens da lista]]
+14. [[Calculando o valor total]]
+15. [[Formatando o valor total]]
+16. [[Capturando o clique para remover uma despesa]]
+17. [[Removendo um item da lista]]
+18. [[Cuidando da usabilidade]]
+
+#### Javascript antes do framework
+1. [[Conhecendo o ECMAScript]]
+2. [[Conhecendo o strict mode]]
+3. [[Desestruturação de array]]
+4. [[Desestruturação de objetos]]
+5. [[Conhecendo rest params]]
+6. [[Conhecendo o spread]]
+7. [[Método map()]]
+8. [[Método filter()]]
+9. [[Método findIndex()]]
+10. [[Método find()]]
+11. [[Método every()]]
+12. [[Método some()]]
+13. [[Método reduce()]]
+14. [[Conhecendo sobre imutabilidade]]
+15. 
 
 
 #### Node - FullStack

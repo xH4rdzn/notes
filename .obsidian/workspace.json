@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumários/Sumário Rocketseat.md",
+                "file": "Conhecendo sobre imutabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário Rocketseat"
+              "title": "Conhecendo sobre imutabilidade"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -161,34 +162,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f13b409cc3ecdea9",
+  "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
-    "Javascript/Como utilizar classes para criar erros customizados.md",
     "Sumários/Sumário Rocketseat.md",
-    "Javascript/Como utilizar classes para lidar com exceções.md",
-    "Javascript/Criando um objeto prototype.md",
+    "Conhecendo sobre imutabilidade.md",
+    "Método reduce().md",
+    "Método some().md",
+    "Método every().md",
+    "Método find().md",
+    "Método findIndex().md",
+    "Método filter().md",
+    "Método map().md",
+    "Conhecendo o spread.md",
+    "Conhecendo rest params.md",
+    "Desestruturação de objetos.md",
+    "Javascript/Desestruturação de array.md",
     "Escolas.md",
-    "Javascript/Aprendendo sobre herança e cadeia de protótipos.md",
-    "Javascript/Sobrescrevendo métodos.md",
-    "Javascript/Como aplicar herança com classes ?.md",
-    "Javascript/O que é método estático ?.md",
-    "Javascript/Adicionando métodos nas classes.md",
-    "Javascript/Criando propriedades dentro das classes.md",
-    "Javascript/Criando uma classe com um método construtor.md",
-    "Javascript/Aprendendo sobre classes.md",
-    "Javascript/Modificando uma data e uma hora.md",
-    "Javascript/Métodos para trabalhar com data e hora.md",
-    "Javascript/Criando uma data e hora com fuso horário.md",
-    "Javascript/Conhecendo a Intl.md",
-    "Javascript/Aprendendo sobre fuso horário.md",
-    "Javascript/Usando o toLocaleString().md",
-    "Javascript/Exibindo data e hora formatadas de acordo com a localidade.md",
-    "Javascript/Convertendo uma data para string.md",
-    "Javascript/Formatar uma data e uma hora.md",
-    "Javascript/Definindo uma data e uma hora específica.md",
-    "Javascript/Obtendo a data e a hora.md",
-    "Javascript/Continue.md",
-    "Javascript/Break.md",
+    "Projetos/Rocketseat/Projeto - Refund/Removendo um item da lista.md",
+    "Javascript/Manipulando Atributos.md",
+    "Projetos/Rocketseat/Projeto - Refund/Capturando o clique para remover uma despesa.md",
+    "Projetos/Rocketseat/Projeto - Refund/Criando o ícone da categoria.md",
+    "Projetos/Rocketseat/Projeto - Refund/Criando a informação da despesa.md",
+    "Projetos/Rocketseat/Projeto - Refund/Criando a li.md",
+    "Projetos/Rocketseat/Projeto - Refund/Criando a função para adicionar uma nova despesa.md",
+    "Projetos/Rocketseat/Projeto - Refund/Criando um objeto de nova despesa.md",
+    "Projetos/Rocketseat/Projeto - Refund/Obtendo os dados do formulário.md",
+    "Projetos/Rocketseat/Projeto - Refund/Formatando a moeda.md",
+    "Projetos/Rocketseat/Projeto - Refund/Aceitando somente números no valor.md",
+    "Projetos/Rocketseat/Projeto - Refund/Capturando o evento de input.md",
+    "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
     "Imagens/Pasted image 20250222073043.png",
@@ -208,7 +210,6 @@
     "Faculdade/Imagens/Pasted image 20250203183620.png",
     "Faculdade/Imagens",
     "Faculdade/Arquitetura de Computadores e Sistemas Operacionais",
-    "Faculdade/Programação ll",
     "CSharp/Sem título.canvas"
   ]
 }
