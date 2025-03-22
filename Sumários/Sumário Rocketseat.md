@@ -212,7 +212,14 @@ ___
 12. [[Método some()]]
 13. [[Método reduce()]]
 14. [[Conhecendo sobre imutabilidade]]
-15. 
+15. [[Aplicando imutabilidade]]
+16. [[Shallow e Deep Copy]]
+17. [[Shallow freezing]]
+18. [[Deep Freeze]]
+19. [[Manipulando objetos imutáveis]]
+20. [[Conhecendo o ES Modules]]
+21. [[Criando os módulos]]
+22. 
 
 
 #### Node - FullStack
