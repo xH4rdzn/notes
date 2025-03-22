@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Criando os módulos.md",
+                "file": "Javascript/Conhecendo o pacote day.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando os módulos"
+              "title": "Conhecendo o pacote day.js"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -165,6 +164,20 @@
   "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
+    "Javascript/Conhecendo o pacote day.js.md",
+    "Javascript/O que são pacotes.md",
+    "Javascript/Conhecendo o event loop.md",
+    "Javascript/Conhecendo o async e await.md",
+    "Javascript/Conhecendo promises.md",
+    "Javascript/Conhecendo funções assíncronas.md",
+    "Javascript/Conhecendo o setInterval().md",
+    "Javascript/Conhecendo o setTimeout().md",
+    "Javascript/Usando classes nos módulos.md",
+    "Javascript/Renomeando as importações.md",
+    "Javascript/Renomeando as exportações.md",
+    "Javascript/Exportação padrão ou nomeada.md",
+    "Javascript/Importando tudo.md",
+    "Escolas.md",
     "Javascript/Criando os módulos.md",
     "Javascript/Conhecendo o ES Modules.md",
     "Javascript/Manipulando objetos imutáveis.md",
@@ -173,23 +186,9 @@
     "Javascript/Shallow e Deep Copy.md",
     "Javascript/Aplicando imutabilidade.md",
     "Javascript/Conhecendo o spread.md",
-    "Escolas.md",
     "Javascript/Conhecendo sobre imutabilidade.md",
     "Javascript/Método reduce().md",
     "Javascript/Método some().md",
-    "Javascript/Método every().md",
-    "Javascript/Método find().md",
-    "Javascript/Método findIndex().md",
-    "Javascript/Método filter().md",
-    "Javascript/Método map().md",
-    "Javascript/Conhecendo rest params.md",
-    "Javascript/Desestruturação de objetos.md",
-    "Javascript/Desestruturação de array.md",
-    "Projetos/Rocketseat/Projeto - Refund/Removendo um item da lista.md",
-    "Javascript/Manipulando Atributos.md",
-    "Projetos/Rocketseat/Projeto - Refund/Capturando o clique para remover uma despesa.md",
-    "Projetos/Rocketseat/Projeto - Refund/Criando o ícone da categoria.md",
-    "Projetos/Rocketseat/Projeto - Refund/Criando a informação da despesa.md",
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",

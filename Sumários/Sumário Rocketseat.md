@@ -219,7 +219,20 @@ ___
 19. [[Manipulando objetos imutáveis]]
 20. [[Conhecendo o ES Modules]]
 21. [[Criando os módulos]]
-22. 
+22. [[Importando tudo]]
+23. [[Exportação padrão ou nomeada]]
+24. [[Renomeando as exportações]]
+25. [[Renomeando as importações]]
+26. [[Usando classes nos módulos]]
+27. [[Conhecendo o setTimeout()]]
+28. [[Conhecendo o setInterval()]]
+29. [[Conhecendo funções assíncronas]]
+30. [[Conhecendo promises]]
+31. [[Conhecendo o async e await]]
+32. [[Conhecendo o event loop]]
+33. [[O que são pacotes]]
+34. [[Conhecendo o pacote day.js]]
+35. 
 
 
 #### Node - FullStack
