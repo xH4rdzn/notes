@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Utilizando async e await.md",
+                "file": "Javascript/Como incluir o HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utilizando async e await"
+              "title": "Como incluir o HTML"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -165,11 +164,24 @@
   "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
+    "Javascript/Como incluir o HTML.md",
+    "Javascript/Configurando o Webpack.md",
+    "Javascript/Instalando e executando o Webpack.md",
+    "Javascript/Conhecendo os bundlers.md",
+    "Javascript/Automatizando as mudanças.md",
+    "Configurando os targets.md",
+    "Javascript/Criando um script para compilar.md",
+    "Javascript/Utilizando o arquivo compilado.md",
+    "Javascript/Configurando e utilizando o Babel.md",
+    "Javascript/Instalando o Babel.md",
+    "Javascript/Conhecendo os compiladores.md",
+    "Javascript/Fetch com Post.md",
+    "Javascript/Passando parâmetros na requisição.md",
+    "Escolas.md",
     "Javascript/Utilizando async e await.md",
     "Javascript/Usando o fetch.md",
     "Javascript/Criando uma API de exemplo.md",
     "Javascript/Instalando uma versão específica.md",
-    "Escolas.md",
     "Javascript/Instalando o json-server.md",
     "Javascript/O que é uma API.md",
     "Node/O que é uma API Rest.md",
@@ -177,19 +189,6 @@
     "Javascript/Gerenciador de pacotes.md",
     "Deploy/Deploy da aplicação.md",
     "Javascript/Conhecendo o pacote day.js.md",
-    "Javascript/O que são pacotes.md",
-    "Javascript/Conhecendo o event loop.md",
-    "Javascript/Conhecendo o async e await.md",
-    "Javascript/Conhecendo promises.md",
-    "Javascript/Conhecendo funções assíncronas.md",
-    "Javascript/Conhecendo o setInterval().md",
-    "Javascript/Conhecendo o setTimeout().md",
-    "Javascript/Usando classes nos módulos.md",
-    "Javascript/Renomeando as importações.md",
-    "Javascript/Renomeando as exportações.md",
-    "Javascript/Exportação padrão ou nomeada.md",
-    "Javascript/Importando tudo.md",
-    "Javascript/Criando os módulos.md",
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",

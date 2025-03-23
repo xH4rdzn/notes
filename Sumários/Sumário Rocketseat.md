@@ -239,7 +239,18 @@ ___
 39. [[Criando uma API de exemplo]]
 40. [[Usando o fetch]]
 41. [[Utilizando async e await]]
-42. 
+42. [[Passando parâmetros na requisição]]
+43. [[Fetch com Post]]
+44. [[Conhecendo os compiladores]]
+45. [[Instalando o Babel]]
+46. [[Configurando e utilizando o Babel]]
+47. [[Criando um script para compilar]]
+48. [[Automatizando as mudanças]]
+49. [[Conhecendo os bundlers]]
+50. [[Instalando e executando o Webpack]]
+51. [[Configurando o Webpack]]
+52. [[Como incluir o HTML]]
+53. 
 #### Node - FullStack
 
 ##### Criando API REST
