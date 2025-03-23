@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilizando async e await.md",
+                "file": "Javascript/Utilizando async e await.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,10 +165,10 @@
   "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
-    "Utilizando async e await.md",
-    "Usando o fetch.md",
-    "Criando uma API de exemplo.md",
-    "Instalando uma versão específica.md",
+    "Javascript/Utilizando async e await.md",
+    "Javascript/Usando o fetch.md",
+    "Javascript/Criando uma API de exemplo.md",
+    "Javascript/Instalando uma versão específica.md",
     "Escolas.md",
     "Javascript/Instalando o json-server.md",
     "Javascript/O que é uma API.md",
