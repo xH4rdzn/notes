@@ -235,7 +235,11 @@ ___
 35. [[Resolução de depedências]]
 36. [[O que é uma API]]
 37. [[Instalando o json-server]]
-38. 
+38. [[Instalando uma versão específica]]
+39. [[Criando uma API de exemplo]]
+40. [[Usando o fetch]]
+41. [[Utilizando async e await]]
+42. 
 #### Node - FullStack
 
 ##### Criando API REST
