@@ -231,10 +231,11 @@ ___
 31. [[Conhecendo o async e await]]
 32. [[Conhecendo o event loop]]
 33. [[O que são pacotes]]
-34. [[Conhecendo o pacote day.js]]
-35. 
-
-
+34. [[Gerenciador de pacotes]]
+35. [[Resolução de depedências]]
+36. [[O que é uma API]]
+37. [[Instalando o json-server]]
+38. 
 #### Node - FullStack
 
 ##### Criando API REST

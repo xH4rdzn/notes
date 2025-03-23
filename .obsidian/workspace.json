@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Conhecendo o pacote day.js.md",
+                "file": "Instalando o json-server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conhecendo o pacote day.js"
+              "title": "Instalando o json-server"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -164,6 +165,13 @@
   "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
+    "Instalando o json-server.md",
+    "O que é uma API.md",
+    "Node/O que é uma API Rest.md",
+    "Escolas.md",
+    "Javascript/Resolução de depedências.md",
+    "Javascript/Gerenciador de pacotes.md",
+    "Deploy/Deploy da aplicação.md",
     "Javascript/Conhecendo o pacote day.js.md",
     "Javascript/O que são pacotes.md",
     "Javascript/Conhecendo o event loop.md",
@@ -177,18 +185,11 @@
     "Javascript/Renomeando as exportações.md",
     "Javascript/Exportação padrão ou nomeada.md",
     "Javascript/Importando tudo.md",
-    "Escolas.md",
     "Javascript/Criando os módulos.md",
     "Javascript/Conhecendo o ES Modules.md",
     "Javascript/Manipulando objetos imutáveis.md",
     "Javascript/Deep Freeze.md",
     "Javascript/Shallow freezing.md",
-    "Javascript/Shallow e Deep Copy.md",
-    "Javascript/Aplicando imutabilidade.md",
-    "Javascript/Conhecendo o spread.md",
-    "Javascript/Conhecendo sobre imutabilidade.md",
-    "Javascript/Método reduce().md",
-    "Javascript/Método some().md",
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
