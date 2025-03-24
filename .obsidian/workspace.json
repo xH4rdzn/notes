@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Como incluir o HTML.md",
+                "file": "Projetos/Rocketseat/Projeto - Hair Day/Usando o json-server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como incluir o HTML"
+              "title": "Usando o json-server"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -164,7 +165,13 @@
   "active": "ccaf0629f30dce43",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
+    "Projetos/Rocketseat/Projeto - Hair Day/Usando o json-server.md",
+    "Projetos/Rocketseat/Projeto - Hair Day",
+    "Webpack dev server.md",
+    "Javascript/Como incluir o Babel.md",
+    "Javascript/Como incluir o CSS.md",
     "Javascript/Como incluir o HTML.md",
+    "Escolas.md",
     "Javascript/Configurando o Webpack.md",
     "Javascript/Instalando e executando o Webpack.md",
     "Javascript/Conhecendo os bundlers.md",
@@ -177,7 +184,6 @@
     "Javascript/Conhecendo os compiladores.md",
     "Javascript/Fetch com Post.md",
     "Javascript/Passando parâmetros na requisição.md",
-    "Escolas.md",
     "Javascript/Utilizando async e await.md",
     "Javascript/Usando o fetch.md",
     "Javascript/Criando uma API de exemplo.md",
@@ -185,10 +191,6 @@
     "Javascript/Instalando o json-server.md",
     "Javascript/O que é uma API.md",
     "Node/O que é uma API Rest.md",
-    "Javascript/Resolução de depedências.md",
-    "Javascript/Gerenciador de pacotes.md",
-    "Deploy/Deploy da aplicação.md",
-    "Javascript/Conhecendo o pacote day.js.md",
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
@@ -208,7 +210,6 @@
     "Projetos/Rocketseat/Api de Restaurante",
     "Faculdade/Imagens/Pasted image 20250203183620.png",
     "Faculdade/Imagens",
-    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais",
     "CSharp/Sem título.canvas"
   ]
 }

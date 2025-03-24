@@ -250,7 +250,12 @@ ___
 50. [[Instalando e executando o Webpack]]
 51. [[Configurando o Webpack]]
 52. [[Como incluir o HTML]]
-53. 
+53. [[Como incluir o CSS]]
+54. [[Como incluir o Babel]]
+
+#### Projeto - Hair Day
+1. [[Usando o json-server]]
+2. 
 #### Node - FullStack
 
 ##### Criando API REST
