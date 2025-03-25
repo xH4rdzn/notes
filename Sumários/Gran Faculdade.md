@@ -10,4 +10,11 @@ ___
 7. [[Memória e Processador]]
 8. [[Interconexão do Sistema]]
 9. [[Dispositivos de entrada e saída]]
-10. 
+
+#### UA 2 - Aritmética Computacional e Lógica Digital
+1. [[Sistema Binário]]
+2. [[Álgebra de Boole e Lógica Binária]]
+3. [[A codificação dos caracteres em binário]]
+4. [[Sistemas de numeração e conversão de bases]]
+5. [[Conversão da base decimal para binária, octal e hexa]]
+6. 

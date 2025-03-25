@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a329ef22e68ff2b",
+        "id": "398451b78c5ee636",
         "type": "tabs",
         "children": [
           {
-            "id": "ccaf0629f30dce43",
+            "id": "ea476c7bced681b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Rocketseat/Projeto - Hair Day/Usando o json-server.md",
+                "file": "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Conversão da base decimal para binária, octal e hexa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usando o json-server"
+              "title": "Conversão da base decimal para binária, octal e hexa"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -162,16 +161,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ccaf0629f30dce43",
+  "active": "f13b409cc3ecdea9",
   "lastOpenFiles": [
+    "Sumários/Gran Faculdade.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Conversão da base decimal para binária, octal e hexa.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Sistemas de numeração e conversão de bases.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/A codificação dos caracteres em binário.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Álgebra de Boole e Lógica Binária.md",
+    "Faculdade/Imagens/Pasted image 20250324212642.png",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Sistema Binário.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Dispositivos de entrada e saída.md",
+    "Faculdade/Arquitetura de Computadores e Sistemas Operacionais/Interconexão do Sistema.md",
+    "Escolas.md",
     "Sumários/Sumário Rocketseat.md",
+    "Projetos/Rocketseat/Projeto - Hair Day/Carregando o HTML.md",
+    "Projetos/Rocketseat/Projeto - Hair Day/Instalando o Webpack Server.md",
+    "Projetos/Rocketseat/Projeto - Hair Day/Instalando o Webpack.md",
     "Projetos/Rocketseat/Projeto - Hair Day/Usando o json-server.md",
     "Projetos/Rocketseat/Projeto - Hair Day",
     "Webpack dev server.md",
     "Javascript/Como incluir o Babel.md",
     "Javascript/Como incluir o CSS.md",
     "Javascript/Como incluir o HTML.md",
-    "Escolas.md",
     "Javascript/Configurando o Webpack.md",
     "Javascript/Instalando e executando o Webpack.md",
     "Javascript/Conhecendo os bundlers.md",
@@ -180,17 +191,6 @@
     "Javascript/Criando um script para compilar.md",
     "Javascript/Utilizando o arquivo compilado.md",
     "Javascript/Configurando e utilizando o Babel.md",
-    "Javascript/Instalando o Babel.md",
-    "Javascript/Conhecendo os compiladores.md",
-    "Javascript/Fetch com Post.md",
-    "Javascript/Passando parâmetros na requisição.md",
-    "Javascript/Utilizando async e await.md",
-    "Javascript/Usando o fetch.md",
-    "Javascript/Criando uma API de exemplo.md",
-    "Javascript/Instalando uma versão específica.md",
-    "Javascript/Instalando o json-server.md",
-    "Javascript/O que é uma API.md",
-    "Node/O que é uma API Rest.md",
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Imagens/Pasted image 20250223130636.png",
@@ -208,7 +208,6 @@
     "Imagens/Pasted image 20250203213628.png",
     "Imagens/Pasted image 20250203213432.png",
     "Projetos/Rocketseat/Api de Restaurante",
-    "Faculdade/Imagens/Pasted image 20250203183620.png",
     "Faculdade/Imagens",
     "CSharp/Sem título.canvas"
   ]

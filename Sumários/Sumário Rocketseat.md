@@ -255,7 +255,10 @@ ___
 
 #### Projeto - Hair Day
 1. [[Usando o json-server]]
-2. 
+2. [[Instalando o Webpack]]
+3. [[Instalando o Webpack Server]]
+4. [[Carregando o HTML]]
+5. 
 #### Node - FullStack
 
 ##### Criando API REST
