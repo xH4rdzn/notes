@@ -258,7 +258,15 @@ ___
 2. [[Instalando o Webpack]]
 3. [[Instalando o Webpack Server]]
 4. [[Carregando o HTML]]
-5. 
+5. [[Carregando o favicon]]
+6. [[Carregando o CSS]]
+7. [[Copiando os assets]]
+8. [[Incluindo o Babel na aplicação]]
+9. [[Instalando o pacote day.js]]
+10. [[Definindo as horas de atendimento]]
+11. [[Definindo a data atual]]
+12. [[Evento de carregamento do conteúdo]]
+13. 
 #### Node - FullStack
 
 ##### Criando API REST

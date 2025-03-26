@@ -1,9 +1,5 @@
 ___
-- Para incluir o HTML, precisamos fazer a instalação de um plugin do Webpack, para isso vamos usar o comando:
-```zsh
-npm i html-webpack-plugin@5.6.0 --save-dev
-```
-- E agora no arquivo `webpack.config.js`, vamos adicionar a seguinte linha:
+- Para carregar o favicon, adicionamos a seguinte configuração para o plugin do HTML;
 ```js
 const path = require("path")
 const HtmlWebpackPlugin = require("html-webpack-plugin")
@@ -27,10 +23,11 @@ module.exports = {
 	},
 	plugins: [new HtmlWebpackPlugin({
 		template: path.resolve(__dirname, "index.html"),
+		favicon: path.resolve("src", "assets", "scissors.svg"),
 	})]
 }
 ```
-- Agora executamos o comando de `build`, para poder empacotar o Html;
+- E agora só precisamos buildar novamente para poder carregar as novas configurações:
 ```zsh
 npm run build
 ```
