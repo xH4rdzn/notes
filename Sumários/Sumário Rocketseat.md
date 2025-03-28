@@ -253,7 +253,7 @@ ___
 53. [[Como incluir o CSS]]
 54. [[Como incluir o Babel]]
 
-#### Projeto - Hair Day
+#### Projeto - Hair Day - Terminar depois
 1. [[Usando o json-server]]
 2. [[Instalando o Webpack]]
 3. [[Instalando o Webpack Server]]
@@ -266,8 +266,36 @@ ___
 10. [[Definindo as horas de atendimento]]
 11. [[Definindo a data atual]]
 12. [[Evento de carregamento do conteúdo]]
-13. 
+
+#### TypeScript
+1. [[O que é TypeScript]]
+2. [[Tipos Primitios]]
+3. [[Inferência de tipos e tipagem explícita]]
+4. [[Tipo Any]]
+5. [[Tipagem em arrays]]
+6. [[Tipagem em funções]]
+7. [[Tipagem em objetos]]
+8. [[Null e Undefined]]
+9. [[Union Types]]
+10. [[Conhecendo interface no Typescript]]
+11. [[Como estender interfaces]]
+12. [[Usando Type]]
+13. [[Intersecção de tipos]]
+14. [[Diferença entre Type e Interface]]
+15. [[Asserção de tipos]]
+16. [[Restringindo valores]]
+17. [[TypeScript/Enums|Enums]]
+18. [[Generic]]
+19. [[Partial]]
+20. [[Pick]]
+21. [[Omit]]
+22. [[Record]]
+23. [[Typeof]]
+24. [[Keyof]]
 #### Node - FullStack
+
+##### Iniciando no Node.js
+1. [[Conhecendo o Node.js]]
 
 ##### Criando API REST
 32. [O que é uma API Rest](../Node/O%20que%20é%20uma%20API%20Rest.md)

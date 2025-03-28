@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlTypescript",
       "FabDocker",
       "LiScrollText",
       "LiImages",
-      "LiList",
-      "LiDatabase"
+      "LiList"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,9 @@
   "Sumários": "LiList",
   "Faculdade": "LiScrollText",
   "FullCycle 4.0/Docker na prática": "FabDocker",
-  "FullCycle 3.0/Docker": "FabDocker"
+  "FullCycle 3.0/Docker": "FabDocker",
+  "TypeScript": {
+    "iconName": "BoBxlTypescript",
+    "iconColor": "#2c30a5"
+  }
 }
