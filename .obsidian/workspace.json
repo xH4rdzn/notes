@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumários/Sumário Rocketseat.md",
+                "file": "React/CSS Global.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário Rocketseat"
+              "title": "CSS Global"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -164,8 +163,10 @@
   },
   "active": "e3728b97dd172f28",
   "lastOpenFiles": [
-    "React/Rest Operator.md",
     "Sumários/Sumário Rocketseat.md",
+    "React/CSS Global.md",
+    "React/Importando CSS.md",
+    "React/Rest Operator.md",
     "React/Estendendo Propriedades do Botão.md",
     "React/Passando Métodos no Componente.md",
     "React/Passando Propriedades Para o componente.md",
@@ -189,8 +190,6 @@
     "Projetos/Rocketseat/Api - Refund/Exibindo uma solicitação especifica.md",
     "Projetos/Rocketseat/Api - Refund/Implementando paginação.md",
     "Projetos/Rocketseat/Api - Refund/Listando solicitações.md",
-    "Projetos/Rocketseat/Api - Refund/Criando rota de listar.md",
-    "Projetos/Rocketseat/Api - Refund/Cadastrando solicitação.md",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",
