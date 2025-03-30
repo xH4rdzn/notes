@@ -85,7 +85,7 @@ ___
 29. [[If Else]]
 30.  [[Else if]]
 31. [[Javascript/Switch|Switch]]
-32. [[Tratamento de Exceções]]
+32. [[Javascript/Tratamento de Exceções]]
 33. [[Try - Cath - Finally]]
 34. [[O que são funções ?]]
 35. [[Primeira Função]]
@@ -406,7 +406,14 @@ ___
 131. [[Listando Sessões das Mesas]]
 132. [[Validando Id da Sessão]]
 133. [[Fechando a mesa]]
-134. 
+134. [[Migration de pedidos]]
+135. [[Tratando Dados do Pedido]]
+136. [[Regras de negócio do pedido]]
+137. [[ Salvando o pedido]]
+138. [[Rota para listar Pedidos por mesa]]
+139. [[Listando pedidos por mesa]]
+140. [[Exibindo Total do Item do Pedido]]
+141. [[Calculando o total da conta]]
 ##### Docker
 135. [Introdução ao Docker](../Node/Introdução%20ao%20Docker.md)
 136. [Conhecendo o Docker Hub](../Node/Conhecendo%20o%20Docker%20Hub.md)
@@ -531,9 +538,62 @@ ___
 246. [[Versionamento Semântico]]
 247. [[Instalando Versões]]
 248. [[Calculando Versão]]
-249. 
+249. [[Atualização Baseada na Minor]]
+250. [[Subindo a versão]]
+251. [[Exibindo Pacotes Desatualizados]]
+252. [[Atualizando uma Biblioteca]]
+253. [[Check Updates]]
+254. [[Atualizando Pacotes]]
+255. [[Utilizando o Modo Interativo]]
 
-## Node - Ignite
+##### API do App Refund
+1. [[Projetos/Rocketseat/Api - Refund/Criando o projeto|Criando o Projeto]]
+2. [[Executando o projeto]]
+3. [[Criando o projeto no Insomnia]]
+4. [[Entendendo e instalando Cors]]
+5. [[Habilitando Cors]]
+6. [[Projetos/Rocketseat/Api - Refund/Tratamento de exceções|Tratamento de exceções]]
+7. [[Projetos/Rocketseat/Api - Refund/Instalando e configurando o prisma|Instalando e configurando o prisma]]
+8. [[Criando o modelo das tabelas do refund]]
+9. [[Rota e Controller para criar usuário]]
+10. [[Validando dados do usuário refund|Validando dados do usuário]]
+11. [[Cadastrando usuário no banco refund|Cadastrando usuário no banco]]
+12. [[Criando controller e rota de autenticação refund|Criando Controller e rota de autenticação]]
+13. [[Validando dados da sessions]]
+14. [[Recuperando o usuário refund|Recuperando o usuário]]
+15. [[Token do Usuário refund|Token do Usuário]]
+16. [[Controller e Rota de refunds]]
+17. [[ensure-authenticated]]
+18. [[verify-user-Authorization]]
+19. [[Validação de dados da solicitação]]
+20. [[Cadastrando solicitação]]
+21. [[Criando rota de listar]]
+22. [[Listando solicitações]]
+23. [[Implementando paginação]]
+24. [[Exibindo uma solicitação especifica]]
+25. [[Criando o arquivo de configuração de upload]]
+26. [[Upload do Arquivo]]
+27. [[Validando arquivo]]
+28. [[Manipulando arquivo]]
+29. [[Rota para exibir arquivo]]
+
+#### React - FullStack
+
+##### Fundamentos do React
+1. [[Conhecendo o React]]
+2. [[Criando o Projeto React]]
+3. [[Estrutura de Pasta e Arquivos]]
+4. [[JSX]]
+5. [[Compreendendo Componentes]]
+6. [[Criando um componente]]
+7. [[Retornando um Elemento Parent]]
+8. [[Passando Propriedades Para o componente]]
+9. [[Passando Métodos no Componente]]
+10. [[Estendendo Propriedades do Botão]]
+11. [[Rest Operator]]
+12. [[]]
+
+## Node
 
 ##### Criando API REST com Node.js
 250. [[Entendendo o Typescript]]

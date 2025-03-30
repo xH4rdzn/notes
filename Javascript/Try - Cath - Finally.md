@@ -1,5 +1,5 @@
 ___
-- Para usarmos o [[Tratamento de Exceções]], com o bloco `Try-Cath`, fazemos da seguinte maneira:
+- Para usarmos o [[Javascript/Tratamento de Exceções]], com o bloco `Try-Cath`, fazemos da seguinte maneira:
 ```js
 try {
 	console.log(result)

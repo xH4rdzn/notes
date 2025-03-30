@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabReact",
+      "LiPackagePlus",
       "BoBxlTypescript",
       "FabDocker",
-      "LiScrollText",
-      "LiImages",
-      "LiList"
+      "LiScrollText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -60,5 +60,10 @@
   "TypeScript": {
     "iconName": "BoBxlTypescript",
     "iconColor": "#2c30a5"
+  },
+  "Projetos": "LiPackagePlus",
+  "React": {
+    "iconName": "FabReact",
+    "iconColor": "#159cd5"
   }
 }
