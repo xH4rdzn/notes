@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/CSS Global.md",
+                "file": "Compreendendo Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS Global"
+              "title": "Compreendendo Hooks"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -164,6 +165,9 @@
   "active": "e3728b97dd172f28",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
+    "Compreendendo Hooks.md",
+    "React/CSS Modules.md",
+    "Escolas.md",
     "React/CSS Global.md",
     "React/Importando CSS.md",
     "React/Rest Operator.md",
@@ -182,14 +186,11 @@
     "React",
     "React.md",
     "Projetos/Rocketseat/Api - Refund/Rota para exibir arquivo.md",
-    "Escolas.md",
     "Projetos/Rocketseat/Api - Refund/Manipulando arquivo.md",
     "Projetos/Rocketseat/Api - Refund/Validando arquivo.md",
     "Projetos/Rocketseat/Api - Refund/Upload do Arquivo.md",
     "Projetos/Rocketseat/Api - Refund/Criando o arquivo de configuração de upload.md",
     "Projetos/Rocketseat/Api - Refund/Exibindo uma solicitação especifica.md",
-    "Projetos/Rocketseat/Api - Refund/Implementando paginação.md",
-    "Projetos/Rocketseat/Api - Refund/Listando solicitações.md",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",

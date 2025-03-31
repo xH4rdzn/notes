@@ -593,7 +593,9 @@ ___
 11. [[Rest Operator]]
 12. [[Importando CSS]]
 13. [[CSS Global]]
-14. 
+14. [[CSS Modules]]
+15. [[Compreendendo Hooks]]
+16. 
 
 ## Node
 
