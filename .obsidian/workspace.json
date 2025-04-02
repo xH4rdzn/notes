@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5033e2cd9e65808",
+        "id": "ca08ee2f9531c9ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e3728b97dd172f28",
+            "id": "7f3cfef391a1b747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compreendendo Hooks.md",
+                "file": "Projetos/Rocketseat/Api de Entregas/Cadastrando Usuário no Banco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compreendendo Hooks"
+              "title": "Cadastrando Usuário no Banco"
             }
           }
         ]
@@ -162,35 +162,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e3728b97dd172f28",
+  "active": "7f3cfef391a1b747",
   "lastOpenFiles": [
     "Sumários/Sumário Rocketseat.md",
-    "Compreendendo Hooks.md",
-    "React/CSS Modules.md",
+    "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Token do Usuário.md",
+    "Projetos/Rocketseat/Api de Entregas/Exibindo Detalhes do Pedido.md",
+    "Projetos/Rocketseat/Api de Entregas/Cadastra Log.md",
+    "Node/Controller.md",
+    "Projetos/Rocketseat/Api de Entregas/Exibindo Nome do Cliente.md",
+    "Projetos/Rocketseat/Api de Entregas/Atualizando Status da Entrega.md",
+    "Node/Update - Prisma.md",
+    "Projetos/Rocketseat/Api de Entregas/Criando Controller e Rota de Logs da Entrega.md",
+    "Projetos/Rocketseat/Api de Entregas/Exibindo Logs de um Pedido.md",
+    "Projetos/Rocketseat/Api de Entregas/Condição de Pedido Entregue.md",
+    "Projetos/Rocketseat/Api de Entregas/Registrando no Log Alteração de Status.md",
     "Escolas.md",
-    "React/CSS Global.md",
-    "React/Importando CSS.md",
-    "React/Rest Operator.md",
-    "React/Estendendo Propriedades do Botão.md",
-    "React/Passando Métodos no Componente.md",
-    "React/Passando Propriedades Para o componente.md",
-    "React/Retornando um Elemento Parent.md",
-    "React/Criando um componente.md",
-    "React/Compreendendo Componentes.md",
-    "Compreendendo como as coisas são.md",
-    "React/JSX.md",
-    "React/Estrutura de Pasta e Arquivos.md",
-    "React/Criando o Projeto React.md",
-    "Ambiente de Desenvolvimento.md",
-    "React/Conhecendo o React.md",
+    "Node/Delete - Prisma.md",
+    "Node/Consulta.md",
+    "Node/Validando tipo de dado.md",
+    "Node/Route Params.md",
+    "Projetos/Rocketseat/Api de Entregas/Listar entregas.md",
+    "Projetos/Rocketseat/Api de Entregas/Cadastra Entrega.md",
+    "Projetos/Rocketseat/Api de Entregas/Verificando autorização.md",
+    "Projetos/Rocketseat/Api - Refund/verify-user-Authorization.md",
+    "Projetos/Rocketseat/Api - Refund/ensure-authenticated.md",
+    "Projetos/Rocketseat/Api - Refund/Controller e Rota de refunds.md",
+    "Projetos/Rocketseat/Api - Refund/Criando controller e rota de autenticação refund.md",
+    "Projetos/Rocketseat/Api - Refund/Validando dados da sessions.md",
+    "Projetos/Rocketseat/Projeto - Adivinhe",
     "React",
-    "React.md",
-    "Projetos/Rocketseat/Api - Refund/Rota para exibir arquivo.md",
-    "Projetos/Rocketseat/Api - Refund/Manipulando arquivo.md",
-    "Projetos/Rocketseat/Api - Refund/Validando arquivo.md",
-    "Projetos/Rocketseat/Api - Refund/Upload do Arquivo.md",
-    "Projetos/Rocketseat/Api - Refund/Criando o arquivo de configuração de upload.md",
-    "Projetos/Rocketseat/Api - Refund/Exibindo uma solicitação especifica.md",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",
@@ -209,7 +210,6 @@
     "Try/Catch",
     "Try",
     "Projetos/Rocketseat/NLW Connect - Node",
-    "Javascript",
     "CSharp/Sem título.canvas"
   ]
 }
