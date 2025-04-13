@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Rocketseat/Api de Entregas/Cadastrando Usuário no Banco.md",
+                "file": "Node/Entendendo o protocolo HTTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cadastrando Usuário no Banco"
+              "title": "Entendendo o protocolo HTTP"
             }
           }
         ]
@@ -164,11 +164,16 @@
   },
   "active": "7f3cfef391a1b747",
   "lastOpenFiles": [
+    "Sumários/Sumário B7Web.md",
+    "Node/Entendendo o protocolo HTTP.md",
+    "Escolas.md",
     "Sumários/Sumário Rocketseat.md",
+    "Sem título",
+    "Projetos/Rocketseat/Api de Entregas/Cadastra Log.md",
+    "Projetos/Rocketseat/Api de Entregas/Cadastrando Usuário no Banco.md",
     "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Token do Usuário.md",
     "Projetos/Rocketseat/Api de Entregas/Exibindo Detalhes do Pedido.md",
-    "Projetos/Rocketseat/Api de Entregas/Cadastra Log.md",
     "Node/Controller.md",
     "Projetos/Rocketseat/Api de Entregas/Exibindo Nome do Cliente.md",
     "Projetos/Rocketseat/Api de Entregas/Atualizando Status da Entrega.md",
@@ -177,7 +182,6 @@
     "Projetos/Rocketseat/Api de Entregas/Exibindo Logs de um Pedido.md",
     "Projetos/Rocketseat/Api de Entregas/Condição de Pedido Entregue.md",
     "Projetos/Rocketseat/Api de Entregas/Registrando no Log Alteração de Status.md",
-    "Escolas.md",
     "Node/Delete - Prisma.md",
     "Node/Consulta.md",
     "Node/Validando tipo de dado.md",
@@ -187,9 +191,6 @@
     "Projetos/Rocketseat/Api de Entregas/Verificando autorização.md",
     "Projetos/Rocketseat/Api - Refund/verify-user-Authorization.md",
     "Projetos/Rocketseat/Api - Refund/ensure-authenticated.md",
-    "Projetos/Rocketseat/Api - Refund/Controller e Rota de refunds.md",
-    "Projetos/Rocketseat/Api - Refund/Criando controller e rota de autenticação refund.md",
-    "Projetos/Rocketseat/Api - Refund/Validando dados da sessions.md",
     "Projetos/Rocketseat/Projeto - Adivinhe",
     "React",
     "Imagens/Pasted image 20250329223208.png",
@@ -209,7 +210,6 @@
     "Projetos/Rocketseat/Projeto - Convert",
     "Try/Catch",
     "Try",
-    "Projetos/Rocketseat/NLW Connect - Node",
     "CSharp/Sem título.canvas"
   ]
 }
