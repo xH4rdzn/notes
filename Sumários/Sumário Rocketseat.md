@@ -647,6 +647,8 @@ ___
 ## Kotlin
 279. [[Hello World em Kotlin]]
 280. [[Mutabilidade e Imutabilidade]]
+281. [[Tipos de dados Básicos]]
+282. 
 ## Eventos
 #### NLW Connect
 ##### Node

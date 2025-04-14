@@ -3,6 +3,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "JetBrains Mono NL",
-  "baseFontSize": 19,
-  "theme": "obsidian"
+  "baseFontSize": 22,
+  "theme": "obsidian",
+  "baseFontSizeAction": false
 }
