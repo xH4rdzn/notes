@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de dados Básicos.md",
+                "file": "React/Navegando Para Produtos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de dados Básicos"
+              "title": "Navegando Para Produtos"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -169,11 +168,19 @@
   },
   "active": "3cf9cf5f114f9821",
   "lastOpenFiles": [
+    "React/Rota de Produtos.md",
+    "React/Rota de Produtos.md",
     "Sumários/Sumário Rocketseat.md",
+    "React/Navegando Para Produtos.md",
+    "React/Criando a Primeira Rota.md",
+    "React/Instalando e Configurando.md",
+    "React/Organizando e Executando o Projeto.md",
+    "React/Criando o projeto com React Router.md",
+    "React/Conhecendo o React Router.md",
+    "Escolas.md",
     "Tipos de dados Básicos.md",
     "Kotlin/Mutabilidade e Imutabilidade.md",
     "Kotlin/Hello World em Kotlin.md",
-    "Escolas.md",
     "Node/Entendendo o protocolo HTTP.md",
     "Sumários/Sumário B7Web.md",
     "Sem título",
@@ -188,14 +195,6 @@
     "Node/Update - Prisma.md",
     "Projetos/Rocketseat/Api de Entregas/Criando Controller e Rota de Logs da Entrega.md",
     "Projetos/Rocketseat/Api de Entregas/Exibindo Logs de um Pedido.md",
-    "Projetos/Rocketseat/Api de Entregas/Condição de Pedido Entregue.md",
-    "Projetos/Rocketseat/Api de Entregas/Registrando no Log Alteração de Status.md",
-    "Node/Delete - Prisma.md",
-    "Node/Consulta.md",
-    "Node/Validando tipo de dado.md",
-    "Node/Route Params.md",
-    "Projetos/Rocketseat/Api de Entregas/Listar entregas.md",
-    "Projetos/Rocketseat/Api de Entregas/Cadastra Entrega.md",
     "Projetos/Rocketseat/Projeto - Adivinhe",
     "React",
     "Imagens/Pasted image 20250329223208.png",
