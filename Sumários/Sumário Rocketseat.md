@@ -609,7 +609,27 @@ ___
 5. [[Criando a Primeira Rota]]
 6. [[Rota de Produtos]]
 7. [[Navegando Para Produtos]]
-8. 
+8. [[Página 404]]
+9. [[useSearchParams]]
+10. [[useNavigate]]
+11. [[Rota com parâmetro]]
+12. [[useParams]]
+13. [[Retornando para Página Anterior]]
+14. [[Layout Routes]]
+
+##### Formulários
+1. [[onChange]]
+2. [[Submit do Formulário]]
+3. [[Conhecendo o React Hook Form]]
+4. [[Adicionando Controller no Input]]
+5. [[Definindo Valor inicial]]
+6. [[Tipagem do Formulário]]
+7. [[Instalando o Yup]]
+8. [[Utilizando o Schema na Validação]]
+9. [[Exibindo Erros de validação]]
+
+##### TailwindCSS
+1. [[]]
 
 ## Node
 

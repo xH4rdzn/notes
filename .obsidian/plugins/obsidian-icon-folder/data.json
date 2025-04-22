@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxlTailwindCss",
       "FabReact",
       "LiPackagePlus",
       "BoBxlTypescript",
-      "FabDocker",
-      "LiScrollText"
+      "FabDocker"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,5 +65,9 @@
   "React": {
     "iconName": "FabReact",
     "iconColor": "#159cd5"
+  },
+  "TailwindCSS": {
+    "iconName": "BoBxlTailwindCss",
+    "iconColor": "#00fffb"
   }
 }

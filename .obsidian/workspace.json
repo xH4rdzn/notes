@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Navegando Para Produtos.md",
+                "file": "Sumários/Sumário Rocketseat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Navegando Para Produtos"
+              "title": "Sumário Rocketseat"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -168,33 +169,32 @@
   },
   "active": "3cf9cf5f114f9821",
   "lastOpenFiles": [
-    "React/Rota de Produtos.md",
-    "React/Rota de Produtos.md",
+    "TailwindCSS",
+    "Sem título.md",
     "Sumários/Sumário Rocketseat.md",
-    "React/Navegando Para Produtos.md",
-    "React/Criando a Primeira Rota.md",
-    "React/Instalando e Configurando.md",
-    "React/Organizando e Executando o Projeto.md",
-    "React/Criando o projeto com React Router.md",
-    "React/Conhecendo o React Router.md",
+    "Projetos/Rocketseat/NLW Connect - Node/Integração com banco de dados e primeiras funcionalidades.md",
+    "React/Exibindo Erros de validação.md",
     "Escolas.md",
-    "Tipos de dados Básicos.md",
-    "Kotlin/Mutabilidade e Imutabilidade.md",
-    "Kotlin/Hello World em Kotlin.md",
-    "Node/Entendendo o protocolo HTTP.md",
-    "Sumários/Sumário B7Web.md",
-    "Sem título",
-    "Projetos/Rocketseat/Api de Entregas/Cadastra Log.md",
-    "Projetos/Rocketseat/Api de Entregas/Cadastrando Usuário no Banco.md",
-    "Projetos/Rocketseat/Api de Entregas/Recuperando o Usuário.md",
-    "Projetos/Rocketseat/Api de Entregas/Token do Usuário.md",
-    "Projetos/Rocketseat/Api de Entregas/Exibindo Detalhes do Pedido.md",
-    "Node/Controller.md",
-    "Projetos/Rocketseat/Api de Entregas/Exibindo Nome do Cliente.md",
-    "Projetos/Rocketseat/Api de Entregas/Atualizando Status da Entrega.md",
-    "Node/Update - Prisma.md",
-    "Projetos/Rocketseat/Api de Entregas/Criando Controller e Rota de Logs da Entrega.md",
-    "Projetos/Rocketseat/Api de Entregas/Exibindo Logs de um Pedido.md",
+    "React/Utilizando o Schema na Validação.md",
+    "React/Instalando o Yup.md",
+    "React/Tipagem do Formulário.md",
+    "React/Data.md",
+    "React/Definindo Valor inicial.md",
+    "React/Adicionando Controller no Input.md",
+    "React/Submit do Formulário.md",
+    "React/Conhecendo o React Hook Form.md",
+    "Inputs Não Controlados e Controlados.md",
+    "React/onChange.md",
+    "React/Layout Routes.md",
+    "React/Retornando para Página Anterior.md",
+    "React/useParams.md",
+    "React/Rota com parâmetro.md",
+    "React/useNavigate.md",
+    "React/useSearchParams.md",
+    "React/Navegando Para Produtos.md",
+    "React/Página 404.md",
+    "React/Criando a Primeira Rota.md",
+    "React/Rota de Produtos.md",
     "Projetos/Rocketseat/Projeto - Adivinhe",
     "React",
     "Imagens/Pasted image 20250329223208.png",
