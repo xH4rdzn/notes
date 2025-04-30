@@ -629,7 +629,14 @@ ___
 9. [[Exibindo Erros de validação]]
 
 ##### TailwindCSS
-1. [[]]
+1. [[Instalando o TailwindCSS]]
+2. [[Configurando o TailwindCSS]]
+3. [[Criando auth-routes]]
+4. [[Criando o AuthLayout]]
+5. [[Criando Componente de Input]]
+6. [[Criando o Componente de Button]]
+7. [[Criando o onSubmit com os Estados]]
+8. [[Link para SignUp]]
 
 ## Node
 
@@ -652,7 +659,29 @@ ___
 265. [[Utilizando cookies no Fastify]]
 266. [[Validando existência do cookie]]
 267. [[Configurando um hook global]]
-268. 
+268. [[Entendendo testes automatizados]]
+269. [[Criando o primeiro teste]]
+270. [[Testando criação de transação]]
+271. [[Categorizando os testes]]
+272. [[Testando listagem de transações]]
+273. [[Configurando banco de testes]]
+274. [[Finalizando testes da aplicação]]
+275. [[Preparando para deploy]]
+
+##### API Node.js com SOLID
+1. [[Criando projeto Node.js]]
+2. [[Carregando variáveis ambiente]]
+3. [[Criando aliases de importação]]
+4. [[Fundamentos do Prisma ORM]]
+5. [[PostgreSQL com Docker]]
+6. [[Utilizando o Docker Compose]]
+7. [[Criando schema do Prisma]]
+8. [[Relacionamentos entre tabelas]]
+9. [[Criação de um usuário]]
+10. [[Controller de registro]]
+11. [[Hash da senha e validação]]
+12. [[Caso de uso de registro]]
+13. 
 ## Java
 
 ##### Arrays e Coleções

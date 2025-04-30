@@ -4,7 +4,7 @@ ___
 public class Produto {
 
 	String nome;
-	int quantidadeEstoque
+	int quantidadeEstoque;
 
 	Produto(String nome, int estoqueInicial) {
 		Objects.requireNonNull(nome, "Nome é obrigatório");
