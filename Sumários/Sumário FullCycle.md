@@ -28,4 +28,8 @@ ___
 4. [[Docker Inc]]
 ##### Manipulando containers
 1. [[Executando nosso primeiro container com hello world]]
-2. 
+2. [[Nomeando containers e entendendo diferentes execuções]]
+3. [[Parando, Iniciando e removendo containers de forma forçada]]
+4. [[Attach e dettach]]
+5. [[Executando comandos e removendo containers automaticamente]]
+6. 

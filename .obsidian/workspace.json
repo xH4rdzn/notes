@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64db1783c7b7834b",
+        "id": "63d923d8bb6867c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8098413b65e82b96",
+            "id": "05d0c9717fd8d839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Caso de uso de registro.md",
+                "file": "FullCycle 4.0/Docker na prática/Executando comandos e removendo containers automaticamente.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caso de uso de registro"
+              "title": "Executando comandos e removendo containers automaticamente"
             }
           }
         ]
@@ -167,34 +167,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8098413b65e82b96",
+  "active": "05d0c9717fd8d839",
   "lastOpenFiles": [
-    "Sumários/Sumário Rocketseat.md",
-    "Node/Hash da senha e validação.md",
-    "Node/Caso de uso de registro.md",
-    "Node/Controller de registro.md",
-    "Projetos/Rocketseat/NLW Connect - Node/Criação e configuração inicial do projeto.md",
-    "Node/Criação de um usuário.md",
-    "Node/Criando projeto Node.js.md",
-    "Node/Criando Tabela com Prisma.md",
-    "Node/Relacionamentos entre tabelas.md",
-    "Node/Criando schema do Prisma.md",
-    "Node/Conhecendo o Prisma.md",
-    "Node/Instalando e configurando o Prisma.md",
-    "Node/Prisma Studio.md",
-    "Node/Inserindo dados com o Prisma.md",
-    "Node/Utilizando o Docker Compose.md",
+    "Sumários/Sumário FullCycle.md",
+    "FullCycle 4.0/Docker na prática/Executando comandos e removendo containers automaticamente.md",
+    "FullCycle 4.0/Docker na prática/Attach e dettach.md",
+    "FullCycle 4.0/Docker na prática/Parando, Iniciando e removendo containers de forma forçada.md",
     "Escolas.md",
-    "Node/PostgreSQL com Docker.md",
-    "Node/Fundamentos do Prisma ORM.md",
-    "Node/Carregando variáveis ambiente.md",
-    "Node/Criando aliases de importação.md",
-    "Usando versões exatas do NPM.md",
-    "Node/Finalizando testes da aplicação.md",
-    "Node/Testando listagem de transações.md",
-    "Node/Testando criação de transação.md",
-    "Node/Configurando banco de testes.md",
-    "Node/Categorizando os testes.md",
+    "FullCycle 4.0/Docker na prática/Nomeando containers e entendendo diferentes execuções.md",
+    "Sumários/Sumário Rocketseat.md",
+    "FullCycle 4.0/Docker na prática/Executando nosso primeiro container com hello world.md",
+    "FullCycle 4.0/Docker na prática/Conceitos básicos sobre containers.md",
+    "FullCycle 4.0/Docker na prática/Docker e contexto em que foi criado.md",
+    "FullCycle 4.0/Docker na prática/Docker Inc.md",
+    "FullCycle 3.0/Docker/Avançado com Dockerfile.md",
+    "FullCycle 3.0/Docker/ENTRYPOINT vs CMD.md",
+    "Node/Caso de uso de perfil.md",
+    "Node/Utilizando Factory Pattern.md",
+    "Node/Refatorando instâncias nos testes.md",
+    "Node/In-Memory Databases.md",
+    "Node/Testes e controller de autenticação.md",
+    "Node/Caso de uso de autenticação.md",
+    "Node/Utilizando a UI do vitest.md",
+    "Node/Gerando coverage de testes.md",
+    "Node/Primeiro teste unitário.md",
+    "Node/Lidando com erros do use case.md",
+    "Node/Interface do repositório.md",
+    "TailwindCSS/Criando SignUp.md",
+    "TailwindCSS/Link para SignUp.md",
+    "Go",
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",
     "Projetos/Rocketseat/Projeto - Adivinhe",
@@ -214,7 +215,6 @@
     "Projetos/Rocketseat/Projeto - Refund",
     "Projetos/Rocketseat/Projeto - Convert",
     "Try/Catch",
-    "Try",
     "CSharp/Sem título.canvas"
   ]
 }

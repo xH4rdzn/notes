@@ -637,7 +637,13 @@ ___
 6. [[Criando o Componente de Button]]
 7. [[Criando o onSubmit com os Estados]]
 8. [[Link para SignUp]]
+9. [[Criando SignUp]]
+10. [[Criando Not Found]]
+11. 
 
+##### Autenticação e Autorização
+1. [[Links]]
+2. 
 ## Node
 
 ##### Criando API REST com Node.js
@@ -681,7 +687,22 @@ ___
 10. [[Controller de registro]]
 11. [[Hash da senha e validação]]
 12. [[Caso de uso de registro]]
-13. 
+13. [[Repository Pattern]]
+14. [[Inversão de dependências]]
+15. [[Interface do repositório]]
+16. [[Lidando com erros do use case]]
+17. [[Handler de erros global]]
+18. [[Configurando Vitest]]
+19. [[Primeiro teste unitário]]
+20. [[In-Memory Databases]]
+21. [[Gerando coverage de testes]]
+22. [[Utilizando a UI do vitest]]
+23. [[Caso de uso de autenticação]]
+24. [[Testes e controller de autenticação]]
+25. [[Refatorando instâncias nos testes]]
+26. [[Utilizando Factory Pattern]]
+27. [[Caso de uso de perfil]]
+28. 
 ## Java
 
 ##### Arrays e Coleções
@@ -708,4 +729,14 @@ ___
 ##### Node
 1. [[Criação e configuração inicial do projeto]]
 2. [[Integração com banco de dados e primeiras funcionalidades]]
-3. 
+
+## Go
+
+##### Fundamentos
+1. [[Preparação de Ambiente e primeiro programa]]
+2. [[Packages]]
+3. [[Nomes públicos e privados]]
+4. [[Funções]]
+5. [[Variáveis]]
+6. [[Sistema de Tipos e Constantes]]
+7. 
