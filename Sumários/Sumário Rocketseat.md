@@ -702,7 +702,8 @@ ___
 25. [[Refatorando instâncias nos testes]]
 26. [[Utilizando Factory Pattern]]
 27. [[Caso de uso de perfil]]
-28. 
+28. [[Caso de uso de check-in]]
+29. 
 ## Java
 
 ##### Arrays e Coleções

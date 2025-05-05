@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullCycle 4.0/Docker na prática/Executando comandos e removendo containers automaticamente.md",
+                "file": "Sumários/Sumário Rocketseat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Executando comandos e removendo containers automaticamente"
+              "title": "Sumário Rocketseat"
             }
           }
         ]
@@ -169,20 +169,24 @@
   },
   "active": "05d0c9717fd8d839",
   "lastOpenFiles": [
+    "Node/Caso de uso de check-in.md",
+    "Sumários/Sumário Rocketseat.md",
+    "Node/Caso de uso de perfil.md",
+    "Escolas.md",
     "Sumários/Sumário FullCycle.md",
+    "FullCycle 4.0/Docker na prática/Resumo de Manipulação de containers.md",
+    "FullCycle 4.0/Docker na prática/Publicando portas.md",
+    "FullCycle 4.0/Docker na prática/Removendo todos os containers com subcomandos.md",
     "FullCycle 4.0/Docker na prática/Executando comandos e removendo containers automaticamente.md",
     "FullCycle 4.0/Docker na prática/Attach e dettach.md",
     "FullCycle 4.0/Docker na prática/Parando, Iniciando e removendo containers de forma forçada.md",
-    "Escolas.md",
     "FullCycle 4.0/Docker na prática/Nomeando containers e entendendo diferentes execuções.md",
-    "Sumários/Sumário Rocketseat.md",
     "FullCycle 4.0/Docker na prática/Executando nosso primeiro container com hello world.md",
     "FullCycle 4.0/Docker na prática/Conceitos básicos sobre containers.md",
     "FullCycle 4.0/Docker na prática/Docker e contexto em que foi criado.md",
     "FullCycle 4.0/Docker na prática/Docker Inc.md",
     "FullCycle 3.0/Docker/Avançado com Dockerfile.md",
     "FullCycle 3.0/Docker/ENTRYPOINT vs CMD.md",
-    "Node/Caso de uso de perfil.md",
     "Node/Utilizando Factory Pattern.md",
     "Node/Refatorando instâncias nos testes.md",
     "Node/In-Memory Databases.md",
@@ -191,10 +195,6 @@
     "Node/Utilizando a UI do vitest.md",
     "Node/Gerando coverage de testes.md",
     "Node/Primeiro teste unitário.md",
-    "Node/Lidando com erros do use case.md",
-    "Node/Interface do repositório.md",
-    "TailwindCSS/Criando SignUp.md",
-    "TailwindCSS/Link para SignUp.md",
     "Go",
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",
