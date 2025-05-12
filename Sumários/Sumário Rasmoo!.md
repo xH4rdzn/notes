@@ -11,3 +11,5 @@ ___
 6. [Métodos que retornam](../Java/Métodos%20que%20retornam.md)
 7. [Métodos com referência](../Java/Métodos%20com%20referência.md)
 8. [Composição entre objetos](../Java/Composição%20entre%20objetos.md)
+9. [[Encapsulamento, impedindo acessos diretos]]
+10. 

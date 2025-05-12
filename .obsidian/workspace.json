@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumários/Sumário Rocketseat.md",
+                "file": "Java/Encapsulamento, impedindo acessos diretos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sumário Rocketseat"
+              "title": "Encapsulamento, impedindo acessos diretos"
             }
           }
         ]
@@ -169,10 +169,21 @@
   },
   "active": "05d0c9717fd8d839",
   "lastOpenFiles": [
-    "Node/Caso de uso de check-in.md",
-    "Sumários/Sumário Rocketseat.md",
-    "Node/Caso de uso de perfil.md",
+    "Sumários/Sumário Rasmoo!.md",
+    "Java/Encapsulamento, impedindo acessos diretos.md",
+    "Java/Composição entre objetos.md",
+    "Java/Métodos com referência.md",
+    "Java/Métodos que retornam.md",
+    "Java/Métodos sem retorno.md",
+    "Java/Referência entre objetos.md",
     "Escolas.md",
+    "Sumários/Sumário Rocketseat.md",
+    "Java/Response Entity.md",
+    "Java/Controller - Java.md",
+    "Node/Validando data do check-in.md",
+    "Node/TDD & Mocking.md",
+    "Node/Caso de uso de check-in.md",
+    "Node/Caso de uso de perfil.md",
     "Sumários/Sumário FullCycle.md",
     "FullCycle 4.0/Docker na prática/Resumo de Manipulação de containers.md",
     "FullCycle 4.0/Docker na prática/Publicando portas.md",
@@ -184,17 +195,6 @@
     "FullCycle 4.0/Docker na prática/Executando nosso primeiro container com hello world.md",
     "FullCycle 4.0/Docker na prática/Conceitos básicos sobre containers.md",
     "FullCycle 4.0/Docker na prática/Docker e contexto em que foi criado.md",
-    "FullCycle 4.0/Docker na prática/Docker Inc.md",
-    "FullCycle 3.0/Docker/Avançado com Dockerfile.md",
-    "FullCycle 3.0/Docker/ENTRYPOINT vs CMD.md",
-    "Node/Utilizando Factory Pattern.md",
-    "Node/Refatorando instâncias nos testes.md",
-    "Node/In-Memory Databases.md",
-    "Node/Testes e controller de autenticação.md",
-    "Node/Caso de uso de autenticação.md",
-    "Node/Utilizando a UI do vitest.md",
-    "Node/Gerando coverage de testes.md",
-    "Node/Primeiro teste unitário.md",
     "Go",
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",

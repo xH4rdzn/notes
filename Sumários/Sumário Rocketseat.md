@@ -703,7 +703,9 @@ ___
 26. [[Utilizando Factory Pattern]]
 27. [[Caso de uso de perfil]]
 28. [[Caso de uso de check-in]]
-29. 
+29. [[TDD & Mocking]]
+30. [[Validando data do check-in]]
+31. 
 ## Java
 
 ##### Arrays e Coleções
@@ -719,6 +721,10 @@ ___
 276. [Path Params e Query Params](../Java/Path%20Params%20e%20Query%20Params.md)
 277. [Body Params](../Java/Body%20Params.md)
 278. [Response Entity](../Java/Response%20Entity.md)
+
+##### Rotas, Autenticação e Autorização
+1. [[Criando a estrutura do projeto]]
+2. 
 
 ## Kotlin
 279. [[Hello World em Kotlin]]
