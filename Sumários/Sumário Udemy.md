@@ -6,6 +6,10 @@ ___
 
 
 
+
+
+
+
 ## Java Completo Programação Orientada a Objetos + Projetos - Nelio Alves
 
 ##### Estrutura sequencial
@@ -14,4 +18,6 @@ ___
 3. [[As três operações básicas de programação]]
 4. [[Saída de dados em Java]]
 5. [[Processamento de dados em Java Casting]]
-6. 
+6. [[Entrada de dados em Java]]
+7. [[Funções matemáticas em Java]]
+8. 
