@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63d923d8bb6867c0",
+        "id": "2e4848325ff6645f",
         "type": "tabs",
         "children": [
           {
-            "id": "05d0c9717fd8d839",
+            "id": "7c01c466821cbbb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Encapsulamento, impedindo acessos diretos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Encapsulamento, impedindo acessos diretos"
+              "title": "Nova aba"
             }
           }
         ]
@@ -167,34 +163,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "05d0c9717fd8d839",
+  "active": "7c01c466821cbbb0",
   "lastOpenFiles": [
-    "Sumários/Sumário Rasmoo!.md",
-    "Java/Encapsulamento, impedindo acessos diretos.md",
-    "Java/Composição entre objetos.md",
-    "Java/Métodos com referência.md",
-    "Java/Métodos que retornam.md",
-    "Java/Métodos sem retorno.md",
-    "Java/Referência entre objetos.md",
+    "Udemy/Java Completo - Nelio Alves/Processamento de dados em Java Casting.md",
+    "Sumários/Sumário Udemy.md",
+    "Udemy/Java Completo - Nelio Alves/Saída de dados em Java.md",
+    "Udemy/Java Completo - Nelio Alves/As três operações básicas de programação.md",
+    "Udemy/Java Completo - Nelio Alves/Variáveis e tipos básicos em Java.md",
+    "Udemy/Java Completo - Nelio Alves/Expressões Aritméticas.md",
+    "Udemy/Java Completo - Nelio Alves",
     "Escolas.md",
+    "Java/Sintaxe e Semântica.md",
     "Sumários/Sumário Rocketseat.md",
-    "Java/Response Entity.md",
-    "Java/Controller - Java.md",
+    "Node/Caso de uso de criação de academia.md",
+    "Node/Validando distância do check-in.md",
     "Node/Validando data do check-in.md",
-    "Node/TDD & Mocking.md",
-    "Node/Caso de uso de check-in.md",
-    "Node/Caso de uso de perfil.md",
-    "Sumários/Sumário FullCycle.md",
-    "FullCycle 4.0/Docker na prática/Resumo de Manipulação de containers.md",
-    "FullCycle 4.0/Docker na prática/Publicando portas.md",
-    "FullCycle 4.0/Docker na prática/Removendo todos os containers com subcomandos.md",
-    "FullCycle 4.0/Docker na prática/Executando comandos e removendo containers automaticamente.md",
-    "FullCycle 4.0/Docker na prática/Attach e dettach.md",
-    "FullCycle 4.0/Docker na prática/Parando, Iniciando e removendo containers de forma forçada.md",
-    "FullCycle 4.0/Docker na prática/Nomeando containers e entendendo diferentes execuções.md",
-    "FullCycle 4.0/Docker na prática/Executando nosso primeiro container com hello world.md",
-    "FullCycle 4.0/Docker na prática/Conceitos básicos sobre containers.md",
-    "FullCycle 4.0/Docker na prática/Docker e contexto em que foi criado.md",
+    "Projetos/Rocketseat/Api de Restaurante/Criando a estrutura do projeto.md",
+    "Sumários/DIO.md",
+    "Dio/WEX/Usando a classe.md",
+    "Dio/WEX/Usando namespaces.md",
+    "Dio/WEX/Criando nossa classe no código.md",
+    "Dio/WEX/O conceito de classe.md",
+    "Dio/WEX/Criando Projeto.md",
+    "CSharp/Função do AppSettings.json.md",
+    "CSharp/Lendo o AppSetings.json.md",
+    "CSharp/Criando um projeto de API.md",
+    "CSharp/O arquivo Program.cs.md",
+    "CSharp/Properties.md",
+    "CSharp/CLI do .NET.md",
+    "Dio/WEX",
+    "Dio",
+    "Java/Encapsulamento, impedindo acessos diretos.md",
     "Go",
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",
@@ -212,9 +211,6 @@
     "Faculdade/Imagens/Pasted image 20250325214140.png",
     "Faculdade/Imagens/Pasted image 20250325214454.png",
     "Projetos/Rocketseat/Projeto - Hair Day",
-    "Projetos/Rocketseat/Projeto - Refund",
-    "Projetos/Rocketseat/Projeto - Convert",
-    "Try/Catch",
     "CSharp/Sem título.canvas"
   ]
 }

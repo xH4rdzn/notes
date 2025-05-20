@@ -48,6 +48,9 @@ ___
 1. [Criando um projeto de API](../CSharp/Criando%20um%20projeto%20de%20API.md)
 2. [Properties](../CSharp/Properties.md)
 3. [O arquivo Program.cs](../CSharp/O%20arquivo%20Program.cs.md)
+4. [[Função do AppSettings.json]]
+5. [[Lendo o AppSetings.json]]
+6. 
 
 ---
 
@@ -705,8 +708,14 @@ ___
 28. [[Caso de uso de check-in]]
 29. [[TDD & Mocking]]
 30. [[Validando data do check-in]]
-31. 
+31. [[Validando distância do check-in]]
+32. [[Caso de uso de criação de academia]]
+33. 
 ## Java
+
+##### Sintaxe
+1. [[Sintaxe e Semântica]]
+2. 
 
 ##### Arrays e Coleções
 269. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
@@ -723,8 +732,7 @@ ___
 278. [Response Entity](../Java/Response%20Entity.md)
 
 ##### Rotas, Autenticação e Autorização
-1. [[Criando a estrutura do projeto]]
-2. 
+
 
 ## Kotlin
 279. [[Hello World em Kotlin]]
