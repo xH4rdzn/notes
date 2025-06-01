@@ -484,7 +484,7 @@ ___
 193. [[Validando Teste E2E]]
 
 ##### Projeto - API de Entregas de encomendas
-194. [[Projetos/Rocketseat/Api de Entregas/Criando o Projeto]]
+194. [[Projetos/Rocketseat/Api de Entregas/Criando o Projeto|Criando o projeto]]
 195. [[Middeware De Tratamento de Exceções]]
 196. [[Adicionando Zod]]
 197. [[Criando Rota e Controller de Usuário]]
@@ -551,7 +551,7 @@ ___
 
 ##### API do App Refund
 1. [[Projetos/Rocketseat/Api - Refund/Criando o projeto|Criando o Projeto]]
-2. [[Executando o projeto]]
+2. [[Projetos/Rocketseat/Api - Refund/Executando o projeto]]
 3. [[Criando o projeto no Insomnia]]
 4. [[Entendendo e instalando Cors]]
 5. [[Habilitando Cors]]
@@ -642,7 +642,10 @@ ___
 8. [[Link para SignUp]]
 9. [[Criando SignUp]]
 10. [[Criando Not Found]]
-11. 
+11. [[Criando a Rota de Refund]]
+12. [[Criar o AppLayout]]
+13. [[Criar o Header]]
+14. 
 
 ##### Autenticação e Autorização
 1. [[Links]]
@@ -714,8 +717,9 @@ ___
 ## Java
 
 ##### Sintaxe
-1. [[Sintaxe e Semântica]]
-2. 
+1. [[Conceito de Variáveis e Métodos]]
+2. [[]]
+3. 
 
 ##### Arrays e Coleções
 269. [Introdução - Arrays e Coleções](../Java/Introdução%20-%20Arrays%20e%20Coleções.md)
@@ -754,4 +758,9 @@ ___
 4. [[Funções]]
 5. [[Variáveis]]
 6. [[Sistema de Tipos e Constantes]]
-7. 
+
+## React Native
+1. [[React Native/Criando o projeto|Criando o projeto]]
+2. [[React Native/Executando o projeto|Executando o projeto]]
+3. [[Entendendo o JSX]]
+4. 

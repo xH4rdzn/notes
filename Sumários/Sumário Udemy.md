@@ -20,4 +20,7 @@ ___
 5. [[Processamento de dados em Java Casting]]
 6. [[Entrada de dados em Java]]
 7. [[Funções matemáticas em Java]]
-8. 
+8. [[Expressões Comparativas]]
+9. [[Expressões lógicas]]
+10. [[Estrutura condicional (if-else)]]
+11. 

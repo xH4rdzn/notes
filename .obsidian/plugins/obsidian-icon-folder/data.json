@@ -73,5 +73,9 @@
   "Go": {
     "iconName": "FabGolang",
     "iconColor": "#00bfff"
+  },
+  "React Native": {
+    "iconName": "FabReact",
+    "iconColor": "#0c8ced"
   }
 }

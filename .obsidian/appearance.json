@@ -6,5 +6,6 @@
   "baseFontSize": 22,
   "theme": "obsidian",
   "baseFontSizeAction": false,
-  "accentColor": "#a85cf5"
+  "accentColor": "#a85cf5",
+  "showRibbon": false
 }
