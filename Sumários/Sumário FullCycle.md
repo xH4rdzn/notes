@@ -37,4 +37,7 @@ ___
 8. [[Resumo de Manipulação de containers]]
 
 ##### Volumes e Bind-Mounts
-1. [[]]
+1. [[Persistência de dados em containers]]
+2. [[Bind mounts vs Volumes]]
+3. [[Fazendo o primeiro bind mount]]
+4. 

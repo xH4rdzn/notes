@@ -50,7 +50,10 @@ ___
 3. [O arquivo Program.cs](../CSharp/O%20arquivo%20Program.cs.md)
 4. [[Função do AppSettings.json]]
 5. [[Lendo o AppSetings.json]]
-6. 
+6. [[O que é um controller]]
+7. [[Criando o primeiro endpoint]]
+8. [[Conhecendo mais do Swagger]]
+9. 
 
 ---
 

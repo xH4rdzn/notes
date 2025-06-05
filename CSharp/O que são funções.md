@@ -14,7 +14,7 @@ class Program {
 ```
 - Para criar funções que podem ser chamadas em outras classes usamos a keyword `public`:
 ```C#
-public Ligar() {
+public void Ligar() {
 	// Código do método
 }
 ```
