@@ -93,7 +93,7 @@ ___
 31. [[Javascript/Switch|Switch]]
 32. [[Javascript/Tratamento de Exceções]]
 33. [[Try - Cath - Finally]]
-34. [[O que são funções ?]]
+34. [[O que são funções ]]
 35. [[Primeira Função]]
 36. [[Argumentos e Parâmetros]]
 37. [[Retornando valores]]
@@ -138,7 +138,7 @@ ___
 5. [[Atualizando um objeto]]
 6. [[Encadeamento opcional (Optional chaining)]]
 7. [[Operador de coalescência nula]]
-8. [[O que é uma função construtora ?]]
+8. [[O que é uma função construtora]]
 9. [[Texto maiúsculo e minúsculo]]
 10. [[Obtendo o comprimento de uma string]]
 11. [[Substituindo e fatiando um texto]]
@@ -151,7 +151,7 @@ ___
 18. [[Convertendo uma string para array]]
 19. [[Adicionando e removendo um item do array]]
 20. [[Usando o índice]]
-21. [[Quais elementos o array aceita ?]]
+21. [[Quais elementos o array aceita]]
 22. [[Verificando se existe um conteúdo no array]]
 23. [[Loop While]]
 24. [[Loop do While]]
@@ -175,8 +175,8 @@ ___
 42. [[Criando uma classe com um método construtor]]
 43. [[Criando propriedades dentro das classes]]
 44. [[Adicionando métodos nas classes]]
-45. [[O que é método estático ?]]
-46. [[Como aplicar herança com classes ?]]
+45. [[O que é método estático]]
+46. [[Como aplicar herança com classes]]
 47. [[Sobrescrevendo métodos]]
 48. [[Aprendendo sobre herança e cadeia de protótipos]]
 49. [[Criando um objeto prototype]]
@@ -650,9 +650,7 @@ ___
 13. [[Criar o Header]]
 14. 
 
-##### Autenticação e Autorização
-1. [[Links]]
-2. 
+
 ## Node
 
 ##### Criando API REST com Node.js

@@ -9,4 +9,7 @@ ___
 8. [[Gran Faculdade]]
 9. [[Sumário B7Web|B7Web]] 
 10. [[DIO]]
-11. 
+11. [[Uninter]]
+12. [[Alura]]
+13. [[Fiap]]
+14. 
