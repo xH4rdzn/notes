@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escolas.md",
+                "file": "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escolas"
+              "title": "Conhecendo o Linux"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "9f39e3a2740fd5aa",
   "lastOpenFiles": [
-    "Sumários/Alura.md",
-    "Escolas.md",
-    "Sumários/Fiap.md",
+    "Faculdade/Imagens/Pasted image 20250722205551.jpg",
+    "Faculdade/Fundamentos de design de sistemas",
     "Sumários/Uninter.md",
+    "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
+    "Escolas.md",
+    "Sumários/Alura.md",
+    "Sumários/Fiap.md",
     "Sumários/Gran Faculdade.md",
     "Sumários/Sumário FullCycle.md",
     "Sumários/Sumário Rasmoo!.md",
@@ -193,8 +196,6 @@
     "CSharp/Modificadores de acesso.md",
     "CSharp/Utilizando outras classes.md",
     "CSharp/O que são funções.md",
-    "CSharp/O que são Classes.md",
-    "CSharp/Namespace.md",
     "React Native",
     "Udemy/Java Completo - Nelio Alves",
     "Dio/WEX",
@@ -212,7 +213,6 @@
     "Imagens/Pasted image 20250329222358.png",
     "Imagens/Pasted image 20250329222238.png",
     "Projetos/Rocketseat/Api - Refund",
-    "TypeScript",
     "Faculdade/Imagens/Pasted image 20250325214140.png",
     "Faculdade/Imagens/Pasted image 20250325214454.png",
     "CSharp/Sem título.canvas"
