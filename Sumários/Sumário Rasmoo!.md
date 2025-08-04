@@ -2,7 +2,7 @@ ___
 ## Iniciando com a linguagem
 1. [[]]
 
-## Programação Orientada a Objetos
+## Programação Orientada a Objetos - Revisar se necessário
 1. [Criando a nossa primeira classe](../Java/Criando%20a%20nossa%20primeira%20classe.md)
 2. [Instanciando novos objetos](../Java/Instanciando%20novos%20objetos.md)
 3. [Valores default de atributos](../Java/Valores%20default%20de%20atributos.md)
@@ -12,4 +12,9 @@ ___
 7. [Métodos com referência](../Java/Métodos%20com%20referência.md)
 8. [Composição entre objetos](../Java/Composição%20entre%20objetos.md)
 9. [[Encapsulamento, impedindo acessos diretos]]
-10. 
+
+## Entendendo e tratando as Exceptions
+1. [[Try-Catch]]
+2. [[Multi-Catch]]
+3. [[Try-Catch-Finally]]
+4. 
