@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Criando projeto Node.js.md",
+                "file": "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criando projeto Node.js"
+              "title": "Terminal Linux"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "ef6c663f86ce7ba7",
   "lastOpenFiles": [
-    "Sumários/Sumário Rocketseat.md",
+    "Sumários/Uninter.md",
     "Escolas.md",
+    "Node/Criando projeto Node.js.md",
+    "Sumários/Sumário Rocketseat.md",
     "Java/Boas práticas - valide os argumentos de construtores.md",
     "Sumários/Sumário AlgaWorks.md",
     "Java/Sobrecarga de construtores.md",
@@ -194,8 +196,6 @@
     "Sumários/Sumário B7Web.md",
     "Sumários/DIO.md",
     "Sumários/Alura.md",
-    "Sumários/Fiap.md",
-    "Sumários/Sumário OneBitCode.md",
     "Faculdade/Imagens/Pasted image 20250722205551.jpg",
     "Faculdade/Fundamentos de design de sistemas",
     "React Native",
