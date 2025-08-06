@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScaling",
       "FabGitAlt",
       "FabGolang",
       "BoBxlTailwindCss",
-      "FabReact",
-      "LiPackagePlus"
+      "FabReact"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -81,5 +81,6 @@
   "Git": {
     "iconName": "FabGitAlt",
     "iconColor": "#e75f04"
-  }
+  },
+  "Arquitetura": "LiScaling"
 }

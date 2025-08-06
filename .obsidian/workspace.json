@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
+                "file": "Java/Configurando banco de dados - H2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal Linux"
+              "title": "Configurando banco de dados - H2"
             }
           }
         ]
@@ -169,8 +169,17 @@
   },
   "active": "ef6c663f86ce7ba7",
   "lastOpenFiles": [
-    "Sumários/Uninter.md",
+    "Sumários/Java10x.md",
+    "Java/Configurando banco de dados - H2.md",
+    "Java/ORM - Mapeamento objeto-relacional.md",
+    "Java/Missoes Repository.md",
+    "Arquitetura/Arquitetura por Camadas.md",
+    "Arquitetura",
     "Escolas.md",
+    "Java/Try-Catch-Finally.md",
+    "Sumários/Sumário Rasmoo!.md",
+    "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
+    "Sumários/Uninter.md",
     "Node/Criando projeto Node.js.md",
     "Sumários/Sumário Rocketseat.md",
     "Java/Boas práticas - valide os argumentos de construtores.md",
@@ -182,20 +191,12 @@
     "Java/Autoboxing e unboxing.md",
     "Java/Métodos de conversão.md",
     "Java/Usando classes wrapper.md",
-    "Java/Try-Catch-Finally.md",
-    "Sumários/Sumário Rasmoo!.md",
     "Java/Multi-Catch.md",
     "Java/Try-Catch.md",
     "Git/Mensagens de commit padronizadas.md",
     "Git",
     "Sumários/Sumário Udemy.md",
     "Udemy/Spring Boot Expert/Criando um projeto Spring Boot.md",
-    "Udemy/Spring Boot Expert/Conhecendo a estrutura do projeto e dicas Maven.md",
-    "Sumários/Sumário Javanauta.md",
-    "Sumários/Sumário FullCycle.md",
-    "Sumários/Sumário B7Web.md",
-    "Sumários/DIO.md",
-    "Sumários/Alura.md",
     "Faculdade/Imagens/Pasted image 20250722205551.jpg",
     "Faculdade/Fundamentos de design de sistemas",
     "React Native",
@@ -206,7 +207,6 @@
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",
     "Projetos/Rocketseat/Projeto - Adivinhe",
-    "React",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",

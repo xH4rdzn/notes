@@ -1,0 +1,12 @@
+___
+- Um sistema de camadas é divido nos seguintes tópicos:
+	- Apresentação
+	- Serviço
+	- Persistência
+	- Banco de dados
+- A camada de apresentação é que fica mais próxima do usuário, em relação ao código podemos considerar que é o nosso *Controller*;
+- A camada de serviço, é onde colocamos as funções e regras de negócio da nossa aplicação, em relação ao código podemos chamar essa camada de *Service*;
+- A camada de Persistência, é onde são persistidos os nossos dados, em relação ao código podemos chamar de *Repository*;
+- O *Repository* por sua vez, se conecta com a última camada, que é o *Banco de dados*;
+- Essas 3 camadas: *Controller, Service e Repository*, são o mínimo que precisamos para ter uma arquitetura por camadas.
+- Mas podemos ter mais camadas, como por exemplo a camada de *Model*, que por sua vez fica entre a camada de *Service* e *Repository*;
