@@ -715,6 +715,13 @@ ___
 31. [[Validando distância do check-in]]
 32. [[Caso de uso de criação de academia]]
 33. 
+
+
+
+
+##### Desafio - Primeira API em Node.js
+1. [[A base da construção de APIs com Node.js]]
+2. 
 ## Java
 
 ##### Sintaxe
