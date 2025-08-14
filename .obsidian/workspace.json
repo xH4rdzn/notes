@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/Rocketseat/Desafio - Primeira API Node/A base da construção de APIs com Node.js.md",
+                "file": "Projetos/Rocketseat/Desafio - Primeira API Node/Primeiros Passos na construção da API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A base da construção de APIs com Node.js"
+              "title": "Primeiros Passos na construção da API"
             }
           }
         ]
@@ -169,10 +169,11 @@
   },
   "active": "ef6c663f86ce7ba7",
   "lastOpenFiles": [
-    "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Sumários/Sumário Rocketseat.md",
-    "Projetos/Rocketseat/Desafio - Primeira API Node/A base da construção de APIs com Node.js.md",
+    "Projetos/Rocketseat/Desafio - Primeira API Node/Primeiros Passos na construção da API.md",
     "Escolas.md",
+    "Projetos/Rocketseat/Desafio - Primeira API Node/A base da construção de APIs com Node.js.md",
+    "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Sumários/Sumário Udemy.md",
     "Udemy/Spring Boot Expert/Conhecendo a estrutura do projeto e dicas Maven.md",
     "Udemy/Spring Boot Expert/Criando um projeto Spring Boot.md",
@@ -206,7 +207,6 @@
     "Go",
     "Imagens/Pasted image 20250103164210.png",
     "TailwindCSS",
-    "Projetos/Rocketseat/Projeto - Adivinhe",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",
