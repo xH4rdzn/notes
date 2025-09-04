@@ -1,6 +1,4 @@
 ___
-## Iniciando com a linguagem
-1. [[]]
 
 ## Programação Orientada a Objetos - Revisar se necessário
 1. [Criando a nossa primeira classe](../Java/Criando%20a%20nossa%20primeira%20classe.md)
@@ -17,4 +15,5 @@ ___
 1. [[Try-Catch]]
 2. [[Multi-Catch]]
 3. [[Try-Catch-Finally]]
-4. 
+4. [[Criando minha própria exceção]]
+
