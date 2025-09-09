@@ -5,4 +5,6 @@ ___
 4. [[Configurando banco de dados - H2]]
 5. [[Variáveis de ambiente + .env + .gitignore]]
 6. [[Introdução a Migrations - Flyway]]
-7. 
+7. [[DTO x Mapper]]
+8. [[Git Branch - Merge]]
+9. 
