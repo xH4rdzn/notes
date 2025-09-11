@@ -70,7 +70,7 @@ public NinjaService(NinjaRepository ninjaRepository, NinjaMapper ninjaMapper) {
 }
 
 public NinjaDTO criarNinja(NinjaDTO ninjaDTO) {
-	NinjaModel ninja = new ninjaMapper.map(ninjaDTO);
+	NinjaModel ninja = ninjaMapper.map(ninjaDTO);
 	ninja = ninjaRepository.save(ninja);
 	return ninjaMapper.map(ninja);
 }

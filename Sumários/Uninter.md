@@ -6,5 +6,8 @@ ___
 
 
 ## Fundamentos de Desenvolvimento de Software
-1. [[Software]]
+1. [[Software]] 
+
+## Lógica de programação e algoritmos
+1. [[Introdução à lógica e algoritmos]]
 2. 

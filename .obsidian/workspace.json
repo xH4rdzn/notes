@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git Branch - Merge.md",
+                "file": "Git/Mensagens de commit padronizadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Branch - Merge"
+              "title": "Mensagens de commit padronizadas"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "right": {
     "id": "fae77d339040fb90",
@@ -172,22 +171,24 @@
   "lastOpenFiles": [
     "Sumários/Java10x.md",
     "Escolas.md",
-    "Git/Mensagens de commit padronizadas.md",
-    "Git/Git Branch - Merge.md",
-    "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
-    "Sumários/Uninter.md",
-    "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
     "Java/DTO x Mapper.md",
-    "Sumários/Sumário Rasmoo!.md",
-    "Criando minha própria exceção.md",
-    "Java/Try-Catch-Finally.md",
     "Java/Introdução a Migrations - Flyway.md",
     "Java/Variáveis de ambiente + .env + .gitignore.md",
     "Java/Configurando banco de dados - H2.md",
-    "Arquitetura/Arquitetura por Camadas.md",
     "Java/Missoes Repository.md",
     "Java/ORM - Mapeamento objeto-relacional.md",
+    "Faculdade/Lógica de programação e algoritmos/Introdução à lógica e algoritmos.md",
+    "Sumários/Uninter.md",
+    "Faculdade/Lógica de programação e algoritmos",
     "Faculdade/Fundamentos de Desenvolvimento de software/Software.md",
+    "Git/Git Branch - Merge.md",
+    "Git/Mensagens de commit padronizadas.md",
+    "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
+    "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
+    "Sumários/Sumário Rasmoo!.md",
+    "Criando minha própria exceção.md",
+    "Java/Try-Catch-Finally.md",
+    "Arquitetura/Arquitetura por Camadas.md",
     "Sumários/Sumário Rocketseat.md",
     "CSharp/Conhecendo mais do Swagger.md",
     "CSharp/Namespace.md",
@@ -195,7 +196,6 @@
     "CSharp/HashSet.md",
     "CSharp/CLI do .NET.md",
     "CSharp/Compilação e execução.md",
-    "CSharp/O que é o .NET.md",
     "Faculdade/Fundamentos de Desenvolvimento de software",
     "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Arquitetura",
@@ -206,7 +206,6 @@
     "Udemy/Java Completo - Nelio Alves",
     "Dio/WEX",
     "Dio",
-    "Go",
     "Imagens/Pasted image 20250103164210.png",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
