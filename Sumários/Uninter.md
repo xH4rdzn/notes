@@ -10,4 +10,5 @@ ___
 
 ## Lógica de programação e algoritmos
 1. [[Introdução à lógica e algoritmos]]
-2. 
+2. [[Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída]]
+3. 
