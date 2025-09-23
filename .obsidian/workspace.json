@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
+                "file": "Sumários/Java10x.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída"
+              "title": "Java10x"
             }
           }
         ]
@@ -170,23 +170,25 @@
   },
   "active": "b90e479091a52a4e",
   "lastOpenFiles": [
+    "Banco De dados/SQL - Filtragem no banco de dados.md",
+    "Sumários/Java10x.md",
+    "Escolas.md",
+    "Git/Git Branch - Merge.md",
+    "Introdução a BigO.md",
+    "Java/ResponseEntity.md",
+    "Java/Introdução a Migrations - Flyway.md",
+    "Java/Variáveis de ambiente + .env + .gitignore.md",
+    "Java/Configurando banco de dados - H2.md",
+    "Java/ORM - Mapeamento objeto-relacional.md",
+    "Java/Missoes Repository.md",
     "Sumários/Uninter.md",
     "Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
     "Faculdade/Lógica de programação e algoritmos/Introdução à lógica e algoritmos.md",
     "Pasted image 20250921111139.png",
-    "Escolas.md",
-    "Java/ResponseEntity.md",
-    "Sumários/Java10x.md",
     "Git/Mensagens de commit padronizadas.md",
     "Java/DTO x Mapper.md",
-    "Java/Introdução a Migrations - Flyway.md",
-    "Java/Variáveis de ambiente + .env + .gitignore.md",
-    "Java/Configurando banco de dados - H2.md",
-    "Java/Missoes Repository.md",
-    "Java/ORM - Mapeamento objeto-relacional.md",
     "Faculdade/Lógica de programação e algoritmos",
     "Faculdade/Fundamentos de Desenvolvimento de software/Software.md",
-    "Git/Git Branch - Merge.md",
     "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
     "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
     "Sumários/Sumário Rasmoo!.md",
@@ -196,8 +198,6 @@
     "Sumários/Sumário Rocketseat.md",
     "CSharp/Conhecendo mais do Swagger.md",
     "CSharp/Namespace.md",
-    "CSharp/Dicionários.md",
-    "CSharp/HashSet.md",
     "Faculdade/Fundamentos de Desenvolvimento de software",
     "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Arquitetura",
