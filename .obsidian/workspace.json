@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sumários/Java10x.md",
+                "file": "Faculdade/Lógica de programação e algoritmos/Funções Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java10x"
+              "title": "Funções Python"
             }
           }
         ]
@@ -170,9 +170,17 @@
   },
   "active": "b90e479091a52a4e",
   "lastOpenFiles": [
-    "Banco De dados/SQL - Filtragem no banco de dados.md",
-    "Sumários/Java10x.md",
+    "Sumários/Uninter.md",
+    "Faculdade/Lógica de programação e algoritmos/Funções Python.md",
+    "Faculdade/Lógica de programação e algoritmos/Algoritmos iterativos. Estruturas de repetição.md",
+    "Faculdade/Lógica de programação e algoritmos/Introdução à lógica e algoritmos.md",
     "Escolas.md",
+    "Udemy/Spring Boot Expert/Criando um projeto Spring Boot.md",
+    "Udemy/Spring Boot Expert/Conhecendo a estrutura do projeto e dicas Maven.md",
+    "Faculdade/Lógica de programação e algoritmos/Algoritmos sequenciais. Estruturas de seleção ou decisão.md",
+    "Faculdade/Lógica de programação e algoritmos/Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Sumários/Java10x.md",
+    "Banco De dados/SQL - Filtragem no banco de dados.md",
     "Git/Git Branch - Merge.md",
     "Introdução a BigO.md",
     "Java/ResponseEntity.md",
@@ -181,9 +189,7 @@
     "Java/Configurando banco de dados - H2.md",
     "Java/ORM - Mapeamento objeto-relacional.md",
     "Java/Missoes Repository.md",
-    "Sumários/Uninter.md",
     "Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Faculdade/Lógica de programação e algoritmos/Introdução à lógica e algoritmos.md",
     "Pasted image 20250921111139.png",
     "Git/Mensagens de commit padronizadas.md",
     "Java/DTO x Mapper.md",
@@ -192,12 +198,6 @@
     "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
     "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
     "Sumários/Sumário Rasmoo!.md",
-    "Criando minha própria exceção.md",
-    "Java/Try-Catch-Finally.md",
-    "Arquitetura/Arquitetura por Camadas.md",
-    "Sumários/Sumário Rocketseat.md",
-    "CSharp/Conhecendo mais do Swagger.md",
-    "CSharp/Namespace.md",
     "Faculdade/Fundamentos de Desenvolvimento de software",
     "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Arquitetura",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebook",
       "LiScaling",
       "FabGitAlt",
       "FabGolang",
-      "BoBxlTailwindCss",
-      "FabReact"
+      "BoBxlTailwindCss"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
     "iconName": "FabGitAlt",
     "iconColor": "#e75f04"
   },
-  "Arquitetura": "LiScaling"
+  "Arquitetura": "LiScaling",
+  "Udemy": "LiNotebook"
 }
