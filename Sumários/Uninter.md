@@ -14,4 +14,4 @@ ___
 3. [[Algoritmos sequenciais. Estruturas de seleção ou decisão]]
 4. [[Algoritmos iterativos. Estruturas de repetição]]
 5. [[Funções Python|Funções]]
-6. 
+6. [[Tuplas, Listas, dicionários e strings]]
