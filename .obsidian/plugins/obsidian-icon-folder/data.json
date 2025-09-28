@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrain",
       "LiNotebook",
       "LiScaling",
       "FabGitAlt",
-      "FabGolang",
-      "BoBxlTailwindCss"
+      "FabGolang"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,7 +41,7 @@
   },
   "Java": {
     "iconName": "BoBxlJava",
-    "iconColor": "#c70000"
+    "iconColor": "#00c7ba"
   },
   "Imagens": "LiImages",
   "Javascript": {
@@ -52,7 +52,6 @@
     "iconName": "LiDatabase",
     "iconColor": "#c4177c"
   },
-  "Java/Javanauta": "LiFolder",
   "Sumários": "LiList",
   "Faculdade": "LiScrollText",
   "FullCycle 4.0/Docker na prática": "FabDocker",
@@ -66,22 +65,14 @@
     "iconName": "FabReact",
     "iconColor": "#159cd5"
   },
-  "TailwindCSS": {
-    "iconName": "BoBxlTailwindCss",
-    "iconColor": "#00fffb"
-  },
-  "Go": {
-    "iconName": "FabGolang",
-    "iconColor": "#00bfff"
-  },
-  "React Native": {
-    "iconName": "FabReact",
-    "iconColor": "#0c8ced"
-  },
   "Git": {
     "iconName": "FabGitAlt",
     "iconColor": "#e75f04"
   },
   "Arquitetura": "LiScaling",
-  "Udemy": "LiNotebook"
+  "Udemy": "LiNotebook",
+  "IA": {
+    "iconName": "LiBrain",
+    "iconColor": "#88a00d"
+  }
 }

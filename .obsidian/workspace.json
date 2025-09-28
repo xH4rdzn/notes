@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6bfdf37de4692abe",
+        "id": "3ef66774c867fef7",
         "type": "tabs",
         "children": [
           {
-            "id": "b90e479091a52a4e",
+            "id": "ba8ce8b8086d4e93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Lógica de programação e algoritmos/Funções Python.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Funções Python"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
+    "width": 471.5,
     "collapsed": true
   },
   "right": {
@@ -168,36 +164,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b90e479091a52a4e",
+  "active": "ba8ce8b8086d4e93",
   "lastOpenFiles": [
-    "Sumários/Uninter.md",
-    "Faculdade/Lógica de programação e algoritmos/Funções Python.md",
-    "Faculdade/Lógica de programação e algoritmos/Algoritmos iterativos. Estruturas de repetição.md",
-    "Faculdade/Lógica de programação e algoritmos/Introdução à lógica e algoritmos.md",
+    "Sumários/Sumário Rocketseat.md",
+    "IA/Ancoragem de memória.md",
+    "IA/Zero-Shot Prompting.md",
+    "IA/Verificação cognitiva.md",
+    "IA/Sumário.md",
+    "IA/Role Prompting.md",
+    "IA/Refinamento de perguntas.md",
+    "IA/Prompt de Follow-Up.md",
+    "IA/Persona do usuário.md",
+    "IA/Meta Prompt.md",
+    "IA/Few-Shot Prompting.md",
     "Escolas.md",
-    "Udemy/Spring Boot Expert/Criando um projeto Spring Boot.md",
-    "Udemy/Spring Boot Expert/Conhecendo a estrutura do projeto e dicas Maven.md",
-    "Faculdade/Lógica de programação e algoritmos/Algoritmos sequenciais. Estruturas de seleção ou decisão.md",
-    "Faculdade/Lógica de programação e algoritmos/Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
+    "Arquitetura/Arquitetura por Camadas.md",
+    "IA",
+    "Sumários/Gran Faculdade.md",
     "Sumários/Java10x.md",
-    "Banco De dados/SQL - Filtragem no banco de dados.md",
-    "Git/Git Branch - Merge.md",
-    "Introdução a BigO.md",
-    "Java/ResponseEntity.md",
-    "Java/Introdução a Migrations - Flyway.md",
-    "Java/Variáveis de ambiente + .env + .gitignore.md",
-    "Java/Configurando banco de dados - H2.md",
-    "Java/ORM - Mapeamento objeto-relacional.md",
-    "Java/Missoes Repository.md",
-    "Algoritmos sequenciais. Dados, Variáveis e Comandos de Entrada e Saída.md",
-    "Pasted image 20250921111139.png",
-    "Git/Mensagens de commit padronizadas.md",
-    "Java/DTO x Mapper.md",
-    "Faculdade/Lógica de programação e algoritmos",
-    "Faculdade/Fundamentos de Desenvolvimento de software/Software.md",
-    "Faculdade/Fundamentos de design de sistemas/Terminal Linux.md",
-    "Faculdade/Fundamentos de design de sistemas/Conhecendo o Linux.md",
+    "Sumários/Sumário AlgaWorks.md",
+    "Node/Entendendo o protocolo HTTP.md",
+    "Sumários/Sumário B7Web.md",
+    "Sumários/Sumário FullCycle.md",
     "Sumários/Sumário Rasmoo!.md",
+    "Sumários/Sumário Javanauta.md",
+    "Sumários/Sumário Udemy.md",
+    "Sumários/Uninter.md",
+    "Sumários/DIO.md",
+    "Java/Body Params.md",
+    "Java/Path Params e Query Params.md",
+    "Pasted image 20250921111139.png",
+    "Faculdade/Lógica de programação e algoritmos",
     "Faculdade/Fundamentos de Desenvolvimento de software",
     "Projetos/Rocketseat/Desafio - Primeira API Node",
     "Arquitetura",
@@ -207,7 +204,6 @@
     "React Native",
     "Udemy/Java Completo - Nelio Alves",
     "Dio/WEX",
-    "Dio",
     "Imagens/Pasted image 20250103164210.png",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",

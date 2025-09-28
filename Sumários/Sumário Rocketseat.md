@@ -634,22 +634,6 @@ ___
 8. [[Utilizando o Schema na Validação]]
 9. [[Exibindo Erros de validação]]
 
-##### TailwindCSS
-1. [[Instalando o TailwindCSS]]
-2. [[Configurando o TailwindCSS]]
-3. [[Criando auth-routes]]
-4. [[Criando o AuthLayout]]
-5. [[Criando Componente de Input]]
-6. [[Criando o Componente de Button]]
-7. [[Criando o onSubmit com os Estados]]
-8. [[Link para SignUp]]
-9. [[Criando SignUp]]
-10. [[Criando Not Found]]
-11. [[Criando a Rota de Refund]]
-12. [[Criar o AppLayout]]
-13. [[Criar o Header]]
-14. 
-
 
 ## Node
 
@@ -717,12 +701,6 @@ ___
 33. 
 
 
-
-
-##### Desafio - Primeira API em Node.js
-1. [[A base da construção de APIs com Node.js]]
-2. [[Primeiros Passos na construção da API]]
-3. 
 ## Java
 
 ##### Sintaxe
@@ -747,29 +725,21 @@ ___
 ##### Rotas, Autenticação e Autorização
 
 
-## Kotlin
-279. [[Hello World em Kotlin]]
-280. [[Mutabilidade e Imutabilidade]]
-281. [[Tipos de dados Básicos]]
-282. 
 ## Eventos
 #### NLW Connect
 ##### Node
 1. [[Criação e configuração inicial do projeto]]
 2. [[Integração com banco de dados e primeiras funcionalidades]]
 
-## Go
 
-##### Fundamentos
-1. [[Preparação de Ambiente e primeiro programa]]
-2. [[Packages]]
-3. [[Nomes públicos e privados]]
-4. [[Funções]]
-5. [[Variáveis]]
-6. [[Sistema de Tipos e Constantes]]
-
-## React Native
-1. [[React Native/Criando o projeto|Criando o projeto]]
-2. [[React Native/Executando o projeto|Executando o projeto]]
-3. [[Entendendo o JSX]]
-4. 
+## Engenharia de Prompt
+1. [[Zero-Shot Prompting]]
+2. [[Few-Shot Prompting]]
+3. [[Prompt de Follow-Up]]
+4. [[Meta Prompt]]
+5. [[Refinamento de perguntas]]
+6. [[Verificação cognitiva]]
+7. [[Persona do usuário]]
+8. [[Role Prompting]]
+9. [[Ancoragem de memória]]
+10. 
