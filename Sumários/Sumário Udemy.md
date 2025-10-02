@@ -29,4 +29,5 @@ ___
 
 ### UniPDS
 1. [[Use IA Em Aplicações Java]]
-2. 
+2. [[IA Corporativa com Java e Langchain4j]]
+3. 
