@@ -731,7 +731,6 @@ ___
 1. [[Criação e configuração inicial do projeto]]
 2. [[Integração com banco de dados e primeiras funcionalidades]]
 
-
 ## Engenharia de Prompt
 1. [[Zero-Shot Prompting]]
 2. [[Few-Shot Prompting]]

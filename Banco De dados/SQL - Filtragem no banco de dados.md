@@ -96,3 +96,21 @@ SELECT SUM(coluna) FROM tabela WHERE condição;
 ```sql
 SELECT coluna, SUM(colunaValor) FROM tabela GROUP BY coluna HAVING SUM(colunaValor)
 ```
+
+## 9. INNER JOIN
+- O *Inner join* retorna apenas os registros que têm correspondência em ambas as tabelas.
+```sql
+SELECT * FROM tabela1 INNER JOIN tabela2 ON tabela1.id = tabela2.id;
+```
+
+## 10. LEFT JOIN
+- O *Left Join* retorna todos os registros da tabela da esquerda e os correspondentes da direita. Se não houver correspondência, preenche com **NULL**
+```SQL
+SELECT * FROM tabela1 LEFT JOIN tabela2 ON tabela1.id = tabela2.id;
+```
+
+## 11. RIGHT JOIN
+- O *Right Join* retorna todos os registros da tabela da direita e os correspondentes da esquerda. Se não houver correspondência, preenche com **NULL**
+```SQL
+SELECT * FROM tabela1 RIGHT JOIN tabela2 ON tabela1.id = tabela2.id;
+```

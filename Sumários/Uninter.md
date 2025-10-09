@@ -15,3 +15,7 @@ ___
 4. [[Algoritmos iterativos. Estruturas de repetição]]
 5. [[Funções Python|Funções]]
 6. [[Tuplas, Listas, dicionários e strings]]
+
+## Fundamentos de Sistemas de informação
+1. [[Conceitos Fundamentais de Sistemas de informação]]
+2. 

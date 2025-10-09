@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Projetos/Java10x/MovieFlix/Rotas de categoria x Streaming x Filmes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Rotas de categoria x Streaming x Filmes"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TailwindCSS/Criar o Header.md",
+                "file": "Full Outer Join.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Criar o Header"
+              "title": "Sumário de Full Outer Join"
             }
           }
         ],
@@ -169,34 +169,39 @@
   },
   "active": "ba8ce8b8086d4e93",
   "lastOpenFiles": [
-    "Faculdade/Lógica de programação e algoritmos/Tuplas, Listas, dicionários e strings.md",
-    "Teste.md",
-    "Sumários/Uninter.md",
+    "Sumários/Java10x.md",
     "Escolas.md",
+    "Rotas de categoria x Streaming x Filmes.md",
+    "Projetos/Java10x/MovieFlix/MovieFlix - Estrutura do Projeto.md",
+    "Sumários/Sumário Rocketseat.md",
+    "Node/Executando o Docker Compose.md",
+    "Java/Variáveis de ambiente + .env + .gitignore.md",
+    "Node/Criando o Docker Compose.md",
+    "Imagens/Pasted image 20251006232456.png",
+    "Projetos/Java10x/MovieFlix",
+    "Projetos/Java10x",
+    "Banco De dados/Full Outer Join.md",
+    "Banco De dados/Right Join.md",
+    "Banco De dados/Left Join.md",
+    "Sumários/Uninter.md",
+    "Faculdade/Fundamentos de Sistemas de informação/Conceitos Fundamentais de Sistemas de informação.md",
+    "Faculdade/Fundamentos de Sistemas de informação",
+    "Projetos/Rocketseat/NLW FullStack + IA/Criando a estrutura do nosso projeto.md",
+    "Projetos/Rocketseat/NLW FullStack + IA",
+    "Java/ResponseEntity.md",
+    "Banco De dados/Inner Join.md",
+    "Banco De dados/SQL - Filtragem no banco de dados.md",
+    "Teste.md",
+    "Faculdade/Lógica de programação e algoritmos/Tuplas, Listas, dicionários e strings.md",
     "IA Corporativa com Java e Langchain4j.md",
     "Sumários/Sumário Udemy.md",
-    "Sumários/Java10x.md",
     "Java/Use IA Em Aplicações Java.md",
     "Pasted image 20250929202940.png",
-    "Sumários/Sumário Rocketseat.md",
     "IA/Ancoragem de memória.md",
     "IA/Zero-Shot Prompting.md",
     "IA/Verificação cognitiva.md",
     "IA/Sumário.md",
-    "IA/Role Prompting.md",
-    "IA/Refinamento de perguntas.md",
-    "IA/Prompt de Follow-Up.md",
-    "IA/Persona do usuário.md",
-    "IA/Meta Prompt.md",
-    "IA/Few-Shot Prompting.md",
-    "Arquitetura/Arquitetura por Camadas.md",
     "IA",
-    "Sumários/Gran Faculdade.md",
-    "Sumários/Sumário AlgaWorks.md",
-    "Node/Entendendo o protocolo HTTP.md",
-    "Sumários/Sumário B7Web.md",
-    "Sumários/Sumário FullCycle.md",
-    "Sumários/Sumário Rasmoo!.md",
     "Pasted image 20250921111139.png",
     "Faculdade/Lógica de programação e algoritmos",
     "Faculdade/Fundamentos de Desenvolvimento de software",
@@ -204,17 +209,12 @@
     "Arquitetura",
     "Git",
     "Faculdade/Imagens/Pasted image 20250722205551.jpg",
-    "Faculdade/Fundamentos de design de sistemas",
-    "React Native",
-    "Udemy/Java Completo - Nelio Alves",
-    "Dio/WEX",
     "Imagens/Pasted image 20250103164210.png",
     "Imagens/Pasted image 20250329223208.png",
     "Imagens/Pasted image 20250329223056.png",
     "Imagens/Pasted image 20250329223008.png",
     "Imagens/Pasted image 20250329222820.png",
     "Imagens/Pasted image 20250329222554.png",
-    "Imagens/Pasted image 20250329222358.png",
     "CSharp/Sem título.canvas"
   ]
 }
