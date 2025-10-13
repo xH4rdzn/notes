@@ -54,8 +54,6 @@
   },
   "Sumários": "LiList",
   "Faculdade": "LiScrollText",
-  "FullCycle 4.0/Docker na prática": "FabDocker",
-  "FullCycle 3.0/Docker": "FabDocker",
   "TypeScript": {
     "iconName": "BoBxlTypescript",
     "iconColor": "#2c30a5"
@@ -74,5 +72,7 @@
   "IA": {
     "iconName": "LiBrain",
     "iconColor": "#88a00d"
-  }
+  },
+  "FullCycle/FullCycle 3.0/Docker": "FabDocker",
+  "FullCycle/FullCycle 4.0/Docker na prática": "FabDocker"
 }

@@ -1,15 +1,5 @@
 ___
 
-## Spring Boot Expert
-1. [[Criando um projeto Spring Boot]]
-2. [[Conhecendo a estrutura do projeto e dicas Maven]]
-3. 
-
-
-
-
-
-
 
 ## Java Completo Programação Orientada a Objetos + Projetos - Nelio Alves
 
@@ -25,9 +15,3 @@ ___
 9. [[Expressões lógicas]]
 10. [[Estrutura condicional (if-else)]]
 
-
-
-### UniPDS
-1. [[Use IA Em Aplicações Java]]
-2. [[IA Corporativa com Java e Langchain4j]]
-3. 
