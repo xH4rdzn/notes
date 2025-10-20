@@ -1,0 +1,14 @@
+___
+- O modelo Entidade e Relacionamento, também chamado de ***MER***, são diagramas utilizados para representar, de forma abstrata, a estrutura de um banco de dados. Normalmente descrevem os objetos da nossa realidade através de **entidades**, contendo propriedades que são os **atributos** e os seus devidos **relacionamentos**.
+- Entidades
+	- Representam objetos da nossa realidade, possuem uma existência independente e normalmente são representadas nominalmente por substantivos. Contudo, é possível dizer que Pessoas, Produtos, Departamentos, Empresas e Escolas, são exemplos de entidades.
+- Atributos
+	- Descrevem as propriedades das entidades, são características que cada entidade possui dentro de um determinado domínio. A entidade pessoa por exemplo, possui um nome, e-mail, data de nascimento, estado civil, endereço, entre outros.
+- Relacionamentos
+	- Descreve o relacionamento entre as entidades e normalmente são representados por verbos. Por exemplo, entre as entidades escola e aluno, é possível dizer que "uma escola possui vários alunos". Dessa forma, de acordo com cada tipo de relacionamento, podemos classifica-los em três tipos:
+		- Um para Um(1...1)
+			- Uma entidade X se associa unicamente a uma outra entidade Y.
+		- Um para Muitos (1...N)
+			- Uma entidade X pode referenciar a várias ocorrências de uma entidade Y. Porém, essa entidade Y pode apenas referenciar uma única ocorrência da entidade X.
+		- Muitos para Muitos (N...N)
+			- A entidade X pode referenciar diversas ocorrências da entidade Y e a entidade Y pode também se referenciar a várias ocorrências da entidade X.

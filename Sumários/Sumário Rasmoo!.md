@@ -59,14 +59,16 @@ ___
 ## Banco de dados relacional com MySQL
 
 #### Introdução ao MySQL, CRUD e consultadas avançadas
-1. [[Tabelas e tipos de dados]]
-2. [[Modelo Entidade e Relacionamento]]
-3. [[Criando o MER do nosso jeito]]
-4. [[Estruturando o projeto]]
-5. [[Manipulando os dados]]
-6. [[Estrutura básica de uma consulta]]
-7. [[Subconsulta ou Subquery]]
-8. [[Combinando tabelas]]
+
+1. [[Tipos de banco de dados]]
+2. [[Tabelas e tipos de dados]]
+3. [[Modelo Entidade e Relacionamento]]
+4. [[Criando o MER do nosso jeito]]
+5. [[Estruturando o projeto]]
+6. [[Manipulando os dados]]
+7. [[Estrutura básica de uma consulta]]
+8. [[Subconsulta ou Subquery]]
+9. [[Combinando tabelas]]
 
 #### MySQL avançado
 1. [[Funções de agregação]]
