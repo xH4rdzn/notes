@@ -741,4 +741,8 @@ ___
 7. [[Persona do usuário]]
 8. [[Role Prompting]]
 9. [[Ancoragem de memória]]
-10. 
+
+## Desafio Full-Stack com IA - Webhook Inspector
+1. [[Backend com Fastify e PostgreSQL]]
+2. [[Frontend com Vite e TanStack Query]]
+3. 
