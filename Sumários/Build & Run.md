@@ -20,4 +20,27 @@ ___
 2. [[Iniciando o projeto e Configurando o Projeto]]
 3. [[Realizando o mapeamento @OneToOne]]
 4. [[Persistindo registros com o mapeamento @OneToOne]]
-5. 
+5. [[Estratégias de carregamento dos relacionamentos (FetchType - Eager vs Lazy)]]
+6. [[Aplicando na prática as estratégias de carregamento (Eager vs Lazy)]]
+7. [[Removendo registros com o mapeamento @OneToOne]]
+8. [[Conhecendo as principais estratégias de Cascade]]
+9. [[Aplicando a estratégia de Cascade no relacionamento @OneToOne]]
+10. [[Realizando o mapeamento @OneToMany e @ManyToOne]]
+11. [[Realizando o mapeamento @ManyToMany]]
+12. [[Carregando dados na base de forma automática]]
+13. [[Criando a funcionalidade de Cadastrar pedido]]
+14. [[Criando a funcionalidade de Listar Pedidos]]
+15. [[Criando a funcionalidade de Detalhar Pedido]]
+
+### Manipulação de Exceções e Validações
+1. [[Iniciando o projeto JBank]]
+2. [[Criando as entidades do JBank (Wallet, Deposito e Transfer)]]
+3. [[Conhecendo os Filters e Interceptors]]
+4. [[Criando e configurando o Filter de IP]]
+5. [[Criando e configurando o Interceptor de Auditoria]]
+6. [[Criando a funcionalidade de Cadastro de Carteira (Wallet)]]
+7. [[Entendendo o fluxo de tratamento de Exceções]]
+8. [[Tratando exceções no nível da @Controller]]
+9. [[Tratando exceções globalmente com @RestControllerAdvice]]
+10. [[Conhecendo o Hibernate Validator]]
+11. 
