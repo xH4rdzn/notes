@@ -1,5 +1,9 @@
 ___
 
+### Orientação a Objetos
+1. [[O que são Enums]]
+2. [[Conhecendo os Enums na prática]]
+3. 
 ### Fundamentos do Spring Framework
 1. [[Aprofundando com @Qualifier e @Primary]]
 
@@ -43,4 +47,12 @@ ___
 8. [[Tratando exceções no nível da @Controller]]
 9. [[Tratando exceções globalmente com @RestControllerAdvice]]
 10. [[Conhecendo o Hibernate Validator]]
-11. 
+11. [[Validando os dados da funcionalidade de Cadastrar Carteira]]
+12. [[Tratando o retorno da API após as validações do Hibernate Validator]]
+13. [[Criando a funcionalidade de Encerrar Carteira]]
+14. [[Criando a funcionalidade de Depositar Dinheiro @Transactional]]
+15. [[Criando a funcionalidade de Realizar transferência (ACID)]]
+16. 
+
+
+
