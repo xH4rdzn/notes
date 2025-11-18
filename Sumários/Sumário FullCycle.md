@@ -40,4 +40,6 @@ ___
 1. [[Persistência de dados em containers]]
 2. [[Bind mounts vs Volumes]]
 3. [[Fazendo o primeiro bind mount]]
-4. 
+4. [[Utilizando o parâmetro mount]]
+5. [[Criando e inspecionando volumes]]
+6. 

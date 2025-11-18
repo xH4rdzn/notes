@@ -5,8 +5,12 @@ ___
 ### O que são *Bind Mounts* ?
 - Os *Bind Mounts* basicamente estamos pegando uma pasta do nosso computador e estamos mapeando ela para o nosso **container**.
 - Nesse caso estamos compartilhando arquivos entre a **Máquina Host** e o **Container**. Que dependendo do sistema é uma máquina virtual (Windows e MacOs).
+- Para desenvolvimento é a solução, porque temos uma latência bem baixa, para mudar os arquivos em nosso computador e automaticamente alterar no container. (No Linux não é perceptível);
+- ***Bind Mounts*** -> usamos para ambientes de desenvolvimento, e quando queremos ter acesso aos arquivos.
+
+### O que são *Volumes* ?
 - O *Volume* é gerenciado pelo ***Docker***, diferente do Binds Mounts a pasta não é compartilhada com a máquina *HOST*. Evitando assim problemas de segurança.
 - Geralmente usamos *Volumes*, quando estamos trabalhando com banco de dados, e em produção.
 - Em outras palavras:
-- ***Bind Mounts*** -> usamos para ambientes de desenvolvimento, e quando queremos ter acesso aos arquivos.
 - ***Volumes*** -> pasta que não queremos ter acesso e para ambiente de produção.
+
