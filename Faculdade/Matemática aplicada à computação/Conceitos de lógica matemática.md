@@ -108,3 +108,27 @@ ___
 | V   | F   | F   |
 | F   | V   | V   |
 | F   | V   | F   |
+- Só é *falso* quando a 'promessa' não for comprida
+
+#### Bicondicional
+- Tabela verdade
+
+| p   | <-> | q   |
+| --- | --- | --- |
+| V   | V   | V   |
+| V   | F   | F   |
+| F   | F   | V   |
+| F   | V   | F   |
+- O valor é *verdadeiro*, caso as duas preposições sejam falsas ou verdadeiras, mas caso uma delas seja falsa, o valor da bicondicional é falsa.
+
+### Propriedades
+- Dupla negação:
+	- (p') '<-> p
+- Leis idempotentes:
+	- p + p <-> p
+	- p . p <-> p
+- Comutatividade:
+	- p + q <-> p + q
+	- p . q <-> q . p
+- Leis associativas:
+	- (p + q) + r <-> p + (q +r)
