@@ -22,3 +22,7 @@ ___
 ## Programação Orientada a objetos
 1. [[Linguagem Java]]
 2. [[Classes e Objetos]]
+
+## Matemática aplicada à computação
+1. [[Conceitos de lógica matemática]]
+2. 
