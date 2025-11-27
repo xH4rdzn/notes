@@ -147,3 +147,72 @@ public AuthenticationManager authenticationManager(AuthenticationConfiguration a
 }
 ```
 - Agora para podermos gerar o *token JWT*, para isso precisamos criar uma classe, que vamos chamar ela de `TokenService`
+- Agora dentro do *package* `config`, vamos criar o `TokenService`, e dentro dela vamos fazer o seguinte:
+```java
+@Component
+public class TokenService {
+	
+	public String generateToken(User user) {
+		Algorithm algorithm = Algorithm.HMAC256("");
+		
+		return JWT.create()
+			.sign()
+	} 
+	
+}
+```
+- Para o `Algorithm.HMAC256()`, precisamos passar uma chave secreta, para fazer isso, vamos em nosso ***`application.yaml`*** e vamos adicionar:
+```yaml
+movieflix:
+	security:
+		secret: "palavra-secreta"
+```
+- Agora voltamos ao nosso `TokenService`e configuramos da seguinte maneira:
+```java
+@Component
+public class TokenService {
+
+	@Value("${movieflix.security.secret}")
+	private String secret;
+	
+	public String generateToken(User user) {
+		Algorithm algorithm = Algorithm.HMAC256(secret);
+		
+		return JWT.create()
+			.withSubject(user.getEmail())
+			.withClaim("userId", user.getId())
+			.withExpiresAt(Instant.now().plusSeconds(86400))
+			.withIssuedAt(Instant.now())
+			.sign(algorithm)
+			
+	} 
+	
+}
+```
+- Agora voltamos ao nosso `AuthController`e injetamos o nosso `TokenService`
+```java
+public class AuthController {
+	
+	// outras injeções
+	private final TokenService tokenService;
+}
+```
+- E agora em nosso método de **`login`** fazemos o seguinte:
+```java
+@PostMapping("/login")
+public ResponseEntity<LoginResponse> login(@RequestBody LoginRequest request) {
+	UsernamePasswordAuthenticationToken userAndPass = new UsernamePasswordAuthenticationToken(request.email(), request.password());
+	
+	Authentication authenticate = authenticationManager.authenticate(userAndPass);
+	
+	User user = (User) authenticate.getPrincipal();
+	
+	String token = tokenService.generateToken(user);
+	
+	return ResponseEntity.ok(new LoginResponse(token));
+}
+```
+- Como alteramos o retorno do método para ***`LoginResponse`***, precisamos criar ele, então no *package* de response, vamos criar
+```java
+public record LoginResponse(String token) {}
+```

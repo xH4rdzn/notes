@@ -26,4 +26,5 @@ ___
 ## Matemática aplicada à computação
 1. [[Conceitos de lógica matemática]]
 2. [[Bases numéricas e aritmética binária]]
-3. 
+3. [[Números reais e erros]]
+4. 
