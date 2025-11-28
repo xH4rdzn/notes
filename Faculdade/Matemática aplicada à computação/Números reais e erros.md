@@ -51,3 +51,35 @@ $$
 -  ![[Pasted image 20251126215519.png]]
 
 ### Aritmética de ponto flutuante
+- Soma:
+	- Exemplo com expoentes iguais:
+		- Dados os números decimais a = 2,3421 x 10² e b = 3,5154 x 10², calcule a + b
+$$ a + b = 2,3421 * 10² + 3,5154 * 10² $$
+$$ a + b = (2,3421 + 3,5154) * 10²$$
+$$ a + b = 5,8575 * 10² $$
+	- Exemplo com expoentes diferentes:
+		- Dados os números decimais a = 2,3421 x 10² e b = 3,5154 x 10⁴, calcule a + b
+$$ a + b = 2,3421 * 10² + 3,5154 * 10⁴ $$
+$$ a + b = 0,023421 * 10⁴ + 3,5154 * 10⁴ $$
+$$ a + b = (0,023421 + 3,5154) * 10⁴ $$
+$$ a + b = 3,538821 * 10⁴$$
+- Subtração
+	- Exemplo:
+		- Dados os números decimais a + 2,3421 x 10² e b = 3,5154 x 10², calcule a - b
+$$ a - b = 2,3421 * 10² - 3,5154 * 10² $$
+$$  a - b = (2,3421 - 3,5154) * 10² $$
+$$ a - b = -1,1733 * 10²$$
+- Multiplicação
+	- Exemplo:
+		- Dados os números decimais a = 2,3421 x 10² e b = 3,5154 x 10², calcule o produto entre a e b.
+$$ a . b = 2,3421 * 10² * 3,5154 * 10² $$
+$$a . b = (2,3421 * 3,5154) * (10² * 10²)$$
+$$a.b = 8,23341834 * 10⁴$$
+- Divisão:
+	- Obtenha a divisão de a = 2,3421 x 10² por b = 3,5154 x 10²
+$$ a / b = 2,3421 * 10² / 3,5154 * 10² $$
+$$ a / b = (2,3421 / 3,5154) * (10² / 10²)$$
+$$ a / b = 0,66623997269 * 10⁰$$
+$$ a / b = 6,6623997269 * 10⁻¹$$
+### Representação de erros
+- É muito comum a existência de erros quando tratamos de representações numéricas e operações por meio de computadores. Estes erros podem ocorrer devido às aproximações feitas em muitas representações numéricas que são erros de arredondamento. Outro tipo de erro muito comum é o erro por truncamento.
