@@ -28,3 +28,5 @@ ___
 2. [[Bases numéricas e aritmética binária]]
 3. [[Números reais e erros]]
 4. [[Tópicos de matemática]]
+5. [[Estatística e probabilidade]]
+6. [[Criptografia, assinatura digital e certificados digitais]]
