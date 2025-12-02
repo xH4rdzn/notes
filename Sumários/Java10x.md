@@ -22,4 +22,5 @@ ___
 2. [[Rotas de categoria x Streaming x Filmes]]
 3. [[Spring Security]]
 4. [[JWT - Implementando token]]
-5. 
+5. [[Exceptions - Refatorando o projeto]]
+6. [[Swagger - Documentando a aplicação]]
