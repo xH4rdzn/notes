@@ -108,3 +108,41 @@ WHERE
 @Query(value = SQL_STATEMENT, countQuery = , nativeQuery = true)
 Page<StatementView> findStatements(UUID walletId, PageRequest pageRequest);
 ```
+- Então criamos a nossa *query* de count como no exemplo abaixo:
+```sql
+SELECT COUNT(*) FROM (
+SELECT 
+	transfer_id as statement_id,
+	"transfer" as type,
+	transfer_value as statement_value,
+	wallet_receiver_id as wallet_receiver,
+	wallet_sender_id as wallet_sender,
+	transfer_date_time as statement_date_time
+FROM
+	tb_transfers
+UNION ALL
+SELECT
+	deposit_id as statement_id,
+	"deposit" as type,
+	deposit_value as statement_value,
+	wallet_id as wallet_receiver,
+	"" as wallet_sender
+	deposit_date_time as statement_date_time
+FROM
+	tb_deposits			
+)
+```
+- Agora vamos criar outra constante para a nossa *query* de *count*
+```java
+String SQL_COUNT_STATEMENT = """ 
+	SELECT COUNT(*) FROM 
+	(
+	""" + SQL_STATEMENT + """
+	) as total
+""";
+```
+- E agora passamos essa *query* para o nosso *countQuery*
+```java
+@Query(value = SQL_STATEMENT, countQuery = SQL_COUNT_STATEMENT, nativeQuery = true)
+Page<StatementView> findStatements(UUID walletId, PageRequest pageRequest);
+```
