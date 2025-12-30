@@ -14,6 +14,7 @@ public boolean deleteById(Long userId) {
 	
 	if(exists) {
 		userRepository.deleteById(userId);
+		return true;
 	}
 	
 	return false;

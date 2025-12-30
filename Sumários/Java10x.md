@@ -24,3 +24,8 @@ ___
 4. [[JWT - Implementando token]]
 5. [[Exceptions - Refatorando o projeto]]
 6. [[Swagger - Documentando a aplicação]]
+
+### QuickShop Ecommerce
+1. [[Configuração do projeto, docker compose, Mongo e Redis]]
+2. [[Conexão com API externa]]
+3. 

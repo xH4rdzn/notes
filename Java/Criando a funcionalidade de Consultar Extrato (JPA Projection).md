@@ -146,3 +146,18 @@ String SQL_COUNT_STATEMENT = """
 @Query(value = SQL_STATEMENT, countQuery = SQL_COUNT_STATEMENT, nativeQuery = true)
 Page<StatementView> findStatements(UUID walletId, PageRequest pageRequest);
 ```
+
+### Criando a API de extrato
+- Dentro do nosso *WalletController*, vamos criar mais um endpoint:
+```java
+@GetMapping("/{walletId}/statements")
+public ResponseEntity<StatementDTO> getStatements(@PathVariable("walletId") UUID walletId, @RequestParam(name = "page", defaultValue = 0) Integer page, @RequestParam(name = "pageSize", defaultValue = 0) Integer pageSize) {
+	var statement = walletService.getStatements(walletId, page, pageSize);
+	
+	return ResponseEntity.ok(statement).build();
+}
+```
+- Agora vamos criar o nosso `StatementDTO`
+```java
+public record StatementDTO() {}
+```

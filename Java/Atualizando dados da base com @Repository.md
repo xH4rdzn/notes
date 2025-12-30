@@ -3,7 +3,7 @@ ___
 - Para fazermos isso podemos seguir como no exemplo abaixo:
 ```java
 @PutMapping(path = "/{userId}")
-public ResponseEntity<Void> updateUser(@PathVariable("userId") Loong userId,
+public ResponseEntity<Void> updateUser(@PathVariable("userId") Long userId,
 			@RequestBody UpdateUserDTO dto) {
 
 		userService.updateById(userId, dto);
@@ -14,7 +14,7 @@ public ResponseEntity<Void> updateUser(@PathVariable("userId") Loong userId,
 ```java
 public Optional<UserEntity> updateById(Long userId, UpdateUserDTO dto) {
 
-	var user userRepository.findById(userId)
+	var user = userRepository.findById(userId)
 	
 	if (user.isPresent()) {
 		// Código
