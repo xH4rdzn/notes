@@ -28,4 +28,6 @@ ___
 ### QuickShop Ecommerce
 1. [[Configuração do projeto, docker compose, Mongo e Redis]]
 2. [[Conexão com API externa]]
-3. 
+3. [[Redis - Caching de dados externos]]
+4. [[Mock de ending points]]
+5. 

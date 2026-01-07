@@ -53,7 +53,9 @@ ___
 14. [[Criando a funcionalidade de Depositar Dinheiro @Transactional]]
 15. [[Criando a funcionalidade de Realizar transferência (ACID)]]
 16. [[Criando a funcionalidade de Consultar Extrato (JPA Projection)]]
-17. 
 
+### Spring Data MongoDB + Serviços Externos
+1. [[Iniciando o projeto Smart Stock]]
+2. 
 
 

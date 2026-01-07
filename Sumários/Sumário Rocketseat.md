@@ -637,6 +637,17 @@ ___
 
 ## Node
 
+##### Primeiros passos com o Node.js
+1. [[Criando um projeto Node.js]]
+2. [[node --watch]]
+3. [[Rotas de criação e listagem (Métodos HTTP)]]
+4. [[Salvando usuários em memória (Headers)]]
+5. [[Conhecendo HTTP status codes]]
+6. [[Entendendo Streams no Node]]
+7. [[Criando stream de leitura]]
+8. [[Stream de escrita e transformação]]
+9. [[Aplicando Streams no módulo HTTP]]
+10. 
 ##### Criando API REST com Node.js
 250. [[Entendendo o Typescript]]
 251. [[Criando aplicação]]
@@ -742,7 +753,10 @@ ___
 8. [[Role Prompting]]
 9. [[Ancoragem de memória]]
 10. [[Cadeia de pensamento]]
-11. 
+11. [[Prompt de dois passos]]
+12. [[Empilhamento de Prompts (Prompt Layering)]]
+13. [[Autoconsistência (Self-Consistency)]]
+14. [[Prompt iterativo (Iterative Prompting)]]
 
 ## Desafio Full-Stack com IA - Webhook Inspector
 1. [[Backend com Fastify e PostgreSQL]]

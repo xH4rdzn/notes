@@ -159,5 +159,66 @@ public ResponseEntity<StatementDTO> getStatements(@PathVariable("walletId") UUID
 ```
 - Agora vamos criar o nosso `StatementDTO`
 ```java
-public record StatementDTO() {}
+public record StatementDTO(WalletDTO wallet,
+List<StatementItemDTO> statements, PaginationDTO pagination) {}
+```
+- Agora em nosso `WalletDTO`, vamos criar o seguinte:
+```java
+public record WalletDTO(UUID walletId, String cpf, String name, String email, BigDecimal balance) {}
+```
+- Agora em nosso `StatementItemDTO`, vamos criar da seguinte maneira:
+```java
+public record StatementItemDTO(String statementId, String type, String literal, BigDecimal value, LocalDateTime datetime, StatementOperation operation) {}
+```
+- O `StatementOperation`, vamos criar um enum:
+```java
+public enum StatementOperation {
+	
+	CREDIT, DEBIT
+	
+}
+```
+- E o nosso `PaginationDTO`, criamos da seguinte maneira:
+```java
+public record PaginationDTO(Integer page, Integer pageSize, Long totalElements, Integer totalPages) {}
+```
+- Agora voltamos a nossa controller, e fazemos a importação do `StatementDTO`.
+- Agora vamos implementar a lógica em nossa *Service*
+```java
+public StatementDTO getStatements(UUID walletId, Integer page, Integer pageSize) {
+	
+	walletRepository.findById(walletId)
+		.orElseThrow(() -> new WalletNotFoundException("There is no wallet with this id"));
+		
+	var pageRequest = PageRequest.of(page, pageSize, Sort.Direction.DESC, "statement_date_time");	
+	
+	
+	var statements = walletRepository.findStatements(walletId, pageRequest)
+	.map(view -> mapToDTO(walletId, view));
+	
+	return new StatementDTO(
+		new WalletDTO(wallet.getWalletId(), wallet.getCpf(), wallet.getName(), wallet.getEmail(), wallet.getBalance()),
+		null,
+		new PaginationDTO(statements.getNumber(), statements.getSize(), staatements.getTotalElements(), statements.getTotalPages())
+	);
+}
+
+
+// Método mapToDTO
+private StatementItemDTO mapToDTO(UUID walletId, StatementView view) {
+	
+	
+	if(view.getType().equalsIgnoreCase("deposit")) {
+		return new StatementItemDTO(
+			view.getStatementId(),
+			view.getType(),
+			"money Deposit",
+			view.getStatementValue(),
+			view.getStatementDateTime(),
+			StatementOperation.CREDIT
+		)
+	}
+	
+	
+}
 ```
