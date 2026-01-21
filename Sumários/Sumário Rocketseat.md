@@ -658,7 +658,10 @@ ___
 18. [[Criando regex dos parâmetros]]
 19. [[Rotas com parâmetros (RegEx)]]
 20. [[Remoção de registros]]
-21. 
+21. [[Atualização de registros]]
+22. [[Capturando query parameters]]
+23. [[Filtrando lista do banco de dados]]
+
 ##### Criando API REST com Node.js
 250. [[Entendendo o Typescript]]
 251. [[Criando aplicação]]
