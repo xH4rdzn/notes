@@ -647,7 +647,18 @@ ___
 7. [[Criando stream de leitura]]
 8. [[Stream de escrita e transformação]]
 9. [[Aplicando Streams no módulo HTTP]]
-10. 
+10. [[Consumindo uma stream completo]]
+11. [[Corpo da requisição em JSON (Stream e Buffers)]]
+12. [[Criando middleware de JSON]]
+13. [[Criando banco de dados JSON]]
+14. [[Persistindo banco de dados]]
+15. [[Criando ID único e universal (UUID)]]
+16. [[Seperando rotas da aplicação]]
+17. [[Route e Query parameters]]
+18. [[Criando regex dos parâmetros]]
+19. [[Rotas com parâmetros (RegEx)]]
+20. [[Remoção de registros]]
+21. 
 ##### Criando API REST com Node.js
 250. [[Entendendo o Typescript]]
 251. [[Criando aplicação]]
