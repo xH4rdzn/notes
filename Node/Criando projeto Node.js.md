@@ -47,3 +47,32 @@ build
 	"build": "tsup src --out-dir build",
 }
 ```
+
+
+## 6️⃣ Conferir se deu certo
+
+Depois de entrar:
+
+`uname -r`
+
+Resultado esperado:
+
+`6.14.0-32-generic`
+
+---
+
+## 7️⃣ Tornar esse kernel o padrão (opcional, mas recomendado)
+
+Se tudo funcionou bem:
+
+`sudo nano /etc/default/grub`
+
+Altere:
+
+`GRUB_DEFAULT=saved GRUB_SAVEDEFAULT=true`
+
+Depois:
+
+`sudo update-grub`
+
+Agora o Zorin sempre inicia no **6.14.0-32** 🚀

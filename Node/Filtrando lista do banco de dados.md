@@ -28,3 +28,19 @@ select(table, search) {
 	}
 }
 ```
+- Se tivermos mais de um parâmetro para filtro, podemos fazer a validação da seguinte maneira:
+```js
+const { title, description } = req.query
+
+let filters = null
+
+if (title || description) {
+	filters = {}
+	
+	if (title) filters.title = title
+	if (description) filters.description = description
+}
+
+const tasks = database.select('tasks', filters)
+```
+- Dessa maneira, funciona sem os filtros, passando apenas um deles ou passando os dois filtros.
