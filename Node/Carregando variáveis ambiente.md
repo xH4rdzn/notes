@@ -26,7 +26,12 @@ const envSchema = z.object({
 const _env = envSchema.safeParse(process.env)
 
 if(_env.sucess === false) {
-	console.error('Variáveis ambiente inválidas', _env.error.format())
+	console.error('Variáveis ambiente inválidas')
+	
+	_env.error.issues.forEach(issue => {
+	    console.error(`Variável: ${issue.path} : ${issue.message}`)
+	})
+	
 	throw new Error('Variáveis ambiente inválidas')
 }
 
