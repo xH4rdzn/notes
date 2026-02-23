@@ -30,3 +30,7 @@ ___
 4. [[Tópicos de matemática]]
 5. [[Estatística e probabilidade]]
 6. [[Criptografia, assinatura digital e certificados digitais]]
+
+## Banco de dados Relacional
+1. [[Fundamentos de Banco de Dados]]
+2. 
